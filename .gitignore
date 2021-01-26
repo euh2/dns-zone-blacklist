@@ -3,4 +3,4 @@ node_modules
 custom.formats.json
 custom.variants.json
 package-lock.json
-.cpuprofile
+*.cpuprofile

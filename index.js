@@ -16,6 +16,7 @@ class Blacklist {
     this.baseURL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/'
     this.baseURLFile = 'hosts'
     this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blocklists/master/pub'
+    this.pubDataAll = []
 
     const custom_formats = './custom.formats.json'
     let formats = [
@@ -38,28 +39,28 @@ class Blacklist {
         type: 'dnsmasq',
         filename: 'dnsmasq.blacklist',
         response: "0.0.0.0",
-        enabled: true,
+        enabled: false,
         template: 'address=/<%= host %>/0.0.0.0'
       },
       {
         type: 'dnsmasq',
         filename: 'dnsmasq-server.blacklist',
         response: "NXDOMAIN",
-        enabled: true,
+        enabled: false,
         template: 'server=/<%= host %>/'
       },
       {
         type: 'unbound',
         filename: 'unbound.blacklist',
         response: "0.0.0.0",
-        enabled: true,
+        enabled: false,
         template: 'local-zone: "<%= host %>" redirect\nlocal-data: "<%= host %> A 0.0.0.0"'
       },
       {
         type: 'unbound',
         filename: 'unbound-nxdomain.blacklist',
         response: "NXDOMAIN",
-        enabled: true,
+        enabled: false,
         template: 'local-zone: "<%= host %>" always_nxdomain'
       }
     ]
@@ -103,8 +104,9 @@ class Blacklist {
   write_zonefiles(variant, blacklist) {
     return new Promise((resolve, reject) => {
       // Build a zonefile for each enabled format type
+      let pubData = []
+      console.log(`\nWrite Zone Files for "${variant}" variant ...`)
       this.formats.forEach((format) => {
-        console.log(`\nWrite Zone Files for "${variant}" variant ...`)
         let zoneFile = blacklist.map(x => ejs.render(format.template, {host: x})).join('\n')
 
         if (format.header) {
@@ -122,42 +124,39 @@ class Blacklist {
         let dest_rel = `pub/${variant}/${format.type}/${format.filename}`
         let dest = path.resolve(__dirname, dest_rel )
 
-        try {
-          fs.writeFileSync(`${dest}.checksum`, sha256)
-          console.log(`${variant}: ${format.filename} checksum is ${sha256}`)
+        fs.writeFileSync(`${dest}.checksum`, sha256)
+        console.log(`${variant}, ${format.type}: ${format.filename} checksum is ${sha256}`)
 
-          fs.writeFileSync(`${dest}`, zoneFile)
-          console.log(`${variant}: ${blacklist.length} Zones saved to ${dest_rel}`)
+        fs.writeFileSync(`${dest}`, zoneFile)
+        console.log(`${variant}, ${format.type}: ${blacklist.length} Zones saved to ${dest_rel}`)
 
-          let variForm = `${variant}-${format.filename}`
-          let urlZoneFile = `${this.pubURL}/${variant}/${format.type}/${format.filename}`
-          let server = format.type.charAt(0).toUpperCase() + format.type.slice(1)
-          // Object.defineProperty(this.enabled_variants, variForm, 
-          const pubData =
-            { 'variant': variant,
-              'variform': variForm,
-              'filename': format.filename,
-              'server': server,
-              'url': urlZoneFile,
-              'checksum': urlZoneFile + '.checksum',
-              'hosts': this.readmeDataJSON[variant].entries.toLocaleString(),
-              'zones': blacklist.length.toLocaleString(),
-              'response': format.response
-            }
-          resolve(pubData)
-        } catch (err) {
-          console.error(err)
-        }
+        let sortOrder = `${variant}-${format.type}-${format.filename}`
+        let urlZoneFile = `${this.pubURL}/${variant}/${format.type}/${format.filename}`
+        let server = format.type.charAt(0).toUpperCase() + format.type.slice(1)
+
+        this.pubDataAll.push( 
+          { 'variant': variant,
+            'sortBy': sortOrder,
+            'filename': format.filename,
+            'server': server,
+            'url': urlZoneFile,
+            'checksum': urlZoneFile + '.checksum',
+            'hosts': this.readmeDataJSON[variant].entries.toLocaleString(),
+            'zones': blacklist.length.toLocaleString(),
+            'response': format.response
+          }
+        )
       })
+      resolve()
       .catch(error  => reject(error))
     })
   }
-  update_readme(pubDataAll) {
+  update_readme() {
     let readmeTemplatePub = fs.readFileSync(path.resolve(__dirname, 'pub/README.template.md'), 'utf8')
     let readmePub = ejs.render(readmeTemplatePub, {
-      variants: pubDataAll.sort(function(a, b) {
-        var nameA = a.variant.toUpperCase(); // ignore upper and lowercase
-        var nameB = b.variant.toUpperCase(); // ignore upper and lowercase
+      variants: this.pubDataAll.sort(function(a, b) {
+        var nameA = a.sortBy.toUpperCase(); // ignore upper and lowercase
+        var nameB = b.sortBy.toUpperCase(); // ignore upper and lowercase
         if (nameA < nameB) {
           return -1;
         }
@@ -206,7 +205,7 @@ class Blacklist {
             }
           }
         } else {
-          s = enabled_variants
+          s = ` ${enabled_variants}`
         }
         return s
       }
@@ -241,23 +240,28 @@ class Blacklist {
         w
       }
 
-      let pubDataAll = []
+      let pubDataAll = {}
       const doneWork = new Promise( async (resolve) => {
         // await every single worker promise, then write zone files (formats)
         for (let i of workerList) {
           await i
-          .then( res => {
-            this.write_zonefiles(res.variant, res.data)
-              .then( pubData => pubDataAll.push(pubData))
+          .then( async (res) => {
+            await this.write_zonefiles(res.variant, res.data)
+              // .then( pubData => {
+              //   for (const [key, value] of pubData) {
+              //     Object.defineProperty(pubDataAll, key, value)
+              //   }
+              // })
           })
         }
-        resolve(pubDataAll)
+        (resolve())
       })
 
-      doneWork
-        .then( res => {
-          this.update_readme(res)
+      await doneWork
+        .then( () => {
+          this.update_readme()
         })
+        // .then(this.update_readme())
         .then( () => {
           const hrend = process.hrtime(hrstart)
           const minutes = Math.floor(hrend[0] / 60)
