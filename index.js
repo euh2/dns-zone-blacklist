@@ -17,62 +17,64 @@ class Blacklist {
     this.baseURLFile = 'hosts'
     this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blocklists/master/pub'
 
-    // check for custom.formats file
     const custom_formats = './custom.formats.json'
-    fs.access(custom_formats, fs.F_OK, (nofile) => {
-      if (nofile) {
-        // file does not exist
-        // console.log(`Using default formats, no ${custom_formats} file found.`)
-        const formats = [
-          {
-            type: 'bind',
-            filename: 'zones.blacklist',
-            response: "0.0.0.0",
-            enabled: true,
-            template: 'zone "<%= host %>" { type master; notify no; file "null.zone.file"; };'
-          },
-          {
-            type: 'bind',
-            filename: 'bind-nxdomain.blacklist',
-            response: "NXDOMAIN",
-            enabled: true,
-            template: '<%= host %> CNAME .\n*.<%= host %> CNAME .',
-            header: `$TTL 60\n@ IN SOA localhost. dns-zone-blacklist. (2 3H 1H 1W 1H)\ndns-zone-blacklist. IN NS localhost.`
-          },
-          {
-            type: 'dnsmasq',
-            filename: 'dnsmasq.blacklist',
-            response: "0.0.0.0",
-            enabled: true,
-            template: 'address=/<%= host %>/0.0.0.0'
-          },
-          {
-            type: 'dnsmasq',
-            filename: 'dnsmasq-server.blacklist',
-            response: "NXDOMAIN",
-            enabled: true,
-            template: 'server=/<%= host %>/'
-          },
-          {
-            type: 'unbound',
-            filename: 'unbound.blacklist',
-            response: "0.0.0.0",
-            enabled: true,
-            template: 'local-zone: "<%= host %>" redirect\nlocal-data: "<%= host %> A 0.0.0.0"'
-          },
-          {
-            type: 'unbound',
-            filename: 'unbound-nxdomain.blacklist',
-            response: "NXDOMAIN",
-            enabled: true,
-            template: 'local-zone: "<%= host %>" always_nxdomain'
-          }
-        ]
-        this.formats = formats.filter( (obj) => {return (obj.enabled)})
+    let formats = [
+      {
+        type: 'bind',
+        filename: 'zones.blacklist',
+        response: "0.0.0.0",
+        enabled: true,
+        template: 'zone "<%= host %>" { type master; notify no; file "null.zone.file"; };'
+      },
+      {
+        type: 'bind',
+        filename: 'bind-nxdomain.blacklist',
+        response: "NXDOMAIN",
+        enabled: true,
+        template: '<%= host %> CNAME .\n*.<%= host %> CNAME .',
+        header: `$TTL 60\n@ IN SOA localhost. dns-zone-blacklist. (2 3H 1H 1W 1H)\ndns-zone-blacklist. IN NS localhost.`
+      },
+      {
+        type: 'dnsmasq',
+        filename: 'dnsmasq.blacklist',
+        response: "0.0.0.0",
+        enabled: true,
+        template: 'address=/<%= host %>/0.0.0.0'
+      },
+      {
+        type: 'dnsmasq',
+        filename: 'dnsmasq-server.blacklist',
+        response: "NXDOMAIN",
+        enabled: true,
+        template: 'server=/<%= host %>/'
+      },
+      {
+        type: 'unbound',
+        filename: 'unbound.blacklist',
+        response: "0.0.0.0",
+        enabled: true,
+        template: 'local-zone: "<%= host %>" redirect\nlocal-data: "<%= host %> A 0.0.0.0"'
+      },
+      {
+        type: 'unbound',
+        filename: 'unbound-nxdomain.blacklist',
+        response: "NXDOMAIN",
+        enabled: true,
+        template: 'local-zone: "<%= host %>" always_nxdomain'
+      }
+    ]
+
+    // check for custom.formats file
+    fs.readFile(custom_formats, (err, data) => {
+      if (err) {
+        if(err.code === 'ENOENT' ){
+          this.formats = formats.filter( (obj) => {return (obj.enabled)})
+          return
+        }
+        throw err
       }
       //file exists
-      let file =  fs.readFileSync(custom_formats)
-      const formats = JSON.parse(file); 
+      formats = JSON.parse(data); 
       this.formats = formats.filter( (obj) => {return (obj.enabled)})
     })
   }
