@@ -39,28 +39,28 @@ class Blacklist {
         type: 'dnsmasq',
         filename: 'dnsmasq.blacklist',
         response: "0.0.0.0",
-        enabled: false,
+        enabled: true,
         template: 'address=/<%= host %>/0.0.0.0'
       },
       {
         type: 'dnsmasq',
         filename: 'dnsmasq-server.blacklist',
         response: "NXDOMAIN",
-        enabled: false,
+        enabled: true,
         template: 'server=/<%= host %>/'
       },
       {
         type: 'unbound',
         filename: 'unbound.blacklist',
         response: "0.0.0.0",
-        enabled: false,
+        enabled: true,
         template: 'local-zone: "<%= host %>" redirect\nlocal-data: "<%= host %> A 0.0.0.0"'
       },
       {
         type: 'unbound',
         filename: 'unbound-nxdomain.blacklist',
         response: "NXDOMAIN",
-        enabled: false,
+        enabled: true,
         template: 'local-zone: "<%= host %>" always_nxdomain'
       }
     ]
