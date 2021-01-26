@@ -2,13 +2,44 @@ kind: pipeline
 type: docker
 name: build-zone-files
 
+clone:
+  disable: true
+
 steps:
+- name: clone
+  image: alpine/git
+  environment:
+    SSH_KEY:
+      from_secret: SSH_KEY
+    GITHUB_HOST_KEY:
+      from_secret: GITHUB_HOST_KEY
+  commands:
+  - install -d ~/.ssh -m 0600
+  - printenv GITHUB_HOST_KEY > ~/.ssh/known_hosts
+  - printenv SSH_KEY | ssh-agent sh -c "ssh-add - && git clone $DRONE_GIT_SSH_URL ."
+  - git checkout $DRONE_COMMIT -b $DRONE_BRANCH
+
 - name: build
   image: node
   commands:
   - npm install
-  - npm build
+  - npm run build
+
+- name: push
+  image: alpine/git
+  environment:
+    SSH_KEY:
+      from_secret: SSH_KEY
+    GITHUB_HOST_KEY:
+      from_secret: GITHUB_HOST_KEY
+  commands:
+  - install -d ~/.ssh -m 0600
+  - printenv GITHUB_HOST_KEY > ~/.ssh/known_hosts
+  - git add . && git commit -m "CI Build"
+  - printenv SSH_KEY | ssh-agent sh -c "ssh-add - && git push push --set-upstream origin $DRONE_BRANCH"
 
 trigger:
   branch:
   - choose-variants-and-formats
+
+
