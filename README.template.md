@@ -1,23 +1,18 @@
-[![Travis branch](https://img.shields.io/travis/oznu/dns-zone-blacklist/master.svg)](https://travis-ci.org/oznu/dns-zone-blacklist)
+[![Build Status](https://cloud.drone.io/api/badges/euh2/dns-blacklists/status.svg)](https://cloud.drone.io/euh2/dns-blacklists)
 
 # DNS Zone Blacklist Generator
 
-This project generates a zone file for [BIND](https://en.wikipedia.org/wiki/BIND), [Dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) and [Unbound](https://en.wikipedia.org/wiki/Unbound_(DNS_server)) DNS servers using data from the [StevenBlack/hosts](https://github.com/StevenBlack/hosts) project. The generated zone files can be used to block ads and malware for an entire network when used with a local DNS server.
+This project started as a fork of [oznu's DNS Zone Blacklist Generator](https://github.com/oznu/dns-zone-blacklist). It has some added functionality, like the option to customize the generated output format of Zone Files and the ability to select a custom [Blacklist Variant](https://github.com/StevenBlack/hosts#list-of-all-hosts-file-variants).
 
-DNS based ad blockers can support wildcard entries. This tool filters out any subdomains of known adware or malware domains, reducing the number of zone entries required from **<%= hosts %>** down to **<%= zones %>**.
+This tool generates Zone Files for [BIND](https://en.wikipedia.org/wiki/BIND), [Dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) and [Unbound](https://en.wikipedia.org/wiki/Unbound_(DNS_server)) DNS servers using data from the [StevenBlack/hosts](https://github.com/StevenBlack/hosts) project. The generated zone files can be used to block Ads and Malware for an entire Network when used with a local DNS Server.
 
-| DNS Server | Response Type | Download  | SHA256 Checksum |
-| ---------- |:-------------:|:---------:|:---------------:|
-| BIND | 0.0.0.0 | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/bind/zones.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/bind/zones.blacklist.checksum) |
-| BIND (RPZ) | NXDOMAIN | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/bind/bind-nxdomain.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/bind/bind-nxdomain.blacklist.checksum) |
-| Dnsmasq | 0.0.0.0 | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/dnsmasq/dnsmasq.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/dnsmasq/dnsmasq.blacklist.checksum) |
-| Dnsmasq | NXDOMAIN | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/dnsmasq/dnsmasq-server.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/dnsmasq/dnsmasq-server.blacklist.checksum) |
-| Unbound | 0.0.0.0 | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound.blacklist.checksum) |
-| Unbound | NXDOMAIN | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound-nxdomain.blacklist) | [link](https://raw.githubusercontent.com/oznu/dns-zone-blacklist/master/unbound/unbound-nxdomain.blacklist.checksum) |
+## Blacklist Variants
+
+In the subfolder `./pub` you find all generated [Blacklist Variants](pub/).
 
 ## Blacklist Updates
 
-The blacklists are updated every 24 hours with the latest data from [StevenBlack/hosts](https://github.com/StevenBlack/hosts). The builds logs are publicly available on [Travis CI](https://travis-ci.org/oznu/dns-zone-blacklist) and each zone file is tested to be valid before publishing.
+The blacklists are updated every 24 hours with the latest data from [StevenBlack/hosts](https://github.com/StevenBlack/hosts). 
 
 ## Building the Blacklist
 
@@ -26,8 +21,8 @@ The blacklist can be generated using [Node.js 8.4.0](https://nodejs.org) or late
 Install:
 
 ```
-git clone https://github.com/oznu/dns-zone-blacklist.git
-cd dns-zone-blacklist
+git clone https://github.com/euh2/dns-blacklists.git
+cd dns-blacklists
 
 npm install
 ```
@@ -35,10 +30,13 @@ npm install
 Then build:
 
 ```
-node build.js
+node index.js
 ```
 
-The compiled blacklist files will be saved to the `./bind`, `./dnsmasq` and `./unbound` a directories in the root of the project.
+The compiled blacklist files will be saved to the `./pub/<variant>/bind`, `./pub/<variant>/dnsmasq` and `./pub/<variant>/unbound` directories in the root of the project.
+
+## Customizing
+*Just remember to use valid [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON).*
 
 ### Custom Entries
 
@@ -47,3 +45,11 @@ Custom entries can be added to the custom.blacklist.json file in the root of thi
 ### Whitelist
 
 Any domains you wish to exclude from the blacklist can be added to the custom.whitelist.json file in the root of this project before building.
+
+### Custom Formats
+
+You can copy `./custom.formats.json.example` to `./custom.formats.json` and customize formats or enable/disable formats before running `node index.js`.
+
+### Custom Variants
+
+To adjust which Variants from [StevenBlack/hosts](https://github.com/StevenBlack/hosts) are build, copy `./custom.variants.json.example` to `./custom.variants.json` and edit the list `chosen` to your liking.

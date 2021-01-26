@@ -1,6 +1,5 @@
 node_modules
-.travis-ci/deploy.key
-.travis-ci/deploy.key.pub
-travis-build-dir
-yarn-error.log
-yarn.lock
+.vscode
+custom.formats.json
+custom.variants.json
+package-lock.json

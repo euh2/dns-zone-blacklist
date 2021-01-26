@@ -1,0 +1,10 @@
+kind: pipeline
+type: kubernetes
+name: build-zone-files
+
+steps:
+- name: build
+  image: node
+  commands:
+  - npm install
+  - npm build

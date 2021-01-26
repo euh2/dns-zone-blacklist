@@ -1,16 +1,17 @@
 {
-  "name": "dns-zone-blacklist",
-  "version": "2.0.0",
-  "description": "A tool to convert host file data to bind and dnsmasq dns entries for use with oznu/dns-ad-blocker.",
+  "name": "dns-blacklists",
+  "version": "0.2.2",
+  "description": "A tool to convert hosts Files to Bind, Dnsmasq and/or Unbound DNS Entries/Zone Files for use with DNS Blacklists.",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./index.js"
   },
-  "author": "oznu <dev@oz.nu>",
+  "author": "euh2",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.0"
   }
 }
