@@ -16,7 +16,7 @@ steps:
   commands:
   - install -d ~/.ssh -m 0600
   - printenv GITHUB_HOST_KEY > ~/.ssh/known_hosts
-  - printenv SSH_KEY | ssh-agent sh -c "ssh-add - && git clone $DRONE_GIT_SSH_URL ."
+  - printenv SSH_KEY | ssh-agent sh -c "ssh-add -q - && git clone $DRONE_GIT_SSH_URL ."
   - git checkout $DRONE_COMMIT -b $DRONE_BRANCH
 
 - name: build
@@ -36,7 +36,7 @@ steps:
   - install -d ~/.ssh -m 0600
   - printenv GITHUB_HOST_KEY > ~/.ssh/known_hosts
   - git add . && git commit -m "CI Build"
-  - printenv SSH_KEY | ssh-agent sh -c "ssh-add - && git push push --set-upstream origin $DRONE_BRANCH"
+  - printenv SSH_KEY | ssh-agent sh -c "ssh-add -q - && git push --set-upstream origin $DRONE_BRANCH"
 
 trigger:
   branch:
