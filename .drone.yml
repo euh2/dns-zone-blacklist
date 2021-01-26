@@ -39,7 +39,7 @@ steps:
   - printenv SSH_KEY | ssh-agent sh -c "ssh-add -q - && git push --set-upstream origin $DRONE_BRANCH"
 
 trigger:
-  branch:
-  - choose-variants-and-formats
-
-
+  event:
+  - cron
+  cron:
+  - nightly
