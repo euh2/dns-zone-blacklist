@@ -15,7 +15,7 @@ class Blacklist {
     this.readmeDataURL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/readmeData.json'
     this.baseURL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/'
     this.baseURLFile = 'hosts'
-    this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blocklists/master/pub'
+    this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blacklists/master/pub'
     this.pubDataAll = []
 
     const custom_formats = './custom.formats.json'
