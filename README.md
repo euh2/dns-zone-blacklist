@@ -1,4 +1,4 @@
-[![Build Status](https://cloud.drone.io/api/badges/euh2/dns-blacklists/status.svg)](https://cloud.drone.io/euh2/dns-blacklists)
+![CI](https://github.com/euh2/dns-blacklists/workflows/CI/badge.svg)
 
 # DNS Zone Blacklist Generator
 
