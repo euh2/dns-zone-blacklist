@@ -1,5 +1,5 @@
 kind: pipeline
-type: kubernetes
+type: docker
 name: build-zone-files
 
 steps:
@@ -8,3 +8,7 @@ steps:
   commands:
   - npm install
   - npm build
+
+trigger:
+  branch:
+  - choose-variants-and-formats
