@@ -1,0 +1,26 @@
+name: Get latest release version
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+jobs:
+  get-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Fetch release version
+        run: |
+          curl -sL https://api.github.com/repos/StevenBlack/hosts/releases/latest | \
+          jq -r ".tag_name" > .latest-upstream-release.txt
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+      - name: Commit latest release version
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+          git config --global user.name '${{ github.event.schedule.user.login }}'
+          git config --global user.email '${{ github.event.schedule.user.login }}@users.noreply.github.com'
+          git commit -am "StevenBlack/hosts Release `cat .latest-upstream-release.txt`"
+          git push
+
