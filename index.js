@@ -155,8 +155,8 @@ class Blacklist {
     let readmeTemplatePub = fs.readFileSync(path.resolve(__dirname, 'pub/README.template.md'), 'utf8')
     let readmePub = ejs.render(readmeTemplatePub, {
       variants: this.pubDataAll.sort(function(a, b) {
-        var variantA = a.sortBy.toUpperCase(); 
-        var variantB = b.sortBy.toUpperCase(); 
+        var variantA = a.variant.toUpperCase(); 
+        var variantB = b.variant.toUpperCase(); 
         var sortByA = a.sortBy.toUpperCase()
         var sortByB = b.sortBy.toUpperCase()
         //first sort by variant
