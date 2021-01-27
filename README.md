@@ -12,11 +12,11 @@ In the subfolder `./pub` you find all generated [Blacklist Variants](pub/).
 
 ## Blacklist Updates
 
-The blacklists are updated every 24 hours with the latest data from [StevenBlack/hosts](https://github.com/StevenBlack/hosts). 
+The Blacklists are updated shortly after new releases at [StevenBlack/hosts](https://github.com/StevenBlack/hosts). 
 
 ## Building the Blacklist
 
-The blacklist can be generated using [Node.js 8.4.0](https://nodejs.org) or later.
+The blacklist can be generated using [Node.js 12.0](https://nodejs.org) or later.
 
 Install:
 
