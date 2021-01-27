@@ -2,11 +2,11 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
-  schedule:
-  - cron: "42 2 * * *"
-
+  push:
+    paths:
+      - '.latest-upstream-release.txt'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -25,8 +25,8 @@ jobs:
         with:
           node-version: '12'
       - run: npm install
-      - run: npm run build 
-        
+      - run: npm run build
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           # Optional but recommended
@@ -57,16 +57,16 @@ jobs:
           #commit_user_email: my-github-actions-bot@example.org # defaults to "actions@github.com"
           commit_author: Actions Bot <actions@github.com> # defaults to author of the commit that triggered the run
 
-          # Optional tag message 
+          # Optional tag message
           # Action will create and push a new tag to the remote repository and the defined branch
           #tagging_message: 'v1.0.0'
 
           # Optional options appended to `git-push`
           # See git-push documentation for details: https://git-scm.com/docs/git-push#_options
           push_options: '--force'
-    
+
           # Optional: Disable dirty check and always try to create a commit and push
-          skip_dirty_check: true    
-    
+          skip_dirty_check: true
+
           # Optional: Skip internal call to `git fetch`
           skip_fetch: true
