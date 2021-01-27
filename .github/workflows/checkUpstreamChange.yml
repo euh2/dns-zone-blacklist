@@ -1,7 +1,7 @@
 name: Get latest release version
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '*/15 * * * *'
   workflow_dispatch:
 jobs:
   get-version:
@@ -20,8 +20,8 @@ jobs:
       - name: Commit latest release version
         if: steps.git-check.outputs.modified == 'true'
         run: |
-          git config --global user.name '${{ github.event.schedule.user.login }}'
-          git config --global user.email '${{ github.event.schedule.user.login }}@users.noreply.github.com'
+          git config --global user.name '${{ github.actor }}'
+          git config --global user.email '${{ github.actor }}@users.noreply.github.com'
           git commit -am "StevenBlack/hosts Release `cat .latest-upstream-release.txt`"
           git push
 
