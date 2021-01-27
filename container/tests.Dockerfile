@@ -5,7 +5,7 @@ RUN apt-get update && \
  jq curl bash bind9 bind9utils dnsmasq unbound
 
 RUN mkdir -p /pub
-COPY ../pub /pub
+COPY /pub /pub
 COPY container/tests tests
 RUN chmod +x /tests/dns-zone-blacklist-test.sh
 
