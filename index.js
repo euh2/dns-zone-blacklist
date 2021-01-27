@@ -130,7 +130,7 @@ class Blacklist {
         fs.writeFileSync(`${dest}`, zoneFile)
         console.log(`${variant}, ${format.type}: ${blacklist.length} Zones saved to ${dest_rel}`)
 
-        let sortOrder = `${variant}-${format.type}-${format.filename}`
+        let sortOrder = `${format.type}-${format.filename}`
         let urlZoneFile = `${this.pubURL}/${variant}/${format.type}/${format.filename}`
         let server = format.type.charAt(0).toUpperCase() + format.type.slice(1)
 
@@ -155,16 +155,26 @@ class Blacklist {
     let readmeTemplatePub = fs.readFileSync(path.resolve(__dirname, 'pub/README.template.md'), 'utf8')
     let readmePub = ejs.render(readmeTemplatePub, {
       variants: this.pubDataAll.sort(function(a, b) {
-        var nameA = a.sortBy.toUpperCase(); // ignore upper and lowercase
-        var nameB = b.sortBy.toUpperCase(); // ignore upper and lowercase
-        if (nameA < nameB) {
-          return -1;
+        var nameA = a.sortBy.toUpperCase(); 
+        var nameB = b.sortBy.toUpperCase(); 
+        var sortByA = a.sortBy.toUpperCase()
+        var sortByB = b.sortBy.toUpperCase()
+        //first sort by variant
+        if (variantA < variantB) {
+            return -1;
         }
-        if (nameA > nameB) {
-          return 1;
+        if (variantA > variantB) {
+            return 1;
+        }
+        // variant is equal
+        if (sortByA < sortByB) {
+            return -1;
+        }
+        if (sortByA > sortByB) {
+            return 1;
         }
 
-        // names must be equal
+        // all must be equal
         return 0;
       })
     })
