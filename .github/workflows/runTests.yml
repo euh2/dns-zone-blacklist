@@ -1,0 +1,24 @@
+name: Build Test Image
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build Test Image
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Buildah Action
+      uses: redhat-actions/buildah-build@v1
+      with:
+        image: test-zone-files
+        tag: ephemeral
+        dockerfiles: |
+          ./container/tests.Dockerfile
+        #build-args: |
+        #  some_arg=some_value
+    - name: Run Tests
+      run: podman run test-zone-files:ephemeral
+      
