@@ -1,4 +1,4 @@
-[![CI](https://github.com/euh2/dns-blacklists/workflows/CI/badge.svg)](#)  [![Tests](https://github.com/euh2/dns-blacklists/workflows/Tests/badge.svg)](#)
+[![CI](https://github.com/euh2/dns-blacklists/workflows/CI/badge.svg)](#readme)  [![Tests](https://github.com/euh2/dns-blacklists/workflows/Tests/badge.svg)](#readme)
 
 # DNS Zone Blacklist Generator
 
