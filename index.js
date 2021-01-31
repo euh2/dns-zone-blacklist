@@ -17,6 +17,10 @@ class Blacklist {
     this.baseURLFile = 'hosts'
     this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blacklists/master/pub'
     this.pubDataAll = []
+    this.zonefileSerial = () => {
+      const d = new Date()
+      return d.getTime()
+    } 
 
     const custom_formats = './custom.formats.json'
     let formats = [
@@ -33,7 +37,7 @@ class Blacklist {
         response: "NXDOMAIN",
         enabled: true,
         template: '<%= host %> CNAME .\n*.<%= host %> CNAME .',
-        header: `$TTL 60\n@ IN SOA localhost. dns-zone-blacklist. (2 3H 1H 1W 1H)\ndns-zone-blacklist. IN NS localhost.`,
+        header: `$TTL 60\n@ IN SOA localhost. dns-zone-blacklist. (<%= serial %> 3H 1H 1W 1H)\ndns-zone-blacklist. IN NS localhost.`,
         footer: `\n`
       },
       {
@@ -111,7 +115,8 @@ class Blacklist {
         let zoneFile = blacklist.map(x => ejs.render(format.template, {host: x})).join('\n')
 
         if (format.header) {
-          zoneFile = format.header + '\n\n' + zoneFile
+          // zoneFile = format.header + '\n\n' + zoneFile
+          zoneFile = ejs.render(format.header, {serial: this.zonefileSerial()}) + '\n\n' + zoneFile
         }
         if (format.footer) {
           zoneFile = zoneFile + format.footer
