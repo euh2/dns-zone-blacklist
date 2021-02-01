@@ -18,15 +18,16 @@ class Blacklist {
     this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blacklists/master/pub'
     this.pubDataAll = []
     this.zonefileSerial = () => {
-      const d = new Date()
-      const y = d.getUTCFullYear()
-      const m = d.getUTCMonth() + 1
-      const dd = d.getUTCDate()
-      const hh = d.getUTCHours()
-      const mm = d.getUTCMinutes()
-      const ss = d.getUTCSeconds()
-      const R = `${y}${m}${dd}${hh}${mm}${ss}`
-      console.log(R)
+      // start with fixed timestamp (2021-feb-01)
+      // and get hours
+      const backThen = 1612169858503 / 1000 / 60 /60
+      const rightNow = Date.now() / 1000 / 60 / 60
+      const timeGone = (rightNow - backThen)
+      // * 100 allows more frequent updates
+      // Bind Serial can have max 10 digit number
+      // So with this function we have to reset 
+      // the counter in around 10 000 years :)
+      const R = Math.round(timeGone * 100)
       return R
     } 
 
