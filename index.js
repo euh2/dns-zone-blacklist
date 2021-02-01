@@ -19,7 +19,15 @@ class Blacklist {
     this.pubDataAll = []
     this.zonefileSerial = () => {
       const d = new Date()
-      return d.getTime()
+      const y = d.getUTCFullYear()
+      const m = d.getUTCMonth() + 1
+      const dd = d.getUTCDate()
+      const hh = d.getUTCHours()
+      const mm = d.getUTCMinutes()
+      const ss = d.getUTCSeconds()
+      const R = `${y}${m}${dd}${hh}${mm}${ss}`
+      console.log(R)
+      return R
     } 
 
     const custom_formats = './custom.formats.json'
@@ -109,7 +117,7 @@ class Blacklist {
   write_zonefiles(variant, blacklist) {
     return new Promise((resolve, reject) => {
       // Build a zonefile for each enabled format type
-      let pubData = []
+      // let pubData = []
       console.log(`\nWrite Zone Files for "${variant}" variant ...`)
       this.formats.forEach((format) => {
         let zoneFile = blacklist.map(x => ejs.render(format.template, {host: x})).join('\n')
