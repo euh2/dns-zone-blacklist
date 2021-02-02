@@ -1,27 +1,31 @@
 name: Get latest release version
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '*/10 * * * *'
   workflow_dispatch:
 jobs:
-  get-version:
-    runs-on: ubuntu-latest
+  fetch-release:
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT }}
       - name: Fetch release version
+        id: fetch-release
         run: |
-          curl -sL https://api.github.com/repos/StevenBlack/hosts/releases/latest | \
-          jq -r ".tag_name" > .latest-upstream-release.txt
+          curl -sL -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/StevenBlack/hosts/releases/latest | \
+            jq "{upstream_tag_name:.tag_name,upstream_body:.body,upstream_published_at:.published_at,upstream_url:.html_url}" \
+            > .meta-data/latest-release.json
+          RELEASE=`cat .meta-data/latest-release.json | jq -r .upstream_tag_name`
+          echo "::set-output name=upstream_tag_name::$RELEASE"
       - name: Check for modified files
         id: git-check
         run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
       - name: Commit latest release version
         if: steps.git-check.outputs.modified == 'true'
         run: |
-          git config --global user.name '${{ github.actor }}'
+          git config --global user.name '${{ github.actor }} via Bot'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
-          git commit -am "StevenBlack/hosts Release `cat .latest-upstream-release.txt`"
+          git commit -am "StevenBlack/hosts Release ${{ steps.fetch-release.outputs.upstream_tag_name }}"
           git push
 
