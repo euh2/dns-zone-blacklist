@@ -8,9 +8,13 @@ on:
 
   workflow_dispatch:
 
+env:
+  # TODO: Change variable to your image's name.
+  IMAGE_NAME: dns-blacklists
+
 jobs:
-  build:
-    name: Build Image and run it
+  test:
+    name: Validate Zone Files
     runs-on: ubuntu-latest
 
     steps:
@@ -25,6 +29,8 @@ jobs:
           ./container/tests.Dockerfile
         #build-args: |
         #  some_arg=some_value
-    - name: Run Tests
+    - name: Validate Zone Files
       run: podman run test-zone-files:ephemeral
-      
+    - name: Check App Build
+      run: podman build . --file container/app.Dockerfile --tag $IMAGE_NAME
+     
