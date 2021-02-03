@@ -63,7 +63,7 @@ jobs:
         id: get-release-tags
         run: |
           BUILD_NO=`cat .meta-data/latest-release.json | jq '.local_build_no' || echo ""`
-          BUILD_NO=${$((BUILD_NO+1)):=1}
+          BUILD_NO=$((++BUILD_NO))
           UPSTREAM_RELEASE=`cat .meta-data/latest-release.json | jq '.upstream_tag_name'`
           UPSTREAM_BODY=`cat .meta-data/latest-release.json | jq '.upstream_body'`
           TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
