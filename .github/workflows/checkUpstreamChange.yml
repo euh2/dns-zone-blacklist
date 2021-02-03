@@ -26,6 +26,7 @@ jobs:
         run: |
           git config --global user.name '${{ github.actor }} via Bot'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+          git add .
           git commit -am "StevenBlack/hosts Release ${{ steps.fetch-release.outputs.upstream_tag_name }}"
           git push
 
