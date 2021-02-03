@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.3.10",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADhosts, HostsVN, and Badd-Boyz. (423cda56)\n* Issue #1522 add eu1-spiky.wzrkt.com. (26704e1b)",
-  "upstream_published_at": "2021-02-02T15:08:24Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.3.10"
+  "upstream_tag_name": "3.3.11",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADhosts, and AdAway. (3f7e0b6b)",
+  "upstream_published_at": "2021-02-03T18:45:41Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.3.11"
 }
