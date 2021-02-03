@@ -64,6 +64,8 @@ jobs:
           
           echo "::set-output name=urJSON::$ur"
           
+          set -x
+          
           BUILD_NO=`cat .meta-data/latest-release.json | jq -r '.local_build_no += 1' || echo "1"`
           UPSTREAM_RELEASE=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_tag_name'`
           TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
@@ -99,6 +101,7 @@ jobs:
           git commit -am "Release ${{ steps.get-release-tags.outputs.tag_name }}"
           git tag ${{ steps.get-release-tags.outputs.tag_name }}
           
+          git push
           git push origin --tags
 
       - name: Publish Release
