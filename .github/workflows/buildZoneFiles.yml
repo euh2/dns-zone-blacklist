@@ -4,6 +4,8 @@ on:
     paths:
       - '.meta-data/latest-release.json'
   workflow_dispatch:
+env:
+  IMAGE_NAME: ${{ github.repository }}
 jobs:
   build:
     name: Build Zone Files
