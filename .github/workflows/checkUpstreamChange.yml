@@ -15,8 +15,8 @@ jobs:
         run: |
           curl -sL -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/StevenBlack/hosts/releases/latest | \
             jq "{upstream_tag_name:.tag_name,upstream_body:.body,upstream_published_at:.published_at,upstream_url:.html_url}" \
-            > .meta-data/latest-release.json
-          RELEASE=`cat .meta-data/latest-release.json | jq -r .upstream_tag_name`
+            > .meta-data/latest-upstream-release.json
+          RELEASE=`cat .meta-data/latest-upstream-release.json | jq -r .upstream_tag_name`
           echo "::set-output name=upstream_tag_name::$RELEASE"
       - name: Check for modified files
         id: git-check
