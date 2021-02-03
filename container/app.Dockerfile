@@ -1,4 +1,4 @@
-FROM mirror.gcr.io/node:lts
+FROM node:lts
 
 WORKDIR /opt/dns-blacklists
 COPY *.json ./
