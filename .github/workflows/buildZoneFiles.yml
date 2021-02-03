@@ -27,14 +27,13 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '12'
-      - run: |
-          npm install
-          npm run build
+      - run: npm install
+      - run: npm build
 
   test:
     needs: [build]
     name: Validate Zone Files
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
     - uses: actions/checkout@v2
@@ -51,7 +50,7 @@ jobs:
     - name: Validate Zone Files
       run: podman run test-zone-files:ephemeral
     - name: Check App Build
-      run: podman build . --file container/app.Dockerfile --tag $IMAGE_NAME
+      run: podman build . --file container/app.Dockerfile --tag ${IMAGE_NAME:=dns-blacklists}
 
   publish:
     needs: [build,test]
