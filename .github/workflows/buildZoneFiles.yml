@@ -25,7 +25,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '12'
-        run: |
+      - run: |
           npm install
           npm run build
 
@@ -54,7 +54,7 @@ jobs:
   publish:
     needs: [build,test]
     name: Publish
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
 
       - name: Get Release Tags
@@ -63,11 +63,13 @@ jobs:
           BUILD_NO=`cat .meta-data/latest-release.json | jq '.local_build_no' || echo ""`
           BUILD_NO=${$((BUILD_NO+1)):=1}
           UPSTREAM_RELEASE=`cat .meta-data/latest-release.json | jq '.upstream_tag_name'`
+          UPSTREAM_BODY=`cat .meta-data/latest-release.json | jq '.upstream_body'`
           TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
           cat .meta-data/latest-release.json | jq '. + {"local_build_no": env.BUILD_NO,"local_tag_name":env.TAG_NAME}' \
             > .meta-data/latest-release.json
           echo "::set-output name=tag_name::$TAG_NAME"
           echo "::set-output name=upstream_tag_name::$UPSTREAM_RELEASE"
+          echo "::set-output name=upstream_body::$UPSTREAM_BODY"
         shell: bash
 
       - name: Check for modified files
@@ -80,7 +82,18 @@ jobs:
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
           git add .
           git commit -am "Release ${{ steps.get-release-tags.outputs.tag_name }}"
-          git tag v${{ steps.get-release-tags.outputs.tag_name }}
+          git tag ${{ steps.get-release-tags.outputs.tag_name }}
           git push --tags
 
-
+      - name: Publish Release
+        id: publish_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ steps.get-release-tags.outputs.tag_name }}
+          release_name: Release ${{ steps.get-release-tags.outputs.tag_name }}
+          body: |
+            ${{ steps.get-release-tags.outputs.tag_name }}
+          draft: false
+          prerelease: false
