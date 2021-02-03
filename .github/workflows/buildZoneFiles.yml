@@ -38,7 +38,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validate Zone Files
-        run: docker build --file container/test.Dockerfile -t test .
+        run: |
+          ls -la 
+          ls -la ../
+          docker build --file container/test.Dockerfile -t test .
       - run: docker run test
       - name: Check App Build
         run: docker build --file container/app.Dockerfile --tag ${IMAGE_NAME:=dns-blacklists} .
