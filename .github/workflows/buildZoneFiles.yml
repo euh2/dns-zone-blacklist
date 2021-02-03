@@ -32,25 +32,16 @@ jobs:
 
   test:
     needs: [build]
-    name: Validate Zone Files
+    name: Validate Build
     runs-on: ubuntu-18.04
 
     steps:
-    - uses: actions/checkout@v2
-
-    - name: Buildah Action
-      uses: redhat-actions/buildah-build@v1
-      with:
-        image: test-zone-files
-        tag: ephemeral
-        dockerfiles: |
-          ./container/tests.Dockerfile
-        #build-args: |
-        #  some_arg=some_value
-    - name: Validate Zone Files
-      run: podman run test-zone-files:ephemeral
-    - name: Check App Build
-      run: podman build . --file container/app.Dockerfile --tag ${IMAGE_NAME:=dns-blacklists}
+      - uses: actions/checkout@v2
+      - name: Validate Zone Files
+        run: docker build . --file container/test.Dockerfile -t test
+      - run: docker run test
+      - name: Check App Build
+        run: docker build . --file container/app.Dockerfile --tag ${IMAGE_NAME:=dns-blacklists}
 
   publish:
     needs: [build,test]
@@ -96,6 +87,6 @@ jobs:
           tag_name: ${{ steps.get-release-tags.outputs.tag_name }}
           release_name: Release ${{ steps.get-release-tags.outputs.tag_name }}
           body: |
-            ${{ steps.get-release-tags.outputs.tag_name }}
-          draft: false
+            ${{ steps.get-release-tags.outputs.upstream_body }}
+          draft: true
           prerelease: false
