@@ -1,8 +1,8 @@
 name: CI
 on:
-  push:
-    paths:
-      - '.meta-data/latest-release.json'
+  #push:
+   # paths:
+   #   - '.meta-data/latest-release.json'
   workflow_dispatch:
 env:
   IMAGE_NAME: ${{ github.repository }}
@@ -59,12 +59,12 @@ jobs:
           BUILD_NO=`cat .meta-data/latest-release.json | jq '.local_build_no' || echo ""`
           BUILD_NO=$((++BUILD_NO))
           UPSTREAM_RELEASE=`cat .meta-data/latest-release.json | jq -r '.upstream_tag_name'`
-          UPSTREAM_BODY=`cat .meta-data/latest-release.json | jq -r '.upstream_body'`
+          UPSTREAM_BODY=`cat .meta-data/latest-release.json | jq '.upstream_body'`
           UPSTREAM_URL=`cat .meta-data/latest-release.json | jq -r '.upstream_url'`
           UPSTREAM_TIME=`cat .meta-data/latest-release.json | jq -r '.upstream_published_at'`
           TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
           NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
-          MINUTES=`dateutils.ddiff $NOW $UPSTREAM_TIME -f '%M'`
+          MINUTES=`dateutils.ddiff $UPSTREAM_TIME $NOW -f '%M'`
           cat .meta-data/latest-release.json | jq '. + {"local_build_no": env.BUILD_NO,"local_tag_name":env.TAG_NAME}' \
             > .meta-data/latest-release.json
           echo "::set-output name=tag_name::$TAG_NAME"
