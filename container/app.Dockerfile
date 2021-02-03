@@ -1,8 +1,8 @@
 FROM node:lts
 
 WORKDIR /opt/dns-blacklists
-COPY *.json .
+COPY *.json ./
 COPY pub pub
-COPY *.js .
+COPY *.js ./
 RUN npm install
 
