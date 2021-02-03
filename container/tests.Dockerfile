@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/initaneti/debian/latest:main
+FROM debian:10-slim
 
 RUN apt-get update && \
  apt-get install -y --no-install-recommends \
