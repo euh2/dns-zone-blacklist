@@ -1,4 +1,4 @@
-FROM debian:10-slim
+FROM mirror.gcr.io/debian:10-slim
 
 RUN apt-get update && \
  apt-get install -y --no-install-recommends \
