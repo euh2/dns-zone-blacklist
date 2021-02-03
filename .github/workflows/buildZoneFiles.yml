@@ -40,8 +40,7 @@ jobs:
       - name: Validate Zone Files
         run: |
           ls -la 
-          ls -la ../
-          docker build --file container/test.Dockerfile -t test .
+          docker build --file container/tests.Dockerfile -t test .
       - run: docker run test
       - name: Check App Build
         run: docker build --file container/app.Dockerfile --tag ${IMAGE_NAME:=dns-blacklists} .
