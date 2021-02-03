@@ -65,7 +65,8 @@ jobs:
           echo "::set-output name=urJSON::$ur"
           
           BUILD_NO=`cat .meta-data/latest-release.json | jq -r '.local_build_no += 1' || echo "1"`
-          TAG_NAME=${{fromJson(env.ur).upstream_tag_name}}-$BUILD_NO
+          UPSTREAM_RELEASE=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_tag_name'`
+          TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
           echo "::set-output name=tag_name::$TAG_NAME"
           
           #BUILD_NO=$((++BUILD_NO))
