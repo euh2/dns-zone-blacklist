@@ -1,11 +1,8 @@
 name: Container Image
 
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  #push:
-  #  branches: [ master ]
-  #pull_request:
-  #  branches: [ master ]
+  release:
+    types: [published]
     
   workflow_dispatch:
 
@@ -32,4 +29,4 @@ jobs:
           s=${{ env.login_secret }}
           echo $s | docker login ghcr.io -u euh2 --password-stdin
           
-          docker push ghcr.io/${{ github.repository }}:latest
+          docker push ghcr.io/${{ github.repository }} --all-tags
