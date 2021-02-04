@@ -55,37 +55,14 @@ jobs:
       - name: Get Release Tags
         id: get-release-tags
         run: |
-          sudo apt-get install -y dateutils
+          cat .meta-data/latest-upstream-release.json | jq '. |= (.local_build_no |= . + 1) | . |= (.local_tag_name = .upstream_tag_name + "-" + (.local_build_no | tostring)) | . |= (.minutes_since_published_at = ((now - (.upstream_published_at | fromdateiso8601)) / 60 | round))' | tee .meta-data/latest-release.json
           
-          ur=`cat ./.meta-data/latest-upstream-release.json`
+          ur=`cat ./.meta-data/latest-release.json`
           ur="${ur//'%'/'%25'}"
           ur="${ur//$'\n'/'%0A'}"
           ur="${ur//$'\r'/'%0D'}"
           
-          echo "::set-output name=urJSON::$ur"
-          
-          set -x
-          
-          BUILD_NO=`cat .meta-data/latest-release.json | jq -r '.local_build_no += 1' || echo "1"`
-          UPSTREAM_RELEASE=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_tag_name'`
-          TAG_NAME=$UPSTREAM_RELEASE-$BUILD_NO
-          echo "::set-output name=tag_name::$TAG_NAME"
-          
-          #BUILD_NO=$((++BUILD_NO))
-          #UPSTREAM_RELEASE=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_tag_name'`
-          #UPSTREAM_BODY=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_body'`
-          #UPSTREAM_URL=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_url'`
-          
-          UPSTREAM_TIME=`cat .meta-data/latest-upstream-release.json | jq -r '.upstream_published_at'`
-          NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
-          MINUTES=`dateutils.ddiff $UPSTREAM_TIME $NOW -f '%M'`
-          echo "::set-output name=minutes::$MINUTES"
-          
-          cat .meta-data/latest-upstream-release.json | jq '. + {"local_build_no": env.BUILD_NO,"local_tag_name":env.TAG_NAME}' > .meta-data/latest-release.json
-                              
-          #echo "::set-output name=upstream_tag_name::$UPSTREAM_RELEASE"
-          #echo "::set-output name=upstream_body::$UPSTREAM_BODY"
-          #echo "::set-output name=upstream_url::$UPSTREAM_URL"
+          echo "::set-output name=releaseJSON::$ur"
           
         shell: bash
 
@@ -98,23 +75,22 @@ jobs:
           git config --global user.name '${{ github.actor }} via Bot'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
           git add .
-          git commit -am "Release ${{ steps.get-release-tags.outputs.tag_name }}"
-          git tag ${{ steps.get-release-tags.outputs.tag_name }}
+          git commit -am "Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}"
+          git tag ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}
           
-          git push
-          git push origin --tags
-
+          git push --follow-tags
+          
       - name: Publish Release
         id: publish_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         with:
-          tag_name: ${{ steps.get-release-tags.outputs.tag_name }}
-          release_name: Release ${{ steps.get-release-tags.outputs.tag_name }}
+          tag_name: ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}
+          release_name: Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}
           body: |
-            This Release was published ${{ steps.get-release-tags.outputs.minutes }} minutes after the [Upstream Release ${{fromJson(steps.get-release-tags.outputs.urJSON).upstream_tag_name}}](${{fromJson(steps.get-release-tags.outputs.urJSON).upstream_url}}):
+            This Release was published ${{fromJson(steps.get-release-tags.outputs.releaseJSON).minutes_since_published_at}} minutes after the [Upstream Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_tag_name}}](${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_url}}):
                         
-            ${{fromJson(steps.get-release-tags.outputs.urJSON).upstream_body}}
+            ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_body}}
           draft: true
           prerelease: false
