@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 env:
   IMAGE_NAME: ${{ github.repository }}
+  BUILD_HOOK: ${{ secrets.BUILD_HOOK }}
 jobs:
   build:
     name: Build Zone Files
@@ -97,3 +98,9 @@ jobs:
             ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_body}}
           draft: false
           prerelease: false
+      - name: Signal
+        run: |
+          curl -X POST $BUILD_HOOK
+        shell: bash
+        
+          
