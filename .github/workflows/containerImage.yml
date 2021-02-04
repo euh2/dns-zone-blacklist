@@ -9,12 +9,13 @@ on:
     
   workflow_dispatch:
 
-env:
-  image_name: dns-blacklists
-  login_secret: ${{ secrets.GHCR_ACCESS }}
-
 jobs:
   build:
+    environment: container_image
+    env:
+      image_name: dns-blacklists
+      login_secret: ${{ secrets.GHCR_ACCESS }}
+
     runs-on: ubuntu-20.04
 
     steps:
@@ -28,6 +29,7 @@ jobs:
           docker tag ${{ env.image_name }} ghcr.io/${{ github.repository }}:$version
           docker tag ${{ env.image_name }} ghcr.io/${{ github.repository }}:latest
           
-          echo ${{ env.login_secret }} | docker login ghcr.io -u euh2 --password-stdin
+          s=${{ env.login_secret }}
+          echo $s | docker login ghcr.io -u euh2 --password-stdin
           
           docker push ghcr.io/${{ github.repository }}:latest
