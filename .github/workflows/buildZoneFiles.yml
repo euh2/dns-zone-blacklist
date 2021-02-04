@@ -52,7 +52,9 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-      
+        with:
+          token: ${{ secrets.PAT }}
+             
       - name: Get Release Tags
         id: get-release-tags
         run: |
