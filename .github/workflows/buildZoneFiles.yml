@@ -9,7 +9,7 @@ env:
 jobs:
   build:
     name: Build Zone Files
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
 
     steps:
       - uses: actions/checkout@v2
@@ -33,7 +33,7 @@ jobs:
   test:
     needs: [build]
     name: Validate Build
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
 
     steps:
       - uses: actions/checkout@v2
@@ -48,7 +48,7 @@ jobs:
   publish:
     needs: [build,test]
     name: Publish
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
       
