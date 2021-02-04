@@ -1,0 +1,33 @@
+name: Container Image
+
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  #push:
+  #  branches: [ master ]
+  #pull_request:
+  #  branches: [ master ]
+    
+  workflow_dispatch:
+
+env:
+  image_name: dns-blacklists
+  login_secret: ${{ secrets.GHCR_ACCESS }}
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build Container Image
+        run: |
+          version=`cat .meta-data/latest-release.json | jq -r '.local_tag_name'`
+          
+          docker build -f ./container/app.Dockerfile -t ${{ env.image_name }} .
+          docker tag ${{ env.image_name }} ghcr.io/${{ github.repository }}:$version
+          docker tag ${{ env.image_name }} ghcr.io/${{ github.repository }}:latest
+          
+          echo ${{ env.login_secret }} | docker login ghcr.io -u euh2 --password-stdin
+          
+          docker push ghcr.io/${{ github.repository }}:latest
