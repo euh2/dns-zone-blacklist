@@ -1173,11 +1173,6 @@ zr0.net {
   answer "zr0.net 60 IN A 0.0.0.0" 
 }
 }
-tdco.in {
-   template ANY ANY {
-  answer "tdco.in 60 IN A 0.0.0.0" 
-}
-}
 goat.cx {
    template ANY ANY {
   answer "goat.cx 60 IN A 0.0.0.0" 
@@ -1353,9 +1348,9 @@ ph4s.ru {
   answer "ph4s.ru 60 IN A 0.0.0.0" 
 }
 }
-z.zz.ht {
+tdco.in {
    template ANY ANY {
-  answer "z.zz.ht 60 IN A 0.0.0.0" 
+  answer "tdco.in 60 IN A 0.0.0.0" 
 }
 }
 207.net {
@@ -3486,6 +3481,11 @@ ziyu.net {
 ajath.ae {
    template ANY ANY {
   answer "ajath.ae 60 IN A 0.0.0.0" 
+}
+}
+idolz.pw {
+   template ANY ANY {
+  answer "idolz.pw 60 IN A 0.0.0.0" 
 }
 }
 ipmes.ma {
@@ -6683,29 +6683,9 @@ sdc.dn.no {
   answer "7zip.mobi 60 IN A 0.0.0.0" 
 }
 }
-amadax.co {
+mexalz.cf {
    template ANY ANY {
-  answer "amadax.co 60 IN A 0.0.0.0" 
-}
-}
-bpacit.in {
-   template ANY ANY {
-  answer "bpacit.in 60 IN A 0.0.0.0" 
-}
-}
-gc3m.info {
-   template ANY ANY {
-  answer "gc3m.info 60 IN A 0.0.0.0" 
-}
-}
-jfzlp.com {
-   template ANY ANY {
-  answer "jfzlp.com 60 IN A 0.0.0.0" 
-}
-}
-palbas.cl {
-   template ANY ANY {
-  answer "palbas.cl 60 IN A 0.0.0.0" 
+  answer "mexalz.cf 60 IN A 0.0.0.0" 
 }
 }
 bid.glass {
@@ -7788,6 +7768,11 @@ yuibo.com {
   answer "1am.co.nz 60 IN A 0.0.0.0" 
 }
 }
+andres.ug {
+   template ANY ANY {
+  answer "andres.ug 60 IN A 0.0.0.0" 
+}
+}
 ccsau.com {
    template ANY ANY {
   answer "ccsau.com 60 IN A 0.0.0.0" 
@@ -7803,9 +7788,19 @@ d-cem.com {
   answer "d-cem.com 60 IN A 0.0.0.0" 
 }
 }
+datsom.vn {
+   template ANY ANY {
+  answer "datsom.vn 60 IN A 0.0.0.0" 
+}
+}
 dllth.com {
    template ANY ANY {
   answer "dllth.com 60 IN A 0.0.0.0" 
+}
+}
+dw2.co.id {
+   template ANY ANY {
+  answer "dw2.co.id 60 IN A 0.0.0.0" 
 }
 }
 dzi.co.th {
@@ -7813,9 +7808,19 @@ dzi.co.th {
   answer "dzi.co.th 60 IN A 0.0.0.0" 
 }
 }
+f1sol.com {
+   template ANY ANY {
+  answer "f1sol.com 60 IN A 0.0.0.0" 
+}
+}
 f6.com.vn {
    template ANY ANY {
   answer "f6.com.vn 60 IN A 0.0.0.0" 
+}
+}
+gc3m.info {
+   template ANY ANY {
+  answer "gc3m.info 60 IN A 0.0.0.0" 
 }
 }
 hseda.com {
@@ -7853,19 +7858,9 @@ merbay.ru {
   answer "merbay.ru 60 IN A 0.0.0.0" 
 }
 }
-mexalz.cf {
-   template ANY ANY {
-  answer "mexalz.cf 60 IN A 0.0.0.0" 
-}
-}
 nec-i.com {
    template ANY ANY {
   answer "nec-i.com 60 IN A 0.0.0.0" 
-}
-}
-oxeir.com {
-   template ANY ANY {
-  answer "oxeir.com 60 IN A 0.0.0.0" 
 }
 }
 prosoc.nl {
@@ -12918,9 +12913,14 @@ ad.hi5.com {
   answer "ad.hi5.com 60 IN A 0.0.0.0" 
 }
 }
-bcrg.co.za {
+hcx.com.co {
    template ANY ANY {
-  answer "bcrg.co.za 60 IN A 0.0.0.0" 
+  answer "hcx.com.co 60 IN A 0.0.0.0" 
+}
+}
+idevs.site {
+   template ANY ANY {
+  answer "idevs.site 60 IN A 0.0.0.0" 
 }
 }
 olebaby.in {
@@ -12928,19 +12928,9 @@ olebaby.in {
   answer "olebaby.in 60 IN A 0.0.0.0" 
 }
 }
-pinara.biz {
-   template ANY ANY {
-  answer "pinara.biz 60 IN A 0.0.0.0" 
-}
-}
 vicbay.com {
    template ANY ANY {
   answer "vicbay.com 60 IN A 0.0.0.0" 
-}
-}
-wpcoder.io {
-   template ANY ANY {
-  answer "wpcoder.io 60 IN A 0.0.0.0" 
 }
 }
 uptime.com {
@@ -14498,6 +14488,11 @@ bbia.co.uk {
   answer "bbia.co.uk 60 IN A 0.0.0.0" 
 }
 }
+bcrg.co.za {
+   template ANY ANY {
+  answer "bcrg.co.za 60 IN A 0.0.0.0" 
+}
+}
 bnrnews.id {
    template ANY ANY {
   answer "bnrnews.id 60 IN A 0.0.0.0" 
@@ -14523,9 +14518,9 @@ detorre.es {
   answer "detorre.es 60 IN A 0.0.0.0" 
 }
 }
-dosame.com {
+dezcom.com {
    template ANY ANY {
-  answer "dosame.com 60 IN A 0.0.0.0" 
+  answer "dezcom.com 60 IN A 0.0.0.0" 
 }
 }
 exilum.com {
@@ -14538,19 +14533,14 @@ gnscrew.ro {
   answer "gnscrew.ro 60 IN A 0.0.0.0" 
 }
 }
-hcx.com.co {
+hansolo.ru {
    template ANY ANY {
-  answer "hcx.com.co 60 IN A 0.0.0.0" 
+  answer "hansolo.ru 60 IN A 0.0.0.0" 
 }
 }
 hesa.co.id {
    template ANY ANY {
   answer "hesa.co.id 60 IN A 0.0.0.0" 
-}
-}
-idevs.site {
-   template ANY ANY {
-  answer "idevs.site 60 IN A 0.0.0.0" 
 }
 }
 iremart.es {
@@ -14561,6 +14551,11 @@ iremart.es {
 isrorg.com {
    template ANY ANY {
   answer "isrorg.com 60 IN A 0.0.0.0" 
+}
+}
+jamshed.pk {
+   template ANY ANY {
+  answer "jamshed.pk 60 IN A 0.0.0.0" 
 }
 }
 kadsec.com {
@@ -14583,9 +14578,19 @@ meeweb.com {
   answer "meeweb.com 60 IN A 0.0.0.0" 
 }
 }
+nicolas.ug {
+   template ANY ANY {
+  answer "nicolas.ug 60 IN A 0.0.0.0" 
+}
+}
 nobius.org {
    template ANY ANY {
   answer "nobius.org 60 IN A 0.0.0.0" 
+}
+}
+nrdsbd.org {
+   template ANY ANY {
+  answer "nrdsbd.org 60 IN A 0.0.0.0" 
 }
 }
 nsb.org.uk {
@@ -16811,6 +16816,11 @@ viglink.com {
 netc.sfr.fr {
    template ANY ANY {
   answer "netc.sfr.fr 60 IN A 0.0.0.0" 
+}
+}
+vkcache.com {
+   template ANY ANY {
+  answer "vkcache.com 60 IN A 0.0.0.0" 
 }
 }
 2mdnsys.com {
@@ -21183,11 +21193,6 @@ aasm.org.au {
   answer "aasm.org.au 60 IN A 0.0.0.0" 
 }
 }
-callbury.in {
-   template ANY ANY {
-  answer "callbury.in 60 IN A 0.0.0.0" 
-}
-}
 dmtk.com.br {
    template ANY ANY {
   answer "dmtk.com.br 60 IN A 0.0.0.0" 
@@ -21196,16 +21201,6 @@ dmtk.com.br {
 mkontakt.az {
    template ANY ANY {
   answer "mkontakt.az 60 IN A 0.0.0.0" 
-}
-}
-orapllc.net {
-   template ANY ANY {
-  answer "orapllc.net 60 IN A 0.0.0.0" 
-}
-}
-pole.com.vc {
-   template ANY ANY {
-  answer "pole.com.vc 60 IN A 0.0.0.0" 
 }
 }
 raybals.com {
@@ -21228,9 +21223,9 @@ surikks.com {
   answer "surikks.com 60 IN A 0.0.0.0" 
 }
 }
-truelyb.com {
+tehabis.com {
    template ANY ANY {
-  answer "truelyb.com 60 IN A 0.0.0.0" 
+  answer "tehabis.com 60 IN A 0.0.0.0" 
 }
 }
 up.ipts.com {
@@ -23473,6 +23468,11 @@ alvisoft.in {
   answer "alvisoft.in 60 IN A 0.0.0.0" 
 }
 }
+callbury.in {
+   template ANY ANY {
+  answer "callbury.in 60 IN A 0.0.0.0" 
+}
+}
 cassovia.sk {
    template ANY ANY {
   answer "cassovia.sk 60 IN A 0.0.0.0" 
@@ -23501,6 +23501,11 @@ gnimelf.net {
 gremgmt.com {
    template ANY ANY {
   answer "gremgmt.com 60 IN A 0.0.0.0" 
+}
+}
+gstator.com {
+   template ANY ANY {
+  answer "gstator.com 60 IN A 0.0.0.0" 
 }
 }
 gstatus.bar {
@@ -23573,6 +23578,11 @@ pcsoori.com {
   answer "pcsoori.com 60 IN A 0.0.0.0" 
 }
 }
+pole.com.vc {
+   template ANY ANY {
+  answer "pole.com.vc 60 IN A 0.0.0.0" 
+}
+}
 rasadbar.ir {
    template ANY ANY {
   answer "rasadbar.ir 60 IN A 0.0.0.0" 
@@ -23606,6 +23616,16 @@ techgms.com {
 trimonks.in {
    template ANY ANY {
   answer "trimonks.in 60 IN A 0.0.0.0" 
+}
+}
+truelyb.com {
+   template ANY ANY {
+  answer "truelyb.com 60 IN A 0.0.0.0" 
+}
+}
+vksales.com {
+   template ANY ANY {
+  answer "vksales.com 60 IN A 0.0.0.0" 
 }
 }
 wallcab.com {
@@ -31278,44 +31298,14 @@ abissnet.net {
   answer "abissnet.net 60 IN A 0.0.0.0" 
 }
 }
-cdrdf.bsb.br {
+psikonet.net {
    template ANY ANY {
-  answer "cdrdf.bsb.br 60 IN A 0.0.0.0" 
-}
-}
-chungasa.com {
-   template ANY ANY {
-  answer "chungasa.com 60 IN A 0.0.0.0" 
-}
-}
-emosque.info {
-   template ANY ANY {
-  answer "emosque.info 60 IN A 0.0.0.0" 
-}
-}
-intships.com {
-   template ANY ANY {
-  answer "intships.com 60 IN A 0.0.0.0" 
-}
-}
-meunikah.com {
-   template ANY ANY {
-  answer "meunikah.com 60 IN A 0.0.0.0" 
-}
-}
-recodec.site {
-   template ANY ANY {
-  answer "recodec.site 60 IN A 0.0.0.0" 
+  answer "psikonet.net 60 IN A 0.0.0.0" 
 }
 }
 sandbotc2.ml {
    template ANY ANY {
   answer "sandbotc2.ml 60 IN A 0.0.0.0" 
-}
-}
-tecerato.com {
-   template ANY ANY {
-  answer "tecerato.com 60 IN A 0.0.0.0" 
 }
 }
 adpushup.com {
@@ -34018,9 +34008,19 @@ acellr.co.uk {
   answer "acellr.co.uk 60 IN A 0.0.0.0" 
 }
 }
+agentt.ac.ug {
+   template ANY ANY {
+  answer "agentt.ac.ug 60 IN A 0.0.0.0" 
+}
+}
 alena1971.es {
    template ANY ANY {
   answer "alena1971.es 60 IN A 0.0.0.0" 
+}
+}
+andres.ac.ug {
+   template ANY ANY {
+  answer "andres.ac.ug 60 IN A 0.0.0.0" 
 }
 }
 banwayirc.in {
@@ -34046,6 +34046,11 @@ betone.co.kr {
 blakesmn.com {
    template ANY ANY {
   answer "blakesmn.com 60 IN A 0.0.0.0" 
+}
+}
+cdwdubai.com {
+   template ANY ANY {
+  answer "cdwdubai.com 60 IN A 0.0.0.0" 
 }
 }
 commodex.com {
@@ -34138,6 +34143,11 @@ ikexpert.com {
   answer "ikexpert.com 60 IN A 0.0.0.0" 
 }
 }
+intships.com {
+   template ANY ANY {
+  answer "intships.com 60 IN A 0.0.0.0" 
+}
+}
 iotforall.ru {
    template ANY ANY {
   answer "iotforall.ru 60 IN A 0.0.0.0" 
@@ -34178,11 +34188,6 @@ mackleyn.com {
   answer "mackleyn.com 60 IN A 0.0.0.0" 
 }
 }
-manhtien.net {
-   template ANY ANY {
-  answer "manhtien.net 60 IN A 0.0.0.0" 
-}
-}
 medianews.ge {
    template ANY ANY {
   answer "medianews.ge 60 IN A 0.0.0.0" 
@@ -34216,11 +34221,6 @@ ottimade.com {
 pornonhd.com {
    template ANY ANY {
   answer "pornonhd.com 60 IN A 0.0.0.0" 
-}
-}
-psikonet.net {
-   template ANY ANY {
-  answer "psikonet.net 60 IN A 0.0.0.0" 
 }
 }
 py2web.store {
@@ -34291,11 +34291,6 @@ valedchap.ir {
 vectarts.com {
    template ANY ANY {
   answer "vectarts.com 60 IN A 0.0.0.0" 
-}
-}
-www.87du.vip {
-   template ANY ANY {
-  answer "www.87du.vip 60 IN A 0.0.0.0" 
 }
 }
 www.x2vn.com {
@@ -40548,6 +40543,11 @@ cmentosrl.com {
   answer "cmentosrl.com 60 IN A 0.0.0.0" 
 }
 }
+cmxmarket.com {
+   template ANY ANY {
+  answer "cmxmarket.com 60 IN A 0.0.0.0" 
+}
+}
 coincasso.com {
    template ANY ANY {
   answer "coincasso.com 60 IN A 0.0.0.0" 
@@ -40951,6 +40951,11 @@ iidl-plus.com {
 ilovemobi.com {
    template ANY ANY {
   answer "ilovemobi.com 60 IN A 0.0.0.0" 
+}
+}
+infokrk.co.pl {
+   template ANY ANY {
+  answer "infokrk.co.pl 60 IN A 0.0.0.0" 
 }
 }
 infozkraju.eu {
@@ -43153,6 +43158,11 @@ bookallon.com {
   answer "bookallon.com 60 IN A 0.0.0.0" 
 }
 }
+d.erezerv.com {
+   template ANY ANY {
+  answer "d.erezerv.com 60 IN A 0.0.0.0" 
+}
+}
 docs.zoho.com {
    template ANY ANY {
   answer "docs.zoho.com 60 IN A 0.0.0.0" 
@@ -43161,11 +43171,6 @@ docs.zoho.com {
 enorichie.net {
    template ANY ANY {
   answer "enorichie.net 60 IN A 0.0.0.0" 
-}
-}
-gutech.com.sa {
-   template ANY ANY {
-  answer "gutech.com.sa 60 IN A 0.0.0.0" 
 }
 }
 gxbrowser.net {
@@ -43178,6 +43183,11 @@ htrfep.online {
   answer "htrfep.online 60 IN A 0.0.0.0" 
 }
 }
+infovator.com {
+   template ANY ANY {
+  answer "infovator.com 60 IN A 0.0.0.0" 
+}
+}
 kevokloud.com {
    template ANY ANY {
   answer "kevokloud.com 60 IN A 0.0.0.0" 
@@ -43188,14 +43198,9 @@ maxtox.com.pk {
   answer "maxtox.com.pk 60 IN A 0.0.0.0" 
 }
 }
-ugateshop.com {
+statilion.com {
    template ANY ANY {
-  answer "ugateshop.com 60 IN A 0.0.0.0" 
-}
-}
-wikalen.co.za {
-   template ANY ANY {
-  answer "wikalen.co.za 60 IN A 0.0.0.0" 
+  answer "statilion.com 60 IN A 0.0.0.0" 
 }
 }
 snigelweb.com {
@@ -46738,6 +46743,11 @@ y.rtoaster.jp {
   answer "49parallel.ca 60 IN A 0.0.0.0" 
 }
 }
+aamilah.co.uk {
+   template ANY ANY {
+  answer "aamilah.co.uk 60 IN A 0.0.0.0" 
+}
+}
 acc244.com.vn {
    template ANY ANY {
   answer "acc244.com.vn 60 IN A 0.0.0.0" 
@@ -46756,6 +46766,11 @@ alshuwail.com {
 aminsanat.com {
    template ANY ANY {
   answer "aminsanat.com 60 IN A 0.0.0.0" 
+}
+}
+analyzare.com {
+   template ANY ANY {
+  answer "analyzare.com 60 IN A 0.0.0.0" 
 }
 }
 anhung1102.vn {
@@ -46778,19 +46793,9 @@ bary.sz4h.com {
   answer "bary.sz4h.com 60 IN A 0.0.0.0" 
 }
 }
-bilgesifa.com {
-   template ANY ANY {
-  answer "bilgesifa.com 60 IN A 0.0.0.0" 
-}
-}
 cab.mykfn.com {
    template ANY ANY {
   answer "cab.mykfn.com 60 IN A 0.0.0.0" 
-}
-}
-citybasket.in {
-   template ANY ANY {
-  answer "citybasket.in 60 IN A 0.0.0.0" 
 }
 }
 cliffhaven.in {
@@ -46848,14 +46853,9 @@ dheeranet.com {
   answer "dheeranet.com 60 IN A 0.0.0.0" 
 }
 }
-digisails.org {
+diyguillo.com {
    template ANY ANY {
-  answer "digisails.org 60 IN A 0.0.0.0" 
-}
-}
-dom-chel74.ru {
-   template ANY ANY {
-  answer "dom-chel74.ru 60 IN A 0.0.0.0" 
+  answer "diyguillo.com 60 IN A 0.0.0.0" 
 }
 }
 dovberger.com {
@@ -46868,14 +46868,14 @@ drbaby.com.sa {
   answer "drbaby.com.sa 60 IN A 0.0.0.0" 
 }
 }
+fakedepth.com {
+   template ANY ANY {
+  answer "fakedepth.com 60 IN A 0.0.0.0" 
+}
+}
 felicienne.nl {
    template ANY ANY {
   answer "felicienne.nl 60 IN A 0.0.0.0" 
-}
-}
-fiscon.cnt.br {
-   template ANY ANY {
-  answer "fiscon.cnt.br 60 IN A 0.0.0.0" 
 }
 }
 foxeps.com.br {
@@ -46918,6 +46918,11 @@ hmpmall.co.kr {
   answer "hmpmall.co.kr 60 IN A 0.0.0.0" 
 }
 }
+hongluosi.com {
+   template ANY ANY {
+  answer "hongluosi.com 60 IN A 0.0.0.0" 
+}
+}
 hsmwebapp.com {
    template ANY ANY {
   answer "hsmwebapp.com 60 IN A 0.0.0.0" 
@@ -46953,14 +46958,14 @@ israrulhaq.me {
   answer "israrulhaq.me 60 IN A 0.0.0.0" 
 }
 }
+jespersen.org {
+   template ANY ANY {
+  answer "jespersen.org 60 IN A 0.0.0.0" 
+}
+}
 jmtc.91756.cn {
    template ANY ANY {
   answer "jmtc.91756.cn 60 IN A 0.0.0.0" 
-}
-}
-kinesiolog.de {
-   template ANY ANY {
-  answer "kinesiolog.de 60 IN A 0.0.0.0" 
 }
 }
 linestats.bar {
@@ -47006,6 +47011,11 @@ mncarteam.com {
 my.loungu.com {
    template ANY ANY {
   answer "my.loungu.com 60 IN A 0.0.0.0" 
+}
+}
+n3avigate.com {
+   template ANY ANY {
+  answer "n3avigate.com 60 IN A 0.0.0.0" 
 }
 }
 nurmarkaz.org {
@@ -47108,6 +47118,11 @@ tsd.jxwan.com {
   answer "tsd.jxwan.com 60 IN A 0.0.0.0" 
 }
 }
+ugateshop.com {
+   template ANY ANY {
+  answer "ugateshop.com 60 IN A 0.0.0.0" 
+}
+}
 unisoftcc.com {
    template ANY ANY {
   answer "unisoftcc.com 60 IN A 0.0.0.0" 
@@ -47131,6 +47146,11 @@ vstsample.com {
 wifemarcy.com {
    template ANY ANY {
   answer "wifemarcy.com 60 IN A 0.0.0.0" 
+}
+}
+wikalen.co.za {
+   template ANY ANY {
+  answer "wikalen.co.za 60 IN A 0.0.0.0" 
 }
 }
 woezon.agency {
@@ -56403,19 +56423,14 @@ www.netpoll.nl {
   answer "www.netpoll.nl 60 IN A 0.0.0.0" 
 }
 }
-agroshowtv.com {
+adbatravel.com {
    template ANY ANY {
-  answer "agroshowtv.com 60 IN A 0.0.0.0" 
+  answer "adbatravel.com 60 IN A 0.0.0.0" 
 }
 }
-catchperch.com {
+bt2.elin.co.za {
    template ANY ANY {
-  answer "catchperch.com 60 IN A 0.0.0.0" 
-}
-}
-digitalaxom.in {
-   template ANY ANY {
-  answer "digitalaxom.in 60 IN A 0.0.0.0" 
+  answer "bt2.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 du-wizards.com {
@@ -56438,34 +56453,14 @@ gos.mvlews.com {
   answer "gos.mvlews.com 60 IN A 0.0.0.0" 
 }
 }
-gracejukes.com {
+greyfade.co.tz {
    template ANY ANY {
-  answer "gracejukes.com 60 IN A 0.0.0.0" 
+  answer "greyfade.co.tz 60 IN A 0.0.0.0" 
 }
 }
-jubilyhero.com {
+sardarmask.com {
    template ANY ANY {
-  answer "jubilyhero.com 60 IN A 0.0.0.0" 
-}
-}
-madleneva.site {
-   template ANY ANY {
-  answer "madleneva.site 60 IN A 0.0.0.0" 
-}
-}
-monjcoffee.com {
-   template ANY ANY {
-  answer "monjcoffee.com 60 IN A 0.0.0.0" 
-}
-}
-piscopo.med.br {
-   template ANY ANY {
-  answer "piscopo.med.br 60 IN A 0.0.0.0" 
-}
-}
-rcoutreach.com {
-   template ANY ANY {
-  answer "rcoutreach.com 60 IN A 0.0.0.0" 
+  answer "sardarmask.com 60 IN A 0.0.0.0" 
 }
 }
 sh.epelcdn.com {
@@ -56478,9 +56473,14 @@ stevie-m.co.uk {
   answer "stevie-m.co.uk 60 IN A 0.0.0.0" 
 }
 }
-www.iam313.com {
+unitranship.in {
    template ANY ANY {
-  answer "www.iam313.com 60 IN A 0.0.0.0" 
+  answer "unitranship.in 60 IN A 0.0.0.0" 
+}
+}
+wp.readhere.in {
+   template ANY ANY {
+  answer "wp.readhere.in 60 IN A 0.0.0.0" 
 }
 }
 www.namenom.tk {
@@ -60148,14 +60148,19 @@ nsis.bisrv.com {
   answer "360.lcy2zzx.pw 60 IN A 0.0.0.0" 
 }
 }
-adbatravel.com {
+academianv.com {
    template ANY ANY {
-  answer "adbatravel.com 60 IN A 0.0.0.0" 
+  answer "academianv.com 60 IN A 0.0.0.0" 
 }
 }
 aeropilates.cl {
    template ANY ANY {
   answer "aeropilates.cl 60 IN A 0.0.0.0" 
+}
+}
+agroshowtv.com {
+   template ANY ANY {
+  answer "agroshowtv.com 60 IN A 0.0.0.0" 
 }
 }
 alka.institute {
@@ -60188,6 +60193,16 @@ azraktours.com {
   answer "azraktours.com 60 IN A 0.0.0.0" 
 }
 }
+backgrounds.pk {
+   template ANY ANY {
+  answer "backgrounds.pk 60 IN A 0.0.0.0" 
+}
+}
+bilbosaquet.ug {
+   template ANY ANY {
+  answer "bilbosaquet.ug 60 IN A 0.0.0.0" 
+}
+}
 booksearch.com {
    template ANY ANY {
   answer "booksearch.com 60 IN A 0.0.0.0" 
@@ -60198,14 +60213,14 @@ brightmega.com {
   answer "brightmega.com 60 IN A 0.0.0.0" 
 }
 }
-bt2.elin.co.za {
-   template ANY ANY {
-  answer "bt2.elin.co.za 60 IN A 0.0.0.0" 
-}
-}
 caballo.com.au {
    template ANY ANY {
   answer "caballo.com.au 60 IN A 0.0.0.0" 
+}
+}
+catchperch.com {
+   template ANY ANY {
+  answer "catchperch.com 60 IN A 0.0.0.0" 
 }
 }
 cheap8x10s.com {
@@ -60228,6 +60243,11 @@ dekovizyon.com {
   answer "dekovizyon.com 60 IN A 0.0.0.0" 
 }
 }
+digitalaxom.in {
+   template ANY ANY {
+  answer "digitalaxom.in 60 IN A 0.0.0.0" 
+}
+}
 dnn.alibuf.com {
    template ANY ANY {
   answer "dnn.alibuf.com 60 IN A 0.0.0.0" 
@@ -60236,6 +60256,11 @@ dnn.alibuf.com {
 dns.alibuf.com {
    template ANY ANY {
   answer "dns.alibuf.com 60 IN A 0.0.0.0" 
+}
+}
+fastswitch.org {
+   template ANY ANY {
+  answer "fastswitch.org 60 IN A 0.0.0.0" 
 }
 }
 funletters.net {
@@ -60253,9 +60278,9 @@ goldcake.co.id {
   answer "goldcake.co.id 60 IN A 0.0.0.0" 
 }
 }
-gpworksinc.com {
+gracejukes.com {
    template ANY ANY {
-  answer "gpworksinc.com 60 IN A 0.0.0.0" 
+  answer "gracejukes.com 60 IN A 0.0.0.0" 
 }
 }
 gracetab.co.za {
@@ -60263,14 +60288,9 @@ gracetab.co.za {
   answer "gracetab.co.za 60 IN A 0.0.0.0" 
 }
 }
-greyfade.co.tz {
+grandwyatt.com {
    template ANY ANY {
-  answer "greyfade.co.tz 60 IN A 0.0.0.0" 
-}
-}
-gumtreeply.com {
-   template ANY ANY {
-  answer "gumtreeply.com 60 IN A 0.0.0.0" 
+  answer "grandwyatt.com 60 IN A 0.0.0.0" 
 }
 }
 hercinovic.com {
@@ -60301,11 +60321,6 @@ jiaoyuzixun.cn {
 jing-da.com.tw {
    template ANY ANY {
   answer "jing-da.com.tw 60 IN A 0.0.0.0" 
-}
-}
-linestats.casa {
-   template ANY ANY {
-  answer "linestats.casa 60 IN A 0.0.0.0" 
 }
 }
 mbsolutions.ge {
@@ -60353,11 +60368,6 @@ oluseyiedu.com {
   answer "oluseyiedu.com 60 IN A 0.0.0.0" 
 }
 }
-onourstyle.com {
-   template ANY ANY {
-  answer "onourstyle.com 60 IN A 0.0.0.0" 
-}
-}
 optimus.com.sg {
    template ANY ANY {
   answer "optimus.com.sg 60 IN A 0.0.0.0" 
@@ -60383,6 +60393,11 @@ plasfan.ind.br {
   answer "plasfan.ind.br 60 IN A 0.0.0.0" 
 }
 }
+police-dept.us {
+   template ANY ANY {
+  answer "police-dept.us 60 IN A 0.0.0.0" 
+}
+}
 reifenquick.de {
    template ANY ANY {
   answer "reifenquick.de 60 IN A 0.0.0.0" 
@@ -60393,14 +60408,14 @@ riverfox.co.za {
   answer "riverfox.co.za 60 IN A 0.0.0.0" 
 }
 }
-sardarmask.com {
-   template ANY ANY {
-  answer "sardarmask.com 60 IN A 0.0.0.0" 
-}
-}
 scglobal.co.th {
    template ANY ANY {
   answer "scglobal.co.th 60 IN A 0.0.0.0" 
+}
+}
+se.bgswing.com {
+   template ANY ANY {
+  answer "se.bgswing.com 60 IN A 0.0.0.0" 
 }
 }
 simoneporzi.it {
@@ -60411,11 +60426,6 @@ simoneporzi.it {
 somcorbera.cat {
    template ANY ANY {
   answer "somcorbera.cat 60 IN A 0.0.0.0" 
-}
-}
-sunbayhotel.vn {
-   template ANY ANY {
-  answer "sunbayhotel.vn 60 IN A 0.0.0.0" 
 }
 }
 support.clz.kr {
@@ -60483,14 +60493,29 @@ woodsytech.com {
   answer "woodsytech.com 60 IN A 0.0.0.0" 
 }
 }
-wp.readhere.in {
-   template ANY ANY {
-  answer "wp.readhere.in 60 IN A 0.0.0.0" 
-}
-}
 www.abyssos.eu {
    template ANY ANY {
   answer "www.abyssos.eu 60 IN A 0.0.0.0" 
+}
+}
+www.iam313.com {
+   template ANY ANY {
+  answer "www.iam313.com 60 IN A 0.0.0.0" 
+}
+}
+www.pegets.com {
+   template ANY ANY {
+  answer "www.pegets.com 60 IN A 0.0.0.0" 
+}
+}
+www.vipi.co.ke {
+   template ANY ANY {
+  answer "www.vipi.co.ke 60 IN A 0.0.0.0" 
+}
+}
+ylfpremium.com {
+   template ANY ANY {
+  answer "ylfpremium.com 60 IN A 0.0.0.0" 
 }
 }
 yp.hnggzyjy.cn {
@@ -68143,9 +68168,19 @@ olx-payments.pl {
   answer "olx-payments.pl 60 IN A 0.0.0.0" 
 }
 }
+olx-paysera.pro {
+   template ANY ANY {
+  answer "olx-paysera.pro 60 IN A 0.0.0.0" 
+}
+}
 olx-pl.getc.icu {
    template ANY ANY {
   answer "olx-pl.getc.icu 60 IN A 0.0.0.0" 
+}
+}
+olx-poland.site {
+   template ANY ANY {
+  answer "olx-poland.site 60 IN A 0.0.0.0" 
 }
 }
 olx-polland.com {
@@ -70398,19 +70433,14 @@ hostingprod.com {
   answer "hostingprod.com 60 IN A 0.0.0.0" 
 }
 }
-adithimedia.com {
+bcmt.elin.co.za {
    template ANY ANY {
-  answer "adithimedia.com 60 IN A 0.0.0.0" 
+  answer "bcmt.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
-amirahajjaj.com {
+bot.quocbao.biz {
    template ANY ANY {
-  answer "amirahajjaj.com 60 IN A 0.0.0.0" 
-}
-}
-api.cstdevs.com {
-   template ANY ANY {
-  answer "api.cstdevs.com 60 IN A 0.0.0.0" 
+  answer "bot.quocbao.biz 60 IN A 0.0.0.0" 
 }
 }
 gs.monerorx.com {
@@ -70418,19 +70448,19 @@ gs.monerorx.com {
   answer "gs.monerorx.com 60 IN A 0.0.0.0" 
 }
 }
-hajarmasicg.com {
+kirkbaca.com.tr {
    template ANY ANY {
-  answer "hajarmasicg.com 60 IN A 0.0.0.0" 
+  answer "kirkbaca.com.tr 60 IN A 0.0.0.0" 
 }
 }
-lms.cstdevs.com {
+statblogger.com {
    template ANY ANY {
-  answer "lms.cstdevs.com 60 IN A 0.0.0.0" 
+  answer "statblogger.com 60 IN A 0.0.0.0" 
 }
 }
-marscereals.com {
+storiesstat.com {
    template ANY ANY {
-  answer "marscereals.com 60 IN A 0.0.0.0" 
+  answer "storiesstat.com 60 IN A 0.0.0.0" 
 }
 }
 tunedinblog.com {
@@ -70446,16 +70476,6 @@ workedgames.com {
 www.devharry.cc {
    template ANY ANY {
   answer "www.devharry.cc 60 IN A 0.0.0.0" 
-}
-}
-www.klalong.com {
-   template ANY ANY {
-  answer "www.klalong.com 60 IN A 0.0.0.0" 
-}
-}
-www.rubazar.pro {
-   template ANY ANY {
-  answer "www.rubazar.pro 60 IN A 0.0.0.0" 
 }
 }
 www.skyscan.com {
@@ -73893,19 +73913,24 @@ cdn.msdwnld.com {
   answer "cdn.msdwnld.com 60 IN A 0.0.0.0" 
 }
 }
+adithimedia.com {
+   template ANY ANY {
+  answer "adithimedia.com 60 IN A 0.0.0.0" 
+}
+}
 ajstudiollc.com {
    template ANY ANY {
   answer "ajstudiollc.com 60 IN A 0.0.0.0" 
 }
 }
+api.quocbao.biz {
+   template ANY ANY {
+  answer "api.quocbao.biz 60 IN A 0.0.0.0" 
+}
+}
 athenacapsg.com {
    template ANY ANY {
   answer "athenacapsg.com 60 IN A 0.0.0.0" 
-}
-}
-bcmt.elin.co.za {
-   template ANY ANY {
-  answer "bcmt.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 bumdesnesia.com {
@@ -73948,11 +73973,6 @@ equimination.ee {
   answer "equimination.ee 60 IN A 0.0.0.0" 
 }
 }
-erp.zilymax.com {
-   template ANY ANY {
-  answer "erp.zilymax.com 60 IN A 0.0.0.0" 
-}
-}
 extremejoy.live {
    template ANY ANY {
   answer "extremejoy.live 60 IN A 0.0.0.0" 
@@ -73961,11 +73981,6 @@ extremejoy.live {
 fkd.derpcity.ru {
    template ANY ANY {
   answer "fkd.derpcity.ru 60 IN A 0.0.0.0" 
-}
-}
-gorkhalines.com {
-   template ANY ANY {
-  answer "gorkhalines.com 60 IN A 0.0.0.0" 
 }
 }
 grupoinmare.com {
@@ -73993,6 +74008,11 @@ ienglishabc.com {
   answer "ienglishabc.com 60 IN A 0.0.0.0" 
 }
 }
+in-tune2016.com {
+   template ANY ANY {
+  answer "in-tune2016.com 60 IN A 0.0.0.0" 
+}
+}
 incredicole.com {
    template ANY ANY {
   answer "incredicole.com 60 IN A 0.0.0.0" 
@@ -74008,14 +74028,19 @@ kadigital.co.uk {
   answer "kadigital.co.uk 60 IN A 0.0.0.0" 
 }
 }
-kirkbaca.com.tr {
+marscereals.com {
    template ANY ANY {
-  answer "kirkbaca.com.tr 60 IN A 0.0.0.0" 
+  answer "marscereals.com 60 IN A 0.0.0.0" 
 }
 }
 modernmanna.org {
    template ANY ANY {
   answer "modernmanna.org 60 IN A 0.0.0.0" 
+}
+}
+mustgrow.com.br {
+   template ANY ANY {
+  answer "mustgrow.com.br 60 IN A 0.0.0.0" 
 }
 }
 nikanpolimer.ir {
@@ -74048,14 +74073,14 @@ paulmercier.biz {
   answer "paulmercier.biz 60 IN A 0.0.0.0" 
 }
 }
+pay.levellab.eu {
+   template ANY ANY {
+  answer "pay.levellab.eu 60 IN A 0.0.0.0" 
+}
+}
 petercollie.com {
    template ANY ANY {
   answer "petercollie.com 60 IN A 0.0.0.0" 
-}
-}
-radiofmlive.com {
-   template ANY ANY {
-  answer "radiofmlive.com 60 IN A 0.0.0.0" 
 }
 }
 rainbowisp.info {
@@ -74118,6 +74143,11 @@ stratexec.co.za {
   answer "stratexec.co.za 60 IN A 0.0.0.0" 
 }
 }
+studio4brow.com {
+   template ANY ANY {
+  answer "studio4brow.com 60 IN A 0.0.0.0" 
+}
+}
 sunfruit.com.tn {
    template ANY ANY {
   answer "sunfruit.com.tn 60 IN A 0.0.0.0" 
@@ -74166,6 +74196,11 @@ www.al-wahd.com {
 www.newxing.com {
    template ANY ANY {
   answer "www.newxing.com 60 IN A 0.0.0.0" 
+}
+}
+www.rubazar.pro {
+   template ANY ANY {
+  answer "www.rubazar.pro 60 IN A 0.0.0.0" 
 }
 }
 xichengkeji.top {
@@ -81728,6 +81763,11 @@ olx.pl-get.money {
   answer "olx.pl-get.money 60 IN A 0.0.0.0" 
 }
 }
+olx.pl-mkonto.me {
+   template ANY ANY {
+  answer "olx.pl-mkonto.me 60 IN A 0.0.0.0" 
+}
+}
 olx.pl-sklep.app {
    template ANY ANY {
   answer "olx.pl-sklep.app 60 IN A 0.0.0.0" 
@@ -82116,6 +82156,11 @@ socksonclick.com {
 specnewsinfo.com {
    template ANY ANY {
   answer "specnewsinfo.com 60 IN A 0.0.0.0" 
+}
+}
+sperrypolska.com {
+   template ANY ANY {
+  answer "sperrypolska.com 60 IN A 0.0.0.0" 
 }
 }
 spraszyn.home.pl {
@@ -84403,14 +84448,14 @@ sdc.rbistats.com {
   answer "sdc.rbistats.com 60 IN A 0.0.0.0" 
 }
 }
-app.prerana.info {
+callonenergy.com {
    template ANY ANY {
-  answer "app.prerana.info 60 IN A 0.0.0.0" 
+  answer "callonenergy.com 60 IN A 0.0.0.0" 
 }
 }
-bullseyemedia.in {
+classof75.org.au {
    template ANY ANY {
-  answer "bullseyemedia.in 60 IN A 0.0.0.0" 
+  answer "classof75.org.au 60 IN A 0.0.0.0" 
 }
 }
 darasrszs.online {
@@ -84423,39 +84468,9 @@ djking.f3322.net {
   answer "djking.f3322.net 60 IN A 0.0.0.0" 
 }
 }
-down.post-gg.top {
-   template ANY ANY {
-  answer "down.post-gg.top 60 IN A 0.0.0.0" 
-}
-}
-elitepage.com.ng {
-   template ANY ANY {
-  answer "elitepage.com.ng 60 IN A 0.0.0.0" 
-}
-}
 f0507215.xsph.ru {
    template ANY ANY {
   answer "f0507215.xsph.ru 60 IN A 0.0.0.0" 
-}
-}
-fuherproninc.org {
-   template ANY ANY {
-  answer "fuherproninc.org 60 IN A 0.0.0.0" 
-}
-}
-kahucrossfit.com {
-   template ANY ANY {
-  answer "kahucrossfit.com 60 IN A 0.0.0.0" 
-}
-}
-khabardarnews.in {
-   template ANY ANY {
-  answer "khabardarnews.in 60 IN A 0.0.0.0" 
-}
-}
-kucianohotels.ng {
-   template ANY ANY {
-  answer "kucianohotels.ng 60 IN A 0.0.0.0" 
 }
 }
 letspogoyork.com {
@@ -84463,14 +84478,29 @@ letspogoyork.com {
   answer "letspogoyork.com 60 IN A 0.0.0.0" 
 }
 }
-ngo.edusprit.com {
+mdasa.elin.co.za {
    template ANY ANY {
-  answer "ngo.edusprit.com 60 IN A 0.0.0.0" 
+  answer "mdasa.elin.co.za 60 IN A 0.0.0.0" 
+}
+}
+paths.elin.co.za {
+   template ANY ANY {
+  answer "paths.elin.co.za 60 IN A 0.0.0.0" 
+}
+}
+soporte.feval.co {
+   template ANY ANY {
+  answer "soporte.feval.co 60 IN A 0.0.0.0" 
 }
 }
 synergyctsfl.com {
    template ANY ANY {
   answer "synergyctsfl.com 60 IN A 0.0.0.0" 
+}
+}
+test.rasaiwa.com {
+   template ANY ANY {
+  answer "test.rasaiwa.com 60 IN A 0.0.0.0" 
 }
 }
 viksarhdf.org.pk {
@@ -84486,11 +84516,6 @@ www.compuplus.in {
 www.haeunkim.com {
    template ANY ANY {
   answer "www.haeunkim.com 60 IN A 0.0.0.0" 
-}
-}
-www.knoxfeed.com {
-   template ANY ANY {
-  answer "www.knoxfeed.com 60 IN A 0.0.0.0" 
 }
 }
 cdn.playwire.com {
@@ -88153,14 +88178,19 @@ cdn.appround.biz {
   answer "cdn.appround.biz 60 IN A 0.0.0.0" 
 }
 }
-akdvidyalaya.com {
+alldogtopics.com {
    template ANY ANY {
-  answer "akdvidyalaya.com 60 IN A 0.0.0.0" 
+  answer "alldogtopics.com 60 IN A 0.0.0.0" 
 }
 }
 angelsdetour.com {
    template ANY ANY {
   answer "angelsdetour.com 60 IN A 0.0.0.0" 
+}
+}
+app.prerana.info {
+   template ANY ANY {
+  answer "app.prerana.info 60 IN A 0.0.0.0" 
 }
 }
 avissrilanka.com {
@@ -88188,19 +88218,14 @@ brandscanltd.com {
   answer "brandscanltd.com 60 IN A 0.0.0.0" 
 }
 }
-callonenergy.com {
+bullseyemedia.in {
    template ANY ANY {
-  answer "callonenergy.com 60 IN A 0.0.0.0" 
+  answer "bullseyemedia.in 60 IN A 0.0.0.0" 
 }
 }
 cdaonline.com.ar {
    template ANY ANY {
   answer "cdaonline.com.ar 60 IN A 0.0.0.0" 
-}
-}
-clients-zone.net {
-   template ANY ANY {
-  answer "clients-zone.net 60 IN A 0.0.0.0" 
 }
 }
 comerford.org.uk {
@@ -88223,9 +88248,14 @@ currantmedia.com {
   answer "currantmedia.com 60 IN A 0.0.0.0" 
 }
 }
-dancedance.ac.ug {
+data.kaoyany.top {
    template ANY ANY {
-  answer "dancedance.ac.ug 60 IN A 0.0.0.0" 
+  answer "data.kaoyany.top 60 IN A 0.0.0.0" 
+}
+}
+demo.rasaiwa.com {
+   template ANY ANY {
+  answer "demo.rasaiwa.com 60 IN A 0.0.0.0" 
 }
 }
 dl.1003b.56a.com {
@@ -88243,6 +88273,11 @@ down.webbora.com {
   answer "down.webbora.com 60 IN A 0.0.0.0" 
 }
 }
+faks.tuturutu.eu {
+   template ANY ANY {
+  answer "faks.tuturutu.eu 60 IN A 0.0.0.0" 
+}
+}
 flowmaticengg.in {
    template ANY ANY {
   answer "flowmaticengg.in 60 IN A 0.0.0.0" 
@@ -88251,11 +88286,6 @@ flowmaticengg.in {
 fotoobjetivo.com {
    template ANY ANY {
   answer "fotoobjetivo.com 60 IN A 0.0.0.0" 
-}
-}
-gulfac-house.com {
-   template ANY ANY {
-  answer "gulfac-house.com 60 IN A 0.0.0.0" 
 }
 }
 helpingcause.com {
@@ -88273,6 +88303,11 @@ jamiekaylive.com {
   answer "jamiekaylive.com 60 IN A 0.0.0.0" 
 }
 }
+jannathotels.com {
+   template ANY ANY {
+  answer "jannathotels.com 60 IN A 0.0.0.0" 
+}
+}
 jansen-heesch.nl {
    template ANY ANY {
   answer "jansen-heesch.nl 60 IN A 0.0.0.0" 
@@ -88281,6 +88316,26 @@ jansen-heesch.nl {
 jpwoodfordco.com {
    template ANY ANY {
   answer "jpwoodfordco.com 60 IN A 0.0.0.0" 
+}
+}
+jupiter.toxsl.in {
+   template ANY ANY {
+  answer "jupiter.toxsl.in 60 IN A 0.0.0.0" 
+}
+}
+kbpertiwi.sch.id {
+   template ANY ANY {
+  answer "kbpertiwi.sch.id 60 IN A 0.0.0.0" 
+}
+}
+khabardarnews.in {
+   template ANY ANY {
+  answer "khabardarnews.in 60 IN A 0.0.0.0" 
+}
+}
+kucianohotels.ng {
+   template ANY ANY {
+  answer "kucianohotels.ng 60 IN A 0.0.0.0" 
 }
 }
 lojacondo.com.br {
@@ -88293,11 +88348,6 @@ luckybrownie.com {
   answer "luckybrownie.com 60 IN A 0.0.0.0" 
 }
 }
-mdasa.elin.co.za {
-   template ANY ANY {
-  answer "mdasa.elin.co.za 60 IN A 0.0.0.0" 
-}
-}
 mirror.mypage.sk {
    template ANY ANY {
   answer "mirror.mypage.sk 60 IN A 0.0.0.0" 
@@ -88306,6 +88356,16 @@ mirror.mypage.sk {
 mmogollon.com.mx {
    template ANY ANY {
   answer "mmogollon.com.mx 60 IN A 0.0.0.0" 
+}
+}
+myriamherman.com {
+   template ANY ANY {
+  answer "myriamherman.com 60 IN A 0.0.0.0" 
+}
+}
+ngo.edusprit.com {
+   template ANY ANY {
+  answer "ngo.edusprit.com 60 IN A 0.0.0.0" 
 }
 }
 optitechsa.co.za {
@@ -88353,14 +88413,24 @@ sistelligent.com {
   answer "sistelligent.com 60 IN A 0.0.0.0" 
 }
 }
-soporte.feval.co {
-   template ANY ANY {
-  answer "soporte.feval.co 60 IN A 0.0.0.0" 
-}
-}
 src1.minibai.com {
    template ANY ANY {
   answer "src1.minibai.com 60 IN A 0.0.0.0" 
+}
+}
+statswindows.com {
+   template ANY ANY {
+  answer "statswindows.com 60 IN A 0.0.0.0" 
+}
+}
+suju.qnotice.com {
+   template ANY ANY {
+  answer "suju.qnotice.com 60 IN A 0.0.0.0" 
+}
+}
+sys.pbmadu.co.id {
+   template ANY ANY {
+  answer "sys.pbmadu.co.id 60 IN A 0.0.0.0" 
 }
 }
 telescopelms.com {
@@ -88371,11 +88441,6 @@ telescopelms.com {
 test.letraele.es {
    template ANY ANY {
   answer "test.letraele.es 60 IN A 0.0.0.0" 
-}
-}
-test.rasaiwa.com {
-   template ANY ANY {
-  answer "test.rasaiwa.com 60 IN A 0.0.0.0" 
 }
 }
 vegadelcasero.cl {
@@ -94918,6 +94983,11 @@ czajkowski.cba.pl {
   answer "czajkowski.cba.pl 60 IN A 0.0.0.0" 
 }
 }
+dcshoespolska.com {
+   template ANY ANY {
+  answer "dcshoespolska.com 60 IN A 0.0.0.0" 
+}
+}
 dhl-costumers.net {
    template ANY ANY {
   answer "dhl-costumers.net 60 IN A 0.0.0.0" 
@@ -95186,6 +95256,11 @@ idealnafigura.com {
 idea-logowanie.at {
    template ANY ANY {
   answer "idea-logowanie.at 60 IN A 0.0.0.0" 
+}
+}
+ierdafrica.org.ng {
+   template ANY ANY {
+  answer "ierdafrica.org.ng 60 IN A 0.0.0.0" 
 }
 }
 infonet.dfirma.pl {
@@ -95558,9 +95633,19 @@ olx.pl-mkonto.ceo {
   answer "olx.pl-mkonto.ceo 60 IN A 0.0.0.0" 
 }
 }
+olx.pl-mkonto.net {
+   template ANY ANY {
+  answer "olx.pl-mkonto.net 60 IN A 0.0.0.0" 
+}
+}
 olx.pl-money.live {
    template ANY ANY {
   answer "olx.pl-money.live 60 IN A 0.0.0.0" 
+}
+}
+olx.pl-order.surf {
+   template ANY ANY {
+  answer "olx.pl-order.surf 60 IN A 0.0.0.0" 
 }
 }
 olympusholding.co {
@@ -95836,6 +95921,11 @@ przesylka.website {
 psundergrowth.xyz {
    template ANY ANY {
   answer "psundergrowth.xyz 60 IN A 0.0.0.0" 
+}
+}
+pumarsxpolska.com {
+   template ANY ANY {
+  answer "pumarsxpolska.com 60 IN A 0.0.0.0" 
 }
 }
 raportpobierz.com {
@@ -98648,34 +98738,14 @@ bs-meta.yandex.ru {
   answer "bs-meta.yandex.ru 60 IN A 0.0.0.0" 
 }
 }
-allmobilezone.com {
-   template ANY ANY {
-  answer "allmobilezone.com 60 IN A 0.0.0.0" 
-}
-}
-arjunmajumdar.com {
-   template ANY ANY {
-  answer "arjunmajumdar.com 60 IN A 0.0.0.0" 
-}
-}
-autofactory11.com {
-   template ANY ANY {
-  answer "autofactory11.com 60 IN A 0.0.0.0" 
-}
-}
-down.postch-b.top {
-   template ANY ANY {
-  answer "down.postch-b.top 60 IN A 0.0.0.0" 
-}
-}
 down.z-sepost.top {
    template ANY ANY {
   answer "down.z-sepost.top 60 IN A 0.0.0.0" 
 }
 }
-dwightjimenez.com {
+izu003.camdvr.org {
    template ANY ANY {
-  answer "dwightjimenez.com 60 IN A 0.0.0.0" 
+  answer "izu003.camdvr.org 60 IN A 0.0.0.0" 
 }
 }
 kusarivera.com.pe {
@@ -98683,9 +98753,9 @@ kusarivera.com.pe {
   answer "kusarivera.com.pe 60 IN A 0.0.0.0" 
 }
 }
-maxplaylivetv.com {
+mail.jeffsono.org {
    template ANY ANY {
-  answer "maxplaylivetv.com 60 IN A 0.0.0.0" 
+  answer "mail.jeffsono.org 60 IN A 0.0.0.0" 
 }
 }
 neuromedic.com.br {
@@ -98698,19 +98768,14 @@ pandemic-info.com {
   answer "pandemic-info.com 60 IN A 0.0.0.0" 
 }
 }
-rebelstartups.com {
-   template ANY ANY {
-  answer "rebelstartups.com 60 IN A 0.0.0.0" 
-}
-}
 remalaldhifaf.com {
    template ANY ANY {
   answer "remalaldhifaf.com 60 IN A 0.0.0.0" 
 }
 }
-rklkpgcollege.com {
+tajushshariya.com {
    template ANY ANY {
-  answer "rklkpgcollege.com 60 IN A 0.0.0.0" 
+  answer "tajushshariya.com 60 IN A 0.0.0.0" 
 }
 }
 vpn-nord-free.com {
@@ -98718,19 +98783,9 @@ vpn-nord-free.com {
   answer "vpn-nord-free.com 60 IN A 0.0.0.0" 
 }
 }
-wp.osmangony.info {
-   template ANY ANY {
-  answer "wp.osmangony.info 60 IN A 0.0.0.0" 
-}
-}
 www.ideeadoors.ro {
    template ANY ANY {
   answer "www.ideeadoors.ro 60 IN A 0.0.0.0" 
-}
-}
-www.pdaindore.com {
-   template ANY ANY {
-  answer "www.pdaindore.com 60 IN A 0.0.0.0" 
 }
 }
 by2.uservoice.com {
@@ -102778,16 +102833,6 @@ buigiaphat.com.vn {
   answer "buigiaphat.com.vn 60 IN A 0.0.0.0" 
 }
 }
-cm-arquitetos.com {
-   template ANY ANY {
-  answer "cm-arquitetos.com 60 IN A 0.0.0.0" 
-}
-}
-conceptimagine.ro {
-   template ANY ANY {
-  answer "conceptimagine.ro 60 IN A 0.0.0.0" 
-}
-}
 d.powerofwish.com {
    template ANY ANY {
   answer "d.powerofwish.com 60 IN A 0.0.0.0" 
@@ -102808,6 +102853,11 @@ dodsonimaging.com {
   answer "dodsonimaging.com 60 IN A 0.0.0.0" 
 }
 }
+ezfintechcorp.com {
+   template ANY ANY {
+  answer "ezfintechcorp.com 60 IN A 0.0.0.0" 
+}
+}
 hr2019.vrcom7.com {
    template ANY ANY {
   answer "hr2019.vrcom7.com 60 IN A 0.0.0.0" 
@@ -102816,11 +102866,6 @@ hr2019.vrcom7.com {
 indigoconsult.net {
    template ANY ANY {
   answer "indigoconsult.net 60 IN A 0.0.0.0" 
-}
-}
-izu003.camdvr.org {
-   template ANY ANY {
-  answer "izu003.camdvr.org 60 IN A 0.0.0.0" 
 }
 }
 kleinendeli.co.za {
@@ -102846,11 +102891,6 @@ lgu-angadanan.com {
 mail.codeload.org {
    template ANY ANY {
   answer "mail.codeload.org 60 IN A 0.0.0.0" 
-}
-}
-mail.jeffsono.org {
-   template ANY ANY {
-  answer "mail.jeffsono.org 60 IN A 0.0.0.0" 
 }
 }
 mehainteriors.com {
@@ -102898,11 +102938,6 @@ phudieusongma.com {
   answer "phudieusongma.com 60 IN A 0.0.0.0" 
 }
 }
-pvcprinting.co.uk {
-   template ANY ANY {
-  answer "pvcprinting.co.uk 60 IN A 0.0.0.0" 
-}
-}
 safcol-colors.com {
    template ANY ANY {
   answer "safcol-colors.com 60 IN A 0.0.0.0" 
@@ -102928,6 +102963,11 @@ theblacksheep.org {
   answer "theblacksheep.org 60 IN A 0.0.0.0" 
 }
 }
+thedesertship.com {
+   template ANY ANY {
+  answer "thedesertship.com 60 IN A 0.0.0.0" 
+}
+}
 unicorpbrunei.com {
    template ANY ANY {
   answer "unicorpbrunei.com 60 IN A 0.0.0.0" 
@@ -102943,6 +102983,11 @@ whiteresponse.com {
   answer "whiteresponse.com 60 IN A 0.0.0.0" 
 }
 }
+wp.osmangony.info {
+   template ANY ANY {
+  answer "wp.osmangony.info 60 IN A 0.0.0.0" 
+}
+}
 www.cyclomove.com {
    template ANY ANY {
   answer "www.cyclomove.com 60 IN A 0.0.0.0" 
@@ -102956,6 +103001,11 @@ www.glitzygal.net {
 www.oshiscafe.com {
    template ANY ANY {
   answer "www.oshiscafe.com 60 IN A 0.0.0.0" 
+}
+}
+www.pdaindore.com {
+   template ANY ANY {
+  answer "www.pdaindore.com 60 IN A 0.0.0.0" 
 }
 }
 www.usastudy.news {
@@ -109083,6 +109133,11 @@ informacje-onet.eu {
   answer "informacje-onet.eu 60 IN A 0.0.0.0" 
 }
 }
+info-centrum.co.pl {
+   template ANY ANY {
+  answer "info-centrum.co.pl 60 IN A 0.0.0.0" 
+}
+}
 inpost-oplata.site {
    template ANY ANY {
   answer "inpost-oplata.site 60 IN A 0.0.0.0" 
@@ -109413,6 +109468,11 @@ olx.pl-dostawa.art {
   answer "olx.pl-dostawa.art 60 IN A 0.0.0.0" 
 }
 }
+olx.pl-mkonto.club {
+   template ANY ANY {
+  answer "olx.pl-mkonto.club 60 IN A 0.0.0.0" 
+}
+}
 olympusmarkets.com {
    template ANY ANY {
   answer "olympusmarkets.com 60 IN A 0.0.0.0" 
@@ -109701,6 +109761,11 @@ regulamin-onet.com {
 runda-wygranych.eu {
    template ANY ANY {
   answer "runda-wygranych.eu 60 IN A 0.0.0.0" 
+}
+}
+safe-dellivery.org {
+   template ANY ANY {
+  answer "safe-dellivery.org 60 IN A 0.0.0.0" 
 }
 }
 santander24.online {
@@ -112098,9 +112163,9 @@ alliedtaxpoint.com {
   answer "alliedtaxpoint.com 60 IN A 0.0.0.0" 
 }
 }
-alpha-chemistry.ir {
+convertsunited.com {
    template ANY ANY {
-  answer "alpha-chemistry.ir 60 IN A 0.0.0.0" 
+  answer "convertsunited.com 60 IN A 0.0.0.0" 
 }
 }
 down.sepost-fj.top {
@@ -112108,9 +112173,9 @@ down.sepost-fj.top {
   answer "down.sepost-fj.top 60 IN A 0.0.0.0" 
 }
 }
-familydentist.site {
+drupal.website2.fr {
    template ANY ANY {
-  answer "familydentist.site 60 IN A 0.0.0.0" 
+  answer "drupal.website2.fr 60 IN A 0.0.0.0" 
 }
 }
 freigthconninc.com {
@@ -112118,29 +112183,24 @@ freigthconninc.com {
   answer "freigthconninc.com 60 IN A 0.0.0.0" 
 }
 }
-laramieonline.site {
+gabrielvalentin.ro {
    template ANY ANY {
-  answer "laramieonline.site 60 IN A 0.0.0.0" 
+  answer "gabrielvalentin.ro 60 IN A 0.0.0.0" 
 }
 }
-leluibuffet.com.br {
+giteletropical.com {
    template ANY ANY {
-  answer "leluibuffet.com.br 60 IN A 0.0.0.0" 
+  answer "giteletropical.com 60 IN A 0.0.0.0" 
 }
 }
-lunaeventos.net.br {
+izu002.casacam.net {
    template ANY ANY {
-  answer "lunaeventos.net.br 60 IN A 0.0.0.0" 
+  answer "izu002.casacam.net 60 IN A 0.0.0.0" 
 }
 }
-mobiuslimited.site {
+kmt.vianati.com.br {
    template ANY ANY {
-  answer "mobiuslimited.site 60 IN A 0.0.0.0" 
-}
-}
-shop.zoomangle.com {
-   template ANY ANY {
-  answer "shop.zoomangle.com 60 IN A 0.0.0.0" 
+  answer "kmt.vianati.com.br 60 IN A 0.0.0.0" 
 }
 }
 uidacrtsppxece.com {
@@ -112151,11 +112211,6 @@ uidacrtsppxece.com {
 unitedricemill.com {
    template ANY ANY {
   answer "unitedricemill.com 60 IN A 0.0.0.0" 
-}
-}
-wanderwithyaya.com {
-   template ANY ANY {
-  answer "wanderwithyaya.com 60 IN A 0.0.0.0" 
 }
 }
 analyti.uber.space {
@@ -115908,6 +115963,11 @@ alemelektronik.com {
   answer "alemelektronik.com 60 IN A 0.0.0.0" 
 }
 }
+ali.fazalabbas.com {
+   template ANY ANY {
+  answer "ali.fazalabbas.com 60 IN A 0.0.0.0" 
+}
+}
 amozesh.esampad.ir {
    template ANY ANY {
   answer "amozesh.esampad.ir 60 IN A 0.0.0.0" 
@@ -115916,11 +115976,6 @@ amozesh.esampad.ir {
 angelazgheibld.com {
    template ANY ANY {
   answer "angelazgheibld.com 60 IN A 0.0.0.0" 
-}
-}
-balanceathlete.com {
-   template ANY ANY {
-  answer "balanceathlete.com 60 IN A 0.0.0.0" 
 }
 }
 bespokeweddings.ie {
@@ -115938,14 +115993,19 @@ brightstarshop.com {
   answer "brightstarshop.com 60 IN A 0.0.0.0" 
 }
 }
+chardhamdodham.com {
+   template ANY ANY {
+  answer "chardhamdodham.com 60 IN A 0.0.0.0" 
+}
+}
 citycapproperty.ru {
    template ANY ANY {
   answer "citycapproperty.ru 60 IN A 0.0.0.0" 
 }
 }
-convertsunited.com {
+coopbenecun.com.co {
    template ANY ANY {
-  answer "convertsunited.com 60 IN A 0.0.0.0" 
+  answer "coopbenecun.com.co 60 IN A 0.0.0.0" 
 }
 }
 copelandscapes.com {
@@ -115953,19 +116013,9 @@ copelandscapes.com {
   answer "copelandscapes.com 60 IN A 0.0.0.0" 
 }
 }
-dagranitegiare.com {
-   template ANY ANY {
-  answer "dagranitegiare.com 60 IN A 0.0.0.0" 
-}
-}
 davethompson.me.uk {
    template ANY ANY {
   answer "davethompson.me.uk 60 IN A 0.0.0.0" 
-}
-}
-defiteqturkiye.com {
-   template ANY ANY {
-  answer "defiteqturkiye.com 60 IN A 0.0.0.0" 
 }
 }
 donghobinhminh.com {
@@ -115973,19 +116023,9 @@ donghobinhminh.com {
   answer "donghobinhminh.com 60 IN A 0.0.0.0" 
 }
 }
-drupal.website2.fr {
-   template ANY ANY {
-  answer "drupal.website2.fr 60 IN A 0.0.0.0" 
-}
-}
 dsenterprize.co.za {
    template ANY ANY {
   answer "dsenterprize.co.za 60 IN A 0.0.0.0" 
-}
-}
-dzspetroleum.co.za {
-   template ANY ANY {
-  answer "dzspetroleum.co.za 60 IN A 0.0.0.0" 
 }
 }
 esnconsultants.com {
@@ -115998,6 +116038,11 @@ eventandcasino.com {
   answer "eventandcasino.com 60 IN A 0.0.0.0" 
 }
 }
+familydentist.site {
+   template ANY ANY {
+  answer "familydentist.site 60 IN A 0.0.0.0" 
+}
+}
 faveraprojects.com {
    template ANY ANY {
   answer "faveraprojects.com 60 IN A 0.0.0.0" 
@@ -116008,19 +116053,14 @@ ffsurveyors.com.br {
   answer "ffsurveyors.com.br 60 IN A 0.0.0.0" 
 }
 }
+flipahousebook.com {
+   template ANY ANY {
+  answer "flipahousebook.com 60 IN A 0.0.0.0" 
+}
+}
 ftp.n3twork30cm.ml {
    template ANY ANY {
   answer "ftp.n3twork30cm.ml 60 IN A 0.0.0.0" 
-}
-}
-giteletropical.com {
-   template ANY ANY {
-  answer "giteletropical.com 60 IN A 0.0.0.0" 
-}
-}
-izu002.casacam.net {
-   template ANY ANY {
-  answer "izu002.casacam.net 60 IN A 0.0.0.0" 
 }
 }
 janvierassocies.fr {
@@ -116038,14 +116078,14 @@ karavantekstil.com {
   answer "karavantekstil.com 60 IN A 0.0.0.0" 
 }
 }
-kmt.vianati.com.br {
-   template ANY ANY {
-  answer "kmt.vianati.com.br 60 IN A 0.0.0.0" 
-}
-}
 lauratomismith.com {
    template ANY ANY {
   answer "lauratomismith.com 60 IN A 0.0.0.0" 
+}
+}
+leluibuffet.com.br {
+   template ANY ANY {
+  answer "leluibuffet.com.br 60 IN A 0.0.0.0" 
 }
 }
 logotypfabriken.se {
@@ -116061,6 +116101,16 @@ mdqassessing.co.za {
 my.cybonixsoft.com {
    template ANY ANY {
   answer "my.cybonixsoft.com 60 IN A 0.0.0.0" 
+}
+}
+nas.svk-telecom.ru {
+   template ANY ANY {
+  answer "nas.svk-telecom.ru 60 IN A 0.0.0.0" 
+}
+}
+nguyenkekhuyen.com {
+   template ANY ANY {
+  answer "nguyenkekhuyen.com 60 IN A 0.0.0.0" 
 }
 }
 pataphysics.net.au {
@@ -116113,6 +116163,11 @@ shivakunwar.com.np {
   answer "shivakunwar.com.np 60 IN A 0.0.0.0" 
 }
 }
+shop.zoomangle.com {
+   template ANY ANY {
+  answer "shop.zoomangle.com 60 IN A 0.0.0.0" 
+}
+}
 sinergidwireka.com {
    template ANY ANY {
   answer "sinergidwireka.com 60 IN A 0.0.0.0" 
@@ -116148,11 +116203,6 @@ umwelt-kirchhof.de {
   answer "umwelt-kirchhof.de 60 IN A 0.0.0.0" 
 }
 }
-vitumbikomumba.com {
-   template ANY ANY {
-  answer "vitumbikomumba.com 60 IN A 0.0.0.0" 
-}
-}
 vivationdesign.com {
    template ANY ANY {
   answer "vivationdesign.com 60 IN A 0.0.0.0" 
@@ -116166,6 +116216,11 @@ voobzfreight.co.za {
 wadsoncables.co.za {
    template ANY ANY {
   answer "wadsoncables.co.za 60 IN A 0.0.0.0" 
+}
+}
+wanderwithyaya.com {
+   template ANY ANY {
+  answer "wanderwithyaya.com 60 IN A 0.0.0.0" 
 }
 }
 wnews.eaglepgi.com {
@@ -116188,6 +116243,11 @@ www.hekahealth.org {
   answer "www.hekahealth.org 60 IN A 0.0.0.0" 
 }
 }
+www.seoberatung.de {
+   template ANY ANY {
+  answer "www.seoberatung.de 60 IN A 0.0.0.0" 
+}
+}
 www.sota-france.fr {
    template ANY ANY {
   answer "www.sota-france.fr 60 IN A 0.0.0.0" 
@@ -116196,6 +116256,11 @@ www.sota-france.fr {
 www.ukndesw19x.com {
    template ANY ANY {
   answer "www.ukndesw19x.com 60 IN A 0.0.0.0" 
+}
+}
+www.ummahstars.com {
+   template ANY ANY {
+  answer "www.ummahstars.com 60 IN A 0.0.0.0" 
 }
 }
 123freeavatars.com {
@@ -121998,6 +122063,11 @@ olx.pl-id88322.site {
   answer "olx.pl-id88322.site 60 IN A 0.0.0.0" 
 }
 }
+olx.pl-mkonto.group {
+   template ANY ANY {
+  answer "olx.pl-mkonto.group 60 IN A 0.0.0.0" 
+}
+}
 olx.pl-payment.life {
    template ANY ANY {
   answer "olx.pl-payment.life 60 IN A 0.0.0.0" 
@@ -122248,6 +122318,11 @@ runda-stronnicza.eu {
   answer "runda-stronnicza.eu 60 IN A 0.0.0.0" 
 }
 }
+safe-dellivery.info {
+   template ANY ANY {
+  answer "safe-dellivery.info 60 IN A 0.0.0.0" 
+}
+}
 safe-dellivery.name {
    template ANY ANY {
   answer "safe-dellivery.name 60 IN A 0.0.0.0" 
@@ -122376,6 +122451,11 @@ tvn-uwaga.dfirma.pl {
 tvpinformacyjnie.eu {
    template ANY ANY {
   answer "tvpinformacyjnie.eu 60 IN A 0.0.0.0" 
+}
+}
+twoj-portal.p33p.eu {
+   template ANY ANY {
+  answer "twoj-portal.p33p.eu 60 IN A 0.0.0.0" 
 }
 }
 tylko-prawda.vot.pl {
@@ -124563,29 +124643,29 @@ adapttostress.co.za {
   answer "adapttostress.co.za 60 IN A 0.0.0.0" 
 }
 }
+alasdemariposas.org {
+   template ANY ANY {
+  answer "alasdemariposas.org 60 IN A 0.0.0.0" 
+}
+}
 buckeyesecurity.net {
    template ANY ANY {
   answer "buckeyesecurity.net 60 IN A 0.0.0.0" 
 }
 }
-cadmuswebdesign.com {
+ennovate.elin.co.za {
    template ANY ANY {
-  answer "cadmuswebdesign.com 60 IN A 0.0.0.0" 
+  answer "ennovate.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
-ecovillefashion.com {
+hareketegecirir.com {
    template ANY ANY {
-  answer "ecovillefashion.com 60 IN A 0.0.0.0" 
+  answer "hareketegecirir.com 60 IN A 0.0.0.0" 
 }
 }
-hachi-rent-car.site {
+highlandroadcoc.com {
    template ANY ANY {
-  answer "hachi-rent-car.site 60 IN A 0.0.0.0" 
-}
-}
-joelbonissilver.com {
-   template ANY ANY {
-  answer "joelbonissilver.com 60 IN A 0.0.0.0" 
+  answer "highlandroadcoc.com 60 IN A 0.0.0.0" 
 }
 }
 kinghome.logsik.net {
@@ -124603,29 +124683,14 @@ nongsanxanhsach.com {
   answer "nongsanxanhsach.com 60 IN A 0.0.0.0" 
 }
 }
-notif1.priruz.co.in {
+soft-solutiontv.com {
    template ANY ANY {
-  answer "notif1.priruz.co.in 60 IN A 0.0.0.0" 
+  answer "soft-solutiontv.com 60 IN A 0.0.0.0" 
 }
 }
-sagittalimited.site {
+spanish.rasaiwa.com {
    template ANY ANY {
-  answer "sagittalimited.site 60 IN A 0.0.0.0" 
-}
-}
-sharkmarketing.site {
-   template ANY ANY {
-  answer "sharkmarketing.site 60 IN A 0.0.0.0" 
-}
-}
-sikhwalsamachar.com {
-   template ANY ANY {
-  answer "sikhwalsamachar.com 60 IN A 0.0.0.0" 
-}
-}
-www.katiedowens.com {
-   template ANY ANY {
-  answer "www.katiedowens.com 60 IN A 0.0.0.0" 
+  answer "spanish.rasaiwa.com 60 IN A 0.0.0.0" 
 }
 }
 client.px-cloud.net {
@@ -128078,11 +128143,6 @@ aatreefelling.co.za {
   answer "aatreefelling.co.za 60 IN A 0.0.0.0" 
 }
 }
-alasdemariposas.org {
-   template ANY ANY {
-  answer "alasdemariposas.org 60 IN A 0.0.0.0" 
-}
-}
 allthatshewants.net {
    template ANY ANY {
   answer "allthatshewants.net 60 IN A 0.0.0.0" 
@@ -128111,6 +128171,11 @@ brickwholesaler.com {
 brightonrooms.co.uk {
    template ANY ANY {
   answer "brightonrooms.co.uk 60 IN A 0.0.0.0" 
+}
+}
+cadmuswebdesign.com {
+   template ANY ANY {
+  answer "cadmuswebdesign.com 60 IN A 0.0.0.0" 
 }
 }
 capitalgroup-kw.com {
@@ -128158,11 +128223,6 @@ efficientegroup.com {
   answer "efficientegroup.com 60 IN A 0.0.0.0" 
 }
 }
-ennovate.elin.co.za {
-   template ANY ANY {
-  answer "ennovate.elin.co.za 60 IN A 0.0.0.0" 
-}
-}
 generaldeviales.com {
    template ANY ANY {
   answer "generaldeviales.com 60 IN A 0.0.0.0" 
@@ -128171,11 +128231,6 @@ generaldeviales.com {
 gold.investforex.id {
    template ANY ANY {
   answer "gold.investforex.id 60 IN A 0.0.0.0" 
-}
-}
-hareketegecirir.com {
-   template ANY ANY {
-  answer "hareketegecirir.com 60 IN A 0.0.0.0" 
 }
 }
 hoagietesting10.com {
@@ -128188,9 +128243,19 @@ imbueautoworx.co.za {
   answer "imbueautoworx.co.za 60 IN A 0.0.0.0" 
 }
 }
+joelbonissilver.com {
+   template ANY ANY {
+  answer "joelbonissilver.com 60 IN A 0.0.0.0" 
+}
+}
 lidoraggiodisole.it {
    template ANY ANY {
   answer "lidoraggiodisole.it 60 IN A 0.0.0.0" 
+}
+}
+lifebeam.elin.co.za {
+   template ANY ANY {
+  answer "lifebeam.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 mail.glommadata.com {
@@ -128201,6 +128266,11 @@ mail.glommadata.com {
 marketinfosales.com {
    template ANY ANY {
   answer "marketinfosales.com 60 IN A 0.0.0.0" 
+}
+}
+marthayfabrizio.com {
+   template ANY ANY {
+  answer "marthayfabrizio.com 60 IN A 0.0.0.0" 
 }
 }
 materialescantu.com {
@@ -128231,6 +128301,11 @@ networkwheels.co.za {
 newtreedesign.co.uk {
    template ANY ANY {
   answer "newtreedesign.co.uk 60 IN A 0.0.0.0" 
+}
+}
+notif1.priruz.co.in {
+   template ANY ANY {
+  answer "notif1.priruz.co.in 60 IN A 0.0.0.0" 
 }
 }
 ohsewgorgeous.co.uk {
@@ -128288,19 +128363,24 @@ rubycityvietnam.com {
   answer "rubycityvietnam.com 60 IN A 0.0.0.0" 
 }
 }
+sikhwalsamachar.com {
+   template ANY ANY {
+  answer "sikhwalsamachar.com 60 IN A 0.0.0.0" 
+}
+}
 siyahkalemresim.com {
    template ANY ANY {
   answer "siyahkalemresim.com 60 IN A 0.0.0.0" 
 }
 }
-soft-solutiontv.com {
-   template ANY ANY {
-  answer "soft-solutiontv.com 60 IN A 0.0.0.0" 
-}
-}
 soft.officelabo.net {
    template ANY ANY {
   answer "soft.officelabo.net 60 IN A 0.0.0.0" 
+}
+}
+tearsoftheearth.org {
+   template ANY ANY {
+  answer "tearsoftheearth.org 60 IN A 0.0.0.0" 
 }
 }
 test.wanepghana.org {
@@ -133603,9 +133683,19 @@ olx.dostawa-pl.store {
   answer "olx.dostawa-pl.store 60 IN A 0.0.0.0" 
 }
 }
+olx.getorder-pl.shop {
+   template ANY ANY {
+  answer "olx.getorder-pl.shop 60 IN A 0.0.0.0" 
+}
+}
 olx.pl-delivery.life {
    template ANY ANY {
   answer "olx.pl-delivery.life 60 IN A 0.0.0.0" 
+}
+}
+olx.pl-delivery.surf {
+   template ANY ANY {
+  answer "olx.pl-delivery.surf 60 IN A 0.0.0.0" 
 }
 }
 olx.pl-id823942.site {
@@ -133826,6 +133916,11 @@ ppl-puls.gloryft.com {
 praca-zaloguj.ct8.pl {
    template ANY ANY {
   answer "praca-zaloguj.ct8.pl 60 IN A 0.0.0.0" 
+}
+}
+prosze.moonfruit.com {
+   template ANY ANY {
+  answer "prosze.moonfruit.com 60 IN A 0.0.0.0" 
 }
 }
 przeglosuj-strone.eu {
@@ -136258,26 +136353,6 @@ sdc.traderonline.com {
   answer "sdc.traderonline.com 60 IN A 0.0.0.0" 
 }
 }
-app.cutisclinics.com {
-   template ANY ANY {
-  answer "app.cutisclinics.com 60 IN A 0.0.0.0" 
-}
-}
-bandalorenson.com.br {
-   template ANY ANY {
-  answer "bandalorenson.com.br 60 IN A 0.0.0.0" 
-}
-}
-coltdogracoes.com.br {
-   template ANY ANY {
-  answer "coltdogracoes.com.br 60 IN A 0.0.0.0" 
-}
-}
-cubc.elmamamobil.com {
-   template ANY ANY {
-  answer "cubc.elmamamobil.com 60 IN A 0.0.0.0" 
-}
-}
 cyberplanetghana.com {
    template ANY ANY {
   answer "cyberplanetghana.com 60 IN A 0.0.0.0" 
@@ -136293,39 +136368,24 @@ down.singpost-fa.top {
   answer "down.singpost-fa.top 60 IN A 0.0.0.0" 
 }
 }
-healthymachinery.com {
+moorestvhardware.com {
    template ANY ANY {
-  answer "healthymachinery.com 60 IN A 0.0.0.0" 
+  answer "moorestvhardware.com 60 IN A 0.0.0.0" 
 }
 }
-hookedupboatclub.com {
+myritz.vettickal.com {
    template ANY ANY {
-  answer "hookedupboatclub.com 60 IN A 0.0.0.0" 
+  answer "myritz.vettickal.com 60 IN A 0.0.0.0" 
 }
 }
-houstonshutters.site {
+propertiq.elin.co.za {
    template ANY ANY {
-  answer "houstonshutters.site 60 IN A 0.0.0.0" 
-}
-}
-info.deftenglish.com {
-   template ANY ANY {
-  answer "info.deftenglish.com 60 IN A 0.0.0.0" 
-}
-}
-prostar.priruz.co.in {
-   template ANY ANY {
-  answer "prostar.priruz.co.in 60 IN A 0.0.0.0" 
+  answer "propertiq.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 repair-electrons.com {
    template ANY ANY {
   answer "repair-electrons.com 60 IN A 0.0.0.0" 
-}
-}
-texturesbyvinita.com {
-   template ANY ANY {
-  answer "texturesbyvinita.com 60 IN A 0.0.0.0" 
 }
 }
 tradeccrypto.website {
@@ -139123,9 +139183,19 @@ www.vuysooqimdbt.com {
   answer "www.vuysooqimdbt.com 60 IN A 0.0.0.0" 
 }
 }
+abilita.smartojo.com {
+   template ANY ANY {
+  answer "abilita.smartojo.com 60 IN A 0.0.0.0" 
+}
+}
 aboveandbelow.com.au {
    template ANY ANY {
   answer "aboveandbelow.com.au 60 IN A 0.0.0.0" 
+}
+}
+academyshademani.com {
+   template ANY ANY {
+  answer "academyshademani.com 60 IN A 0.0.0.0" 
 }
 }
 addahealingmusic.com {
@@ -139133,24 +139203,19 @@ addahealingmusic.com {
   answer "addahealingmusic.com 60 IN A 0.0.0.0" 
 }
 }
-adventureexplorer.in {
+agnieszkawszolek.com {
    template ANY ANY {
-  answer "adventureexplorer.in 60 IN A 0.0.0.0" 
+  answer "agnieszkawszolek.com 60 IN A 0.0.0.0" 
 }
 }
-blog.callensaxen.com {
+bandalorenson.com.br {
    template ANY ANY {
-  answer "blog.callensaxen.com 60 IN A 0.0.0.0" 
+  answer "bandalorenson.com.br 60 IN A 0.0.0.0" 
 }
 }
 camminachetipassa.it {
    template ANY ANY {
   answer "camminachetipassa.it 60 IN A 0.0.0.0" 
-}
-}
-cancer.educandome.co {
-   template ANY ANY {
-  answer "cancer.educandome.co 60 IN A 0.0.0.0" 
 }
 }
 cityglobalgospel.com {
@@ -139173,14 +139238,34 @@ crittersbythebay.com {
   answer "crittersbythebay.com 60 IN A 0.0.0.0" 
 }
 }
+cubc.elmamamobil.com {
+   template ANY ANY {
+  answer "cubc.elmamamobil.com 60 IN A 0.0.0.0" 
+}
+}
+davidmcguinness.info {
+   template ANY ANY {
+  answer "davidmcguinness.info 60 IN A 0.0.0.0" 
+}
+}
 dayspringdaisies.com {
    template ANY ANY {
   answer "dayspringdaisies.com 60 IN A 0.0.0.0" 
 }
 }
+depositoclara.com.br {
+   template ANY ANY {
+  answer "depositoclara.com.br 60 IN A 0.0.0.0" 
+}
+}
 designerliving.co.za {
    template ANY ANY {
   answer "designerliving.co.za 60 IN A 0.0.0.0" 
+}
+}
+download.caihong.com {
+   template ANY ANY {
+  answer "download.caihong.com 60 IN A 0.0.0.0" 
 }
 }
 download.exrnybuf.cn {
@@ -139223,6 +139308,16 @@ herchinfitout.com.sg {
   answer "herchinfitout.com.sg 60 IN A 0.0.0.0" 
 }
 }
+hookedupboatclub.com {
+   template ANY ANY {
+  answer "hookedupboatclub.com 60 IN A 0.0.0.0" 
+}
+}
+houstonshutters.site {
+   template ANY ANY {
+  answer "houstonshutters.site 60 IN A 0.0.0.0" 
+}
+}
 immigration.omsms.in {
    template ANY ANY {
   answer "immigration.omsms.in 60 IN A 0.0.0.0" 
@@ -139231,6 +139326,11 @@ immigration.omsms.in {
 incrediblepixels.com {
    template ANY ANY {
   answer "incrediblepixels.com 60 IN A 0.0.0.0" 
+}
+}
+info.deftenglish.com {
+   template ANY ANY {
+  answer "info.deftenglish.com 60 IN A 0.0.0.0" 
 }
 }
 isiphephelocon.co.za {
@@ -139253,9 +139353,9 @@ mlrodasepneus.com.br {
   answer "mlrodasepneus.com.br 60 IN A 0.0.0.0" 
 }
 }
-moorestvhardware.com {
+mycart.osirisfai.com {
    template ANY ANY {
-  answer "moorestvhardware.com 60 IN A 0.0.0.0" 
+  answer "mycart.osirisfai.com 60 IN A 0.0.0.0" 
 }
 }
 orientgatewayltd.com {
@@ -139271,6 +139371,11 @@ pastorpaulocosta.com {
 pondokbungur.desa.id {
    template ANY ANY {
   answer "pondokbungur.desa.id 60 IN A 0.0.0.0" 
+}
+}
+prostar.priruz.co.in {
+   template ANY ANY {
+  answer "prostar.priruz.co.in 60 IN A 0.0.0.0" 
 }
 }
 quicksaleecuador.com {
@@ -139313,9 +139418,9 @@ swiftlogisticseg.com {
   answer "swiftlogisticseg.com 60 IN A 0.0.0.0" 
 }
 }
-tapalkoedacoffee.com {
+texturesbyvinita.com {
    template ANY ANY {
-  answer "tapalkoedacoffee.com 60 IN A 0.0.0.0" 
+  answer "texturesbyvinita.com 60 IN A 0.0.0.0" 
 }
 }
 topflighttrading.org {
@@ -145633,19 +145738,19 @@ www.myroitracking.com {
   answer "www.myroitracking.com 60 IN A 0.0.0.0" 
 }
 }
-compremaisaqui.com.br {
+cubescargoexpress.com {
    template ANY ANY {
-  answer "compremaisaqui.com.br 60 IN A 0.0.0.0" 
-}
-}
-coria.elmamamobil.com {
-   template ANY ANY {
-  answer "coria.elmamamobil.com 60 IN A 0.0.0.0" 
+  answer "cubescargoexpress.com 60 IN A 0.0.0.0" 
 }
 }
 datamicrotransfer.com {
    template ANY ANY {
   answer "datamicrotransfer.com 60 IN A 0.0.0.0" 
+}
+}
+deigratia2.elin.co.za {
+   template ANY ANY {
+  answer "deigratia2.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 educakanchaycusco.com {
@@ -145658,24 +145763,19 @@ globalteamacademy.com {
   answer "globalteamacademy.com 60 IN A 0.0.0.0" 
 }
 }
-greengluecompound.com {
+ol.cognitiononline.in {
    template ANY ANY {
-  answer "greengluecompound.com 60 IN A 0.0.0.0" 
-}
-}
-m.localcitycenter.com {
-   template ANY ANY {
-  answer "m.localcitycenter.com 60 IN A 0.0.0.0" 
-}
-}
-neumaservicios.com.ar {
-   template ANY ANY {
-  answer "neumaservicios.com.ar 60 IN A 0.0.0.0" 
+  answer "ol.cognitiononline.in 60 IN A 0.0.0.0" 
 }
 }
 onlybamboofabrics.com {
    template ANY ANY {
   answer "onlybamboofabrics.com 60 IN A 0.0.0.0" 
+}
+}
+propertiq2.elin.co.za {
+   template ANY ANY {
+  answer "propertiq2.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 thefunkytruckeria.com {
@@ -145686,21 +145786,6 @@ thefunkytruckeria.com {
 turanggaresources.com {
    template ANY ANY {
   answer "turanggaresources.com 60 IN A 0.0.0.0" 
-}
-}
-womenwithamandate.com {
-   template ANY ANY {
-  answer "womenwithamandate.com 60 IN A 0.0.0.0" 
-}
-}
-www.adamorinmusic.com {
-   template ANY ANY {
-  answer "www.adamorinmusic.com 60 IN A 0.0.0.0" 
-}
-}
-www.msctahmedabad.com {
-   template ANY ANY {
-  answer "www.msctahmedabad.com 60 IN A 0.0.0.0" 
 }
 }
 adbserver.doceree.com {
@@ -146981,6 +147066,11 @@ cashflowmarketing.com {
 ccas.clearchannel.com {
    template ANY ANY {
   answer "ccas.clearchannel.com 60 IN A 0.0.0.0" 
+}
+}
+cdn.owebanalytics.com {
+   template ANY ANY {
+  answer "cdn.owebanalytics.com 60 IN A 0.0.0.0" 
 }
 }
 cdn.stat.easydate.biz {
@@ -148303,24 +148393,19 @@ blueprintvehicles.net {
   answer "blueprintvehicles.net 60 IN A 0.0.0.0" 
 }
 }
+compremaisaqui.com.br {
+   template ANY ANY {
+  answer "compremaisaqui.com.br 60 IN A 0.0.0.0" 
+}
+}
 consultingevolved.com {
    template ANY ANY {
   answer "consultingevolved.com 60 IN A 0.0.0.0" 
 }
 }
-cubescargoexpress.com {
+coria.elmamamobil.com {
    template ANY ANY {
-  answer "cubescargoexpress.com 60 IN A 0.0.0.0" 
-}
-}
-defiteqazerbaycan.com {
-   template ANY ANY {
-  answer "defiteqazerbaycan.com 60 IN A 0.0.0.0" 
-}
-}
-deigratia2.elin.co.za {
-   template ANY ANY {
-  answer "deigratia2.elin.co.za 60 IN A 0.0.0.0" 
+  answer "coria.elmamamobil.com 60 IN A 0.0.0.0" 
 }
 }
 dental.xiaoxiao.media {
@@ -148343,6 +148428,16 @@ futuregraphics.com.ar {
   answer "futuregraphics.com.ar 60 IN A 0.0.0.0" 
 }
 }
+hwm.seriesnow.website {
+   template ANY ANY {
+  answer "hwm.seriesnow.website 60 IN A 0.0.0.0" 
+}
+}
+iamlearn.feisst.cloud {
+   template ANY ANY {
+  answer "iamlearn.feisst.cloud 60 IN A 0.0.0.0" 
+}
+}
 lissinternational.com {
    template ANY ANY {
   answer "lissinternational.com 60 IN A 0.0.0.0" 
@@ -148353,14 +148448,19 @@ lotusanddragonfly.com {
   answer "lotusanddragonfly.com 60 IN A 0.0.0.0" 
 }
 }
+neumaservicios.com.ar {
+   template ANY ANY {
+  answer "neumaservicios.com.ar 60 IN A 0.0.0.0" 
+}
+}
+ns1.the-widyantos.com {
+   template ANY ANY {
+  answer "ns1.the-widyantos.com 60 IN A 0.0.0.0" 
+}
+}
 obseques-conseils.com {
    template ANY ANY {
   answer "obseques-conseils.com 60 IN A 0.0.0.0" 
-}
-}
-ol.cognitiononline.in {
-   template ANY ANY {
-  answer "ol.cognitiononline.in 60 IN A 0.0.0.0" 
 }
 }
 oldvrv.gdsitetest.com {
@@ -148371,11 +148471,6 @@ oldvrv.gdsitetest.com {
 online.creedglobal.in {
    template ANY ANY {
   answer "online.creedglobal.in 60 IN A 0.0.0.0" 
-}
-}
-propertiq2.elin.co.za {
-   template ANY ANY {
-  answer "propertiq2.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 redchillicrackers.com {
@@ -148398,19 +148493,34 @@ thecreativecafe.co.uk {
   answer "thecreativecafe.co.uk 60 IN A 0.0.0.0" 
 }
 }
+themansionkasauli.com {
+   template ANY ANY {
+  answer "themansionkasauli.com 60 IN A 0.0.0.0" 
+}
+}
+webmail.transactra.co {
+   template ANY ANY {
+  answer "webmail.transactra.co 60 IN A 0.0.0.0" 
+}
+}
 ws4polisi.pdc-ind.com {
    template ANY ANY {
   answer "ws4polisi.pdc-ind.com 60 IN A 0.0.0.0" 
 }
 }
-www.hassanproduct.com {
+www.adamorinmusic.com {
    template ANY ANY {
-  answer "www.hassanproduct.com 60 IN A 0.0.0.0" 
+  answer "www.adamorinmusic.com 60 IN A 0.0.0.0" 
 }
 }
 www.mediamaster.co.za {
    template ANY ANY {
   answer "www.mediamaster.co.za 60 IN A 0.0.0.0" 
+}
+}
+www.msctahmedabad.com {
+   template ANY ANY {
+  answer "www.msctahmedabad.com 60 IN A 0.0.0.0" 
 }
 }
 www.robertmcardle.com {
@@ -151953,6 +152063,11 @@ ogloszenie348293.space {
   answer "ogloszenie348293.space 60 IN A 0.0.0.0" 
 }
 }
+olx.pl.order3ds.online {
+   template ANY ANY {
+  answer "olx.pl.order3ds.online 60 IN A 0.0.0.0" 
+}
+}
 olxpl.delivery-pay.fun {
    template ANY ANY {
   answer "olxpl.delivery-pay.fun 60 IN A 0.0.0.0" 
@@ -153838,14 +153953,24 @@ service.multi-pops.com {
   answer "service.multi-pops.com 60 IN A 0.0.0.0" 
 }
 }
+atlasconcreteworks.com {
+   template ANY ANY {
+  answer "atlasconcreteworks.com 60 IN A 0.0.0.0" 
+}
+}
+buscascolegios.diit.cl {
+   template ANY ANY {
+  answer "buscascolegios.diit.cl 60 IN A 0.0.0.0" 
+}
+}
 cnc.c541f5d439a359.xyz {
    template ANY ANY {
   answer "cnc.c541f5d439a359.xyz 60 IN A 0.0.0.0" 
 }
 }
-corporativosanluis.net {
+edmclinic5.qnotice.com {
    template ANY ANY {
-  answer "corporativosanluis.net 60 IN A 0.0.0.0" 
+  answer "edmclinic5.qnotice.com 60 IN A 0.0.0.0" 
 }
 }
 goldforexinstitute.com {
@@ -153853,19 +153978,24 @@ goldforexinstitute.com {
   answer "goldforexinstitute.com 60 IN A 0.0.0.0" 
 }
 }
-personaltrainerfds.com {
+i.thechinesemuslim.com {
    template ANY ANY {
-  answer "personaltrainerfds.com 60 IN A 0.0.0.0" 
+  answer "i.thechinesemuslim.com 60 IN A 0.0.0.0" 
 }
 }
-shahikhana.cstdevs.com {
+izu001.webredirect.org {
    template ANY ANY {
-  answer "shahikhana.cstdevs.com 60 IN A 0.0.0.0" 
+  answer "izu001.webredirect.org 60 IN A 0.0.0.0" 
 }
 }
-visions.alnisamart.com {
+nocalnoodle.elin.co.za {
    template ANY ANY {
-  answer "visions.alnisamart.com 60 IN A 0.0.0.0" 
+  answer "nocalnoodle.elin.co.za 60 IN A 0.0.0.0" 
+}
+}
+philortho.pillowws.com {
+   template ANY ANY {
+  answer "philortho.pillowws.com 60 IN A 0.0.0.0" 
 }
 }
 www.theluxdowntown.com {
@@ -156188,11 +156318,6 @@ amarteargentina.com.ar {
   answer "amarteargentina.com.ar 60 IN A 0.0.0.0" 
 }
 }
-atlasconcreteworks.com {
-   template ANY ANY {
-  answer "atlasconcreteworks.com 60 IN A 0.0.0.0" 
-}
-}
 bhavaniengineering.com {
    template ANY ANY {
   answer "bhavaniengineering.com 60 IN A 0.0.0.0" 
@@ -156223,14 +156348,14 @@ dedicace.radio-ifge.fr {
   answer "dedicace.radio-ifge.fr 60 IN A 0.0.0.0" 
 }
 }
-edmclinic5.qnotice.com {
-   template ANY ANY {
-  answer "edmclinic5.qnotice.com 60 IN A 0.0.0.0" 
-}
-}
 fullelectronica.com.ar {
    template ANY ANY {
   answer "fullelectronica.com.ar 60 IN A 0.0.0.0" 
+}
+}
+getpaidwithwatches.com {
+   template ANY ANY {
+  answer "getpaidwithwatches.com 60 IN A 0.0.0.0" 
 }
 }
 goldcoastoffice365.com {
@@ -156238,19 +156363,9 @@ goldcoastoffice365.com {
   answer "goldcoastoffice365.com 60 IN A 0.0.0.0" 
 }
 }
-i.thechinesemuslim.com {
-   template ANY ANY {
-  answer "i.thechinesemuslim.com 60 IN A 0.0.0.0" 
-}
-}
 itc-demo.softgig.co.ke {
    template ANY ANY {
   answer "itc-demo.softgig.co.ke 60 IN A 0.0.0.0" 
-}
-}
-izu001.webredirect.org {
-   template ANY ANY {
-  answer "izu001.webredirect.org 60 IN A 0.0.0.0" 
 }
 }
 join.cl8movement.co.za {
@@ -156278,11 +156393,6 @@ njtiledesigncenter.com {
   answer "njtiledesigncenter.com 60 IN A 0.0.0.0" 
 }
 }
-nocalnoodle.elin.co.za {
-   template ANY ANY {
-  answer "nocalnoodle.elin.co.za 60 IN A 0.0.0.0" 
-}
-}
 oakleyandfriends.co.uk {
    template ANY ANY {
   answer "oakleyandfriends.co.uk 60 IN A 0.0.0.0" 
@@ -156308,14 +156418,19 @@ patito.elmamamobil.com {
   answer "patito.elmamamobil.com 60 IN A 0.0.0.0" 
 }
 }
-philortho.pillowws.com {
+personaltrainerfds.com {
    template ANY ANY {
-  answer "philortho.pillowws.com 60 IN A 0.0.0.0" 
+  answer "personaltrainerfds.com 60 IN A 0.0.0.0" 
 }
 }
 richmondminerals.co.zm {
    template ANY ANY {
   answer "richmondminerals.co.zm 60 IN A 0.0.0.0" 
+}
+}
+s.thechinesemuslim.com {
+   template ANY ANY {
+  answer "s.thechinesemuslim.com 60 IN A 0.0.0.0" 
 }
 }
 sacredscentsonline.com {
@@ -156346,6 +156461,11 @@ totalprotectionltd.com {
 veterinariadrpopui.com {
    template ANY ANY {
   answer "veterinariadrpopui.com 60 IN A 0.0.0.0" 
+}
+}
+visions.alnisamart.com {
+   template ANY ANY {
+  answer "visions.alnisamart.com 60 IN A 0.0.0.0" 
 }
 }
 vrindapublicschool.com {
@@ -158998,6 +159118,11 @@ olx-pl.secure-code.site {
   answer "olx-pl.secure-code.site 60 IN A 0.0.0.0" 
 }
 }
+olx.pl-dostawa.boutique {
+   template ANY ANY {
+  answer "olx.pl-dostawa.boutique 60 IN A 0.0.0.0" 
+}
+}
 omrolsztyn.neostrada.pl {
    template ANY ANY {
   answer "omrolsztyn.neostrada.pl 60 IN A 0.0.0.0" 
@@ -160398,6 +160523,11 @@ biblicalisraeltours.com {
   answer "biblicalisraeltours.com 60 IN A 0.0.0.0" 
 }
 }
+blog.cognitiononline.in {
+   template ANY ANY {
+  answer "blog.cognitiononline.in 60 IN A 0.0.0.0" 
+}
+}
 covid19safety.myftp.org {
    template ANY ANY {
   answer "covid19safety.myftp.org 60 IN A 0.0.0.0" 
@@ -160408,44 +160538,34 @@ darmoresidencehotel.com {
   answer "darmoresidencehotel.com 60 IN A 0.0.0.0" 
 }
 }
+filecdn.lejiaolexue.com {
+   template ANY ANY {
+  answer "filecdn.lejiaolexue.com 60 IN A 0.0.0.0" 
+}
+}
 jugueteriaelgato.com.ar {
    template ANY ANY {
   answer "jugueteriaelgato.com.ar 60 IN A 0.0.0.0" 
 }
 }
-lakeshoresolutions.site {
+kubatoglubaklava.com.tr {
    template ANY ANY {
-  answer "lakeshoresolutions.site 60 IN A 0.0.0.0" 
+  answer "kubatoglubaklava.com.tr 60 IN A 0.0.0.0" 
 }
 }
-ourvisionopticals.store {
+rachmat-assuhaimi.my.id {
    template ANY ANY {
-  answer "ourvisionopticals.store 60 IN A 0.0.0.0" 
+  answer "rachmat-assuhaimi.my.id 60 IN A 0.0.0.0" 
 }
 }
-spiceoils.a1oilindia.in {
+segalsmetals.elin.co.za {
    template ANY ANY {
-  answer "spiceoils.a1oilindia.in 60 IN A 0.0.0.0" 
+  answer "segalsmetals.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 thebestgourmetsauce.com {
    template ANY ANY {
   answer "thebestgourmetsauce.com 60 IN A 0.0.0.0" 
-}
-}
-vps-6482d482.vps.ovh.ca {
-   template ANY ANY {
-  answer "vps-6482d482.vps.ovh.ca 60 IN A 0.0.0.0" 
-}
-}
-web.thebeessolution.com {
-   template ANY ANY {
-  answer "web.thebeessolution.com 60 IN A 0.0.0.0" 
-}
-}
-www.taxicabsrilanka.com {
-   template ANY ANY {
-  answer "www.taxicabsrilanka.com 60 IN A 0.0.0.0" 
 }
 }
 protected-by.clarium.io {
@@ -162788,14 +162908,14 @@ coriawp.elmamamobil.com {
   answer "coriawp.elmamamobil.com 60 IN A 0.0.0.0" 
 }
 }
+covid-19.bufferkart.com {
+   template ANY ANY {
+  answer "covid-19.bufferkart.com 60 IN A 0.0.0.0" 
+}
+}
 creationskateboards.com {
    template ANY ANY {
   answer "creationskateboards.com 60 IN A 0.0.0.0" 
-}
-}
-filecdn.lejiaolexue.com {
-   template ANY ANY {
-  answer "filecdn.lejiaolexue.com 60 IN A 0.0.0.0" 
 }
 }
 fusionfiresolutions.com {
@@ -162808,14 +162928,14 @@ jobportal.xdesign.co.in {
   answer "jobportal.xdesign.co.in 60 IN A 0.0.0.0" 
 }
 }
-kubatoglubaklava.com.tr {
-   template ANY ANY {
-  answer "kubatoglubaklava.com.tr 60 IN A 0.0.0.0" 
-}
-}
 mail.bs-eiendomme.co.za {
    template ANY ANY {
   answer "mail.bs-eiendomme.co.za 60 IN A 0.0.0.0" 
+}
+}
+online-docu-sign-st.com {
+   template ANY ANY {
+  answer "online-docu-sign-st.com 60 IN A 0.0.0.0" 
 }
 }
 pillarsouthafrica.co.za {
@@ -162823,9 +162943,9 @@ pillarsouthafrica.co.za {
   answer "pillarsouthafrica.co.za 60 IN A 0.0.0.0" 
 }
 }
-rachmat-assuhaimi.my.id {
+raden.seriesnow.website {
    template ANY ANY {
-  answer "rachmat-assuhaimi.my.id 60 IN A 0.0.0.0" 
+  answer "raden.seriesnow.website 60 IN A 0.0.0.0" 
 }
 }
 ravenproductionsltd.com {
@@ -162833,14 +162953,14 @@ ravenproductionsltd.com {
   answer "ravenproductionsltd.com 60 IN A 0.0.0.0" 
 }
 }
-segalsmetals.elin.co.za {
-   template ANY ANY {
-  answer "segalsmetals.elin.co.za 60 IN A 0.0.0.0" 
-}
-}
 shaheentbfoundation.com {
    template ANY ANY {
   answer "shaheentbfoundation.com 60 IN A 0.0.0.0" 
+}
+}
+spiceoils.a1oilindia.in {
+   template ANY ANY {
+  answer "spiceoils.a1oilindia.in 60 IN A 0.0.0.0" 
 }
 }
 tarravalleyfoods.com.au {
@@ -162848,14 +162968,19 @@ tarravalleyfoods.com.au {
   answer "tarravalleyfoods.com.au 60 IN A 0.0.0.0" 
 }
 }
-technologydistilled.com {
+testing.thinkingcorp.in {
    template ANY ANY {
-  answer "technologydistilled.com 60 IN A 0.0.0.0" 
+  answer "testing.thinkingcorp.in 60 IN A 0.0.0.0" 
 }
 }
 vanzare.cabanabrazi2.ro {
    template ANY ANY {
   answer "vanzare.cabanabrazi2.ro 60 IN A 0.0.0.0" 
+}
+}
+web.thebeessolution.com {
+   template ANY ANY {
+  answer "web.thebeessolution.com 60 IN A 0.0.0.0" 
 }
 }
 weinsteincounseling.com {
@@ -162876,6 +163001,16 @@ www.0-24bpautomentes.hu {
 www.dzinestudio87.co.uk {
    template ANY ANY {
   answer "www.dzinestudio87.co.uk 60 IN A 0.0.0.0" 
+}
+}
+www.raimafotografia.com {
+   template ANY ANY {
+  answer "www.raimafotografia.com 60 IN A 0.0.0.0" 
+}
+}
+www.taxicabsrilanka.com {
+   template ANY ANY {
+  answer "www.taxicabsrilanka.com 60 IN A 0.0.0.0" 
 }
 }
 ads.kabooaffiliates.com {
@@ -165193,6 +165328,11 @@ infosandiego.wixsite.com {
   answer "infosandiego.wixsite.com 60 IN A 0.0.0.0" 
 }
 }
+inpost.getorder-pl.store {
+   template ANY ANY {
+  answer "inpost.getorder-pl.store 60 IN A 0.0.0.0" 
+}
+}
 inpost.pl-safeorder.live {
    template ANY ANY {
   answer "inpost.pl-safeorder.live 60 IN A 0.0.0.0" 
@@ -166398,44 +166538,19 @@ webiq005.webiqonline.com {
   answer "webiq005.webiqonline.com 60 IN A 0.0.0.0" 
 }
 }
-jobs.thebeessolution.com {
-   template ANY ANY {
-  answer "jobs.thebeessolution.com 60 IN A 0.0.0.0" 
-}
-}
-mail.wepartnersfiles.com {
-   template ANY ANY {
-  answer "mail.wepartnersfiles.com 60 IN A 0.0.0.0" 
-}
-}
 milaskentyasamevleri.com {
    template ANY ANY {
   answer "milaskentyasamevleri.com 60 IN A 0.0.0.0" 
 }
 }
-nicoleth.elmamamobil.com {
-   template ANY ANY {
-  answer "nicoleth.elmamamobil.com 60 IN A 0.0.0.0" 
-}
-}
-oleoresins.a1oilindia.in {
-   template ANY ANY {
-  answer "oleoresins.a1oilindia.in 60 IN A 0.0.0.0" 
-}
-}
-qurbanakbarindonesia.com {
-   template ANY ANY {
-  answer "qurbanakbarindonesia.com 60 IN A 0.0.0.0" 
-}
-}
-santiago.elmamamobil.com {
-   template ANY ANY {
-  answer "santiago.elmamamobil.com 60 IN A 0.0.0.0" 
-}
-}
 sycamoreheightsrehab.com {
    template ANY ANY {
   answer "sycamoreheightsrehab.com 60 IN A 0.0.0.0" 
+}
+}
+vtube.fadlymotivator.com {
+   template ANY ANY {
+  answer "vtube.fadlymotivator.com 60 IN A 0.0.0.0" 
 }
 }
 programmatic.doceree.com {
@@ -168348,9 +168463,24 @@ invoicing.thedressing.co {
   answer "invoicing.thedressing.co 60 IN A 0.0.0.0" 
 }
 }
+jobs.thebeessolution.com {
+   template ANY ANY {
+  answer "jobs.thebeessolution.com 60 IN A 0.0.0.0" 
+}
+}
+langky.seriesnow.website {
+   template ANY ANY {
+  answer "langky.seriesnow.website 60 IN A 0.0.0.0" 
+}
+}
 laravel.e-mobiletech.com {
    template ANY ANY {
   answer "laravel.e-mobiletech.com 60 IN A 0.0.0.0" 
+}
+}
+linderosinmobiliaria.com {
+   template ANY ANY {
+  answer "linderosinmobiliaria.com 60 IN A 0.0.0.0" 
 }
 }
 lindnerelektroanlagen.de {
@@ -168358,9 +168488,29 @@ lindnerelektroanlagen.de {
   answer "lindnerelektroanlagen.de 60 IN A 0.0.0.0" 
 }
 }
+mail.wepartnersfiles.com {
+   template ANY ANY {
+  answer "mail.wepartnersfiles.com 60 IN A 0.0.0.0" 
+}
+}
+nicoleth.elmamamobil.com {
+   template ANY ANY {
+  answer "nicoleth.elmamamobil.com 60 IN A 0.0.0.0" 
+}
+}
+noticias24horases.com.br {
+   template ANY ANY {
+  answer "noticias24horases.com.br 60 IN A 0.0.0.0" 
+}
+}
 office.horussolution.com {
    template ANY ANY {
   answer "office.horussolution.com 60 IN A 0.0.0.0" 
+}
+}
+oleoresins.a1oilindia.in {
+   template ANY ANY {
+  answer "oleoresins.a1oilindia.in 60 IN A 0.0.0.0" 
 }
 }
 open.warehousesaas.co.uk {
@@ -168376,6 +168526,11 @@ production.sparshims.com {
 samakhomsatreethai.ac.th {
    template ANY ANY {
   answer "samakhomsatreethai.ac.th 60 IN A 0.0.0.0" 
+}
+}
+santiago.elmamamobil.com {
+   template ANY ANY {
+  answer "santiago.elmamamobil.com 60 IN A 0.0.0.0" 
 }
 }
 servis.altankarakaya.com {
@@ -168408,11 +168563,6 @@ vitoriamodaintima.com.br {
   answer "vitoriamodaintima.com.br 60 IN A 0.0.0.0" 
 }
 }
-vtube.fadlymotivator.com {
-   template ANY ANY {
-  answer "vtube.fadlymotivator.com 60 IN A 0.0.0.0" 
-}
-}
 whcms.yourpageserver.com {
    template ANY ANY {
   answer "whcms.yourpageserver.com 60 IN A 0.0.0.0" 
@@ -168426,11 +168576,6 @@ www.kwanfromhongkong.com {
 www.lautarosanmiguel.com {
    template ANY ANY {
   answer "www.lautarosanmiguel.com 60 IN A 0.0.0.0" 
-}
-}
-www.yummyyogaudaipur.com {
-   template ANY ANY {
-  answer "www.yummyyogaudaipur.com 60 IN A 0.0.0.0" 
 }
 }
 yoast.yourpageserver.com {
@@ -169808,6 +169953,11 @@ absolutezeros.duckdns.org {
   answer "absolutezeros.duckdns.org 60 IN A 0.0.0.0" 
 }
 }
+acceuil-serviceclient.com {
+   template ANY ANY {
+  answer "acceuil-serviceclient.com 60 IN A 0.0.0.0" 
+}
+}
 agroniezapominajka.com.pl {
    template ANY ANY {
   answer "agroniezapominajka.com.pl 60 IN A 0.0.0.0" 
@@ -170893,39 +171043,9 @@ s01-delivery.addynamo.net {
   answer "s01-delivery.addynamo.net 60 IN A 0.0.0.0" 
 }
 }
-accounts.orientbutton.com {
-   template ANY ANY {
-  answer "accounts.orientbutton.com 60 IN A 0.0.0.0" 
-}
-}
-alsaqlain.mtzinfotech.com {
-   template ANY ANY {
-  answer "alsaqlain.mtzinfotech.com 60 IN A 0.0.0.0" 
-}
-}
 crudtest.srintegrated.com {
    template ANY ANY {
   answer "crudtest.srintegrated.com 60 IN A 0.0.0.0" 
-}
-}
-eltrendelossuenios.com.ar {
-   template ANY ANY {
-  answer "eltrendelossuenios.com.ar 60 IN A 0.0.0.0" 
-}
-}
-exclusiveclothingsnyc.com {
-   template ANY ANY {
-  answer "exclusiveclothingsnyc.com 60 IN A 0.0.0.0" 
-}
-}
-manage.morissalakante.com {
-   template ANY ANY {
-  answer "manage.morissalakante.com 60 IN A 0.0.0.0" 
-}
-}
-smithcalendar.cstdevs.com {
-   template ANY ANY {
-  answer "smithcalendar.cstdevs.com 60 IN A 0.0.0.0" 
 }
 }
 temperoalternativo.com.br {
@@ -172273,6 +172393,11 @@ admin.grandoceanvilla.com {
   answer "admin.grandoceanvilla.com 60 IN A 0.0.0.0" 
 }
 }
+amateen.slashinnovate.com {
+   template ANY ANY {
+  answer "amateen.slashinnovate.com 60 IN A 0.0.0.0" 
+}
+}
 ams.alvinasschools.org.ng {
    template ANY ANY {
   answer "ams.alvinasschools.org.ng 60 IN A 0.0.0.0" 
@@ -172281,6 +172406,11 @@ ams.alvinasschools.org.ng {
 app.explicitsurveys.co.uk {
    template ANY ANY {
   answer "app.explicitsurveys.co.uk 60 IN A 0.0.0.0" 
+}
+}
+automaticrefreshments.com {
+   template ANY ANY {
+  answer "automaticrefreshments.com 60 IN A 0.0.0.0" 
 }
 }
 blastersinvestments.co.zw {
@@ -172303,9 +172433,19 @@ comotocarviolaorapido.com {
   answer "comotocarviolaorapido.com 60 IN A 0.0.0.0" 
 }
 }
+eltrendelossuenios.com.ar {
+   template ANY ANY {
+  answer "eltrendelossuenios.com.ar 60 IN A 0.0.0.0" 
+}
+}
 fadingmemoriespodcast.com {
    template ANY ANY {
   answer "fadingmemoriespodcast.com 60 IN A 0.0.0.0" 
+}
+}
+footweardirect.elin.co.za {
+   template ANY ANY {
+  answer "footweardirect.elin.co.za 60 IN A 0.0.0.0" 
 }
 }
 goldcoastoffice365.com.au {
@@ -172318,9 +172458,24 @@ inovations.searchkero.com {
   answer "inovations.searchkero.com 60 IN A 0.0.0.0" 
 }
 }
+mikhailmotoringschool.com {
+   template ANY ANY {
+  answer "mikhailmotoringschool.com 60 IN A 0.0.0.0" 
+}
+}
+osorio.webmarketinggt.com {
+   template ANY ANY {
+  answer "osorio.webmarketinggt.com 60 IN A 0.0.0.0" 
+}
+}
 pmglance.startwriteup.com {
    template ANY ANY {
   answer "pmglance.startwriteup.com 60 IN A 0.0.0.0" 
+}
+}
+siddharthpanditpautra.com {
+   template ANY ANY {
+  answer "siddharthpanditpautra.com 60 IN A 0.0.0.0" 
 }
 }
 www.notamuzikaletleri.com {
@@ -174323,44 +174478,24 @@ sdc.windowsmarketplace.com {
   answer "sdc.windowsmarketplace.com 60 IN A 0.0.0.0" 
 }
 }
-alder-tw.com.accaliang.com {
+capstone.equilibrium.co.ke {
    template ANY ANY {
-  answer "alder-tw.com.accaliang.com 60 IN A 0.0.0.0" 
+  answer "capstone.equilibrium.co.ke 60 IN A 0.0.0.0" 
 }
 }
-floralwaters.a1oilindia.in {
+docman.orientalservices.in {
    template ANY ANY {
-  answer "floralwaters.a1oilindia.in 60 IN A 0.0.0.0" 
+  answer "docman.orientalservices.in 60 IN A 0.0.0.0" 
+}
+}
+eyupselahattinyanar.com.tr {
+   template ANY ANY {
+  answer "eyupselahattinyanar.com.tr 60 IN A 0.0.0.0" 
 }
 }
 intranet.iep-lacatolica.pe {
    template ANY ANY {
   answer "intranet.iep-lacatolica.pe 60 IN A 0.0.0.0" 
-}
-}
-jumaa.boldcreationsnam.com {
-   template ANY ANY {
-  answer "jumaa.boldcreationsnam.com 60 IN A 0.0.0.0" 
-}
-}
-scholarship.osmangony.info {
-   template ANY ANY {
-  answer "scholarship.osmangony.info 60 IN A 0.0.0.0" 
-}
-}
-srichaitanyacollegenlg.com {
-   template ANY ANY {
-  answer "srichaitanyacollegenlg.com 60 IN A 0.0.0.0" 
-}
-}
-synchro.brittanyamanda.com {
-   template ANY ANY {
-  answer "synchro.brittanyamanda.com 60 IN A 0.0.0.0" 
-}
-}
-zeko.voeden-middleeast.com {
-   template ANY ANY {
-  answer "zeko.voeden-middleeast.com 60 IN A 0.0.0.0" 
 }
 }
 vitals.vercel-insights.com {
@@ -175208,6 +175343,11 @@ tokihakita.vis1.shinobi.jp {
   answer "tokihakita.vis1.shinobi.jp 60 IN A 0.0.0.0" 
 }
 }
+anniversary-gifts-shop.com {
+   template ANY ANY {
+  answer "anniversary-gifts-shop.com 60 IN A 0.0.0.0" 
+}
+}
 arcadistribuidorasc.com.br {
    template ANY ANY {
   answer "arcadistribuidorasc.com.br 60 IN A 0.0.0.0" 
@@ -175228,21 +175368,6 @@ binarywebtechsolutions.com {
   answer "binarywebtechsolutions.com 60 IN A 0.0.0.0" 
 }
 }
-capstone.equilibrium.co.ke {
-   template ANY ANY {
-  answer "capstone.equilibrium.co.ke 60 IN A 0.0.0.0" 
-}
-}
-docman.orientalservices.in {
-   template ANY ANY {
-  answer "docman.orientalservices.in 60 IN A 0.0.0.0" 
-}
-}
-eyupselahattinyanar.com.tr {
-   template ANY ANY {
-  answer "eyupselahattinyanar.com.tr 60 IN A 0.0.0.0" 
-}
-}
 farmaciasdrogaminas.com.br {
    template ANY ANY {
   answer "farmaciasdrogaminas.com.br 60 IN A 0.0.0.0" 
@@ -175251,6 +175376,11 @@ farmaciasdrogaminas.com.br {
 flash-update.buyonebuy.top {
    template ANY ANY {
   answer "flash-update.buyonebuy.top 60 IN A 0.0.0.0" 
+}
+}
+floralwaters.a1oilindia.in {
+   template ANY ANY {
+  answer "floralwaters.a1oilindia.in 60 IN A 0.0.0.0" 
 }
 }
 ppdb.smk-ciptaskill.sch.id {
@@ -175268,14 +175398,14 @@ ratemyfenancialadvisor.com {
   answer "ratemyfenancialadvisor.com 60 IN A 0.0.0.0" 
 }
 }
+scholarship.osmangony.info {
+   template ANY ANY {
+  answer "scholarship.osmangony.info 60 IN A 0.0.0.0" 
+}
+}
 testnew.yourpageserver.com {
    template ANY ANY {
   answer "testnew.yourpageserver.com 60 IN A 0.0.0.0" 
-}
-}
-tharringtonsponsorship.com {
-   template ANY ANY {
-  answer "tharringtonsponsorship.com 60 IN A 0.0.0.0" 
 }
 }
 www.pedidoslalacteo.com.ar {
@@ -176011,6 +176141,11 @@ allegro-lokalnie-581927.xyz {
 amu-edu-pl.ew.r.appspot.com {
    template ANY ANY {
   answer "amu-edu-pl.ew.r.appspot.com 60 IN A 0.0.0.0" 
+}
+}
+app.uniswap.info-tokens.com {
+   template ANY ANY {
+  answer "app.uniswap.info-tokens.com 60 IN A 0.0.0.0" 
 }
 }
 bazaosobzaginionych.you2.pl {
@@ -176953,39 +177088,19 @@ adsystem.simplemachines.org {
   answer "adsystem.simplemachines.org 60 IN A 0.0.0.0" 
 }
 }
-bajacamping.elmamamobil.com {
+morrislibraryconsulting.com {
    template ANY ANY {
-  answer "bajacamping.elmamamobil.com 60 IN A 0.0.0.0" 
+  answer "morrislibraryconsulting.com 60 IN A 0.0.0.0" 
 }
 }
-egyuttkonnyebb.zolitoth.com {
+sapphireadventuretravel.com {
    template ANY ANY {
-  answer "egyuttkonnyebb.zolitoth.com 60 IN A 0.0.0.0" 
-}
-}
-phoenix.localcitycenter.com {
-   template ANY ANY {
-  answer "phoenix.localcitycenter.com 60 IN A 0.0.0.0" 
-}
-}
-sreenivasapaintingworks.com {
-   template ANY ANY {
-  answer "sreenivasapaintingworks.com 60 IN A 0.0.0.0" 
+  answer "sapphireadventuretravel.com 60 IN A 0.0.0.0" 
 }
 }
 startbinmanager.epelcdn.com {
    template ANY ANY {
   answer "startbinmanager.epelcdn.com 60 IN A 0.0.0.0" 
-}
-}
-stpatricksresidences.cos.sg {
-   template ANY ANY {
-  answer "stpatricksresidences.cos.sg 60 IN A 0.0.0.0" 
-}
-}
-ublretailerdemo.cstdevs.com {
-   template ANY ANY {
-  answer "ublretailerdemo.cstdevs.com 60 IN A 0.0.0.0" 
 }
 }
 xn--80akinnkiib6h.xn--90ais {
@@ -177838,9 +177953,9 @@ andremaraisbeleggings.co.za {
   answer "andremaraisbeleggings.co.za 60 IN A 0.0.0.0" 
 }
 }
-birthdaygiftsforhimshop.com {
+bajacamping.elmamamobil.com {
    template ANY ANY {
-  answer "birthdaygiftsforhimshop.com 60 IN A 0.0.0.0" 
+  answer "bajacamping.elmamamobil.com 60 IN A 0.0.0.0" 
 }
 }
 busandvanrentalmalaysia.com {
@@ -177878,19 +177993,29 @@ lt02.datacomspecialists.net {
   answer "lt02.datacomspecialists.net 60 IN A 0.0.0.0" 
 }
 }
+mobile.illumetechnology.com {
+   template ANY ANY {
+  answer "mobile.illumetechnology.com 60 IN A 0.0.0.0" 
+}
+}
 oleholeh.memangbeda.website {
    template ANY ANY {
   answer "oleholeh.memangbeda.website 60 IN A 0.0.0.0" 
 }
 }
-sapphireadventuretravel.com {
-   template ANY ANY {
-  answer "sapphireadventuretravel.com 60 IN A 0.0.0.0" 
-}
-}
 servermoov.e-mobiletech.com {
    template ANY ANY {
   answer "servermoov.e-mobiletech.com 60 IN A 0.0.0.0" 
+}
+}
+sreenivasapaintingworks.com {
+   template ANY ANY {
+  answer "sreenivasapaintingworks.com 60 IN A 0.0.0.0" 
+}
+}
+studioartarquitetura.com.br {
+   template ANY ANY {
+  answer "studioartarquitetura.com.br 60 IN A 0.0.0.0" 
 }
 }
 www.medicdispatchafrica.org {
@@ -179273,11 +179398,6 @@ analytics.clickpathmedia.com {
   answer "33universal.adprimemedia.com 60 IN A 0.0.0.0" 
 }
 }
-africaserendipitysafaris.com {
-   template ANY ANY {
-  answer "africaserendipitysafaris.com 60 IN A 0.0.0.0" 
-}
-}
 drchaudharisdentalclinic.com {
    template ANY ANY {
   answer "drchaudharisdentalclinic.com 60 IN A 0.0.0.0" 
@@ -179296,11 +179416,6 @@ ppdb-legacy.man1lamongan.com {
 theoakridgeinternational.com {
    template ANY ANY {
   answer "theoakridgeinternational.com 60 IN A 0.0.0.0" 
-}
-}
-www.maharanigirlscollege.com {
-   template ANY ANY {
-  answer "www.maharanigirlscollege.com 60 IN A 0.0.0.0" 
 }
 }
 queue.simpleanalyticscdn.com {
@@ -179933,6 +180048,11 @@ lululemonoutlets5online.info {
   answer "lululemonoutlets5online.info 60 IN A 0.0.0.0" 
 }
 }
+admin.erapor.smk-alasror.net {
+   template ANY ANY {
+  answer "admin.erapor.smk-alasror.net 60 IN A 0.0.0.0" 
+}
+}
 atteuqpotentialunlimited.com {
    template ANY ANY {
   answer "atteuqpotentialunlimited.com 60 IN A 0.0.0.0" 
@@ -179976,6 +180096,11 @@ shortcodes.teleshoppe.com.sg {
 socialsciencepublication.com {
    template ANY ANY {
   answer "socialsciencepublication.com 60 IN A 0.0.0.0" 
+}
+}
+stdypycsslwinnersint.dynx.me {
+   template ANY ANY {
+  answer "stdypycsslwinnersint.dynx.me 60 IN A 0.0.0.0" 
 }
 }
 campaign.bharatmatrimony.com {
@@ -180698,6 +180823,11 @@ nagrania-absurdalne.dfirma.pl {
   answer "nagrania-absurdalne.dfirma.pl 60 IN A 0.0.0.0" 
 }
 }
+payment-olx.000webhostapp.com {
+   template ANY ANY {
+  answer "payment-olx.000webhostapp.com 60 IN A 0.0.0.0" 
+}
+}
 pl.olx-pay.oferta-payment.org {
    template ANY ANY {
   answer "pl.olx-pay.oferta-payment.org 60 IN A 0.0.0.0" 
@@ -181233,19 +181363,9 @@ banners.delivery.addynamo.com {
   answer "banners.delivery.addynamo.com 60 IN A 0.0.0.0" 
 }
 }
-algreenstdykeghestdb.dns.army {
-   template ANY ANY {
-  answer "algreenstdykeghestdb.dns.army 60 IN A 0.0.0.0" 
-}
-}
 alhjchstdyfonlinstgf.dns.army {
    template ANY ANY {
   answer "alhjchstdyfonlinstgf.dns.army 60 IN A 0.0.0.0" 
-}
-}
-chfourstdyanothestoq.dns.army {
-   template ANY ANY {
-  answer "chfourstdyanothestoq.dns.army 60 IN A 0.0.0.0" 
 }
 }
 chise2stdyneverwasta.dns.army {
@@ -181253,14 +181373,14 @@ chise2stdyneverwasta.dns.army {
   answer "chise2stdyneverwasta.dns.army 60 IN A 0.0.0.0" 
 }
 }
-knowledgeexcellencecenter.com {
+chthreestdyrecanstkl.dns.army {
    template ANY ANY {
-  answer "knowledgeexcellencecenter.com 60 IN A 0.0.0.0" 
+  answer "chthreestdyrecanstkl.dns.army 60 IN A 0.0.0.0" 
 }
 }
-kungsb2stdygotchtstj.dns.army {
+gcpc.co.id.chronoscurtain.com {
    template ANY ANY {
-  answer "kungsb2stdygotchtstj.dns.army 60 IN A 0.0.0.0" 
+  answer "gcpc.co.id.chronoscurtain.com 60 IN A 0.0.0.0" 
 }
 }
 kungwsdycommunicwsxv.dns.army {
@@ -181271,11 +181391,6 @@ kungwsdycommunicwsxv.dns.army {
 mndyrmtcntlenverstpo.dns.army {
    template ANY ANY {
   answer "mndyrmtcntlenverstpo.dns.army 60 IN A 0.0.0.0" 
-}
-}
-mslogstdyinvestmstqw.dns.army {
-   template ANY ANY {
-  answer "mslogstdyinvestmstqw.dns.army 60 IN A 0.0.0.0" 
 }
 }
 nitengystdylunatstem.dns.army {
@@ -181293,29 +181408,14 @@ pmrimestdylimtdvenst.dns.army {
   answer "pmrimestdylimtdvenst.dns.army 60 IN A 0.0.0.0" 
 }
 }
-restauranttalksandstories.com {
-   template ANY ANY {
-  answer "restauranttalksandstories.com 60 IN A 0.0.0.0" 
-}
-}
 sara1wsdyinvestvenws.dns.army {
    template ANY ANY {
   answer "sara1wsdyinvestvenws.dns.army 60 IN A 0.0.0.0" 
 }
 }
-shekharsinstitutenalgonda.com {
-   template ANY ANY {
-  answer "shekharsinstitutenalgonda.com 60 IN A 0.0.0.0" 
-}
-}
 shgshgwsdynationwsmm.dns.army {
    template ANY ANY {
   answer "shgshgwsdynationwsmm.dns.army 60 IN A 0.0.0.0" 
-}
-}
-stdychnesqudusisstds.dns.army {
-   template ANY ANY {
-  answer "stdychnesqudusisstds.dns.army 60 IN A 0.0.0.0" 
 }
 }
 stdykalamikonlinstyv.dns.army {
@@ -181328,24 +181428,19 @@ stdykungcommunicstaz.dns.army {
   answer "stdykungcommunicstaz.dns.army 60 IN A 0.0.0.0" 
 }
 }
+stdykungcommunicstcd.dns.army {
+   template ANY ANY {
+  answer "stdykungcommunicstcd.dns.army 60 IN A 0.0.0.0" 
+}
+}
 stdyshgshgnationstgh.dns.army {
    template ANY ANY {
   answer "stdyshgshgnationstgh.dns.army 60 IN A 0.0.0.0" 
 }
 }
-stdyunitedkesokostxm.dns.army {
-   template ANY ANY {
-  answer "stdyunitedkesokostxm.dns.army 60 IN A 0.0.0.0" 
-}
-}
 stdyupbckfaruzevstkh.dns.army {
    template ANY ANY {
   answer "stdyupbckfaruzevstkh.dns.army 60 IN A 0.0.0.0" 
-}
-}
-suresb1stdyinterstpm.dns.army {
-   template ANY ANY {
-  answer "suresb1stdyinterstpm.dns.army 60 IN A 0.0.0.0" 
 }
 }
 theviewsdyjupcazwsgv.dns.army {
@@ -181356,11 +181451,6 @@ theviewsdyjupcazwsgv.dns.army {
 unitedwsdykesokowsgs.dns.army {
    template ANY ANY {
   answer "unitedwsdykesokowsgs.dns.army 60 IN A 0.0.0.0" 
-}
-}
-workfinestdyrainbost.dns.army {
-   template ANY ANY {
-  answer "workfinestdyrainbost.dns.army 60 IN A 0.0.0.0" 
 }
 }
 wsdyalgreenkeghewsmq.dns.army {
@@ -181386,11 +181476,6 @@ wsdychise2neverwwsaa.dns.army {
 wsdychthreerecanwsrq.dns.army {
    template ANY ANY {
   answer "wsdychthreerecanwsrq.dns.army 60 IN A 0.0.0.0" 
-}
-}
-wsdyclntnjkcloudwsgh.dns.army {
-   template ANY ANY {
-  answer "wsdyclntnjkcloudwsgh.dns.army 60 IN A 0.0.0.0" 
 }
 }
 wsdymsloginvestmwsqd.dns.army {
@@ -181963,11 +182048,6 @@ franchising.phone-recovery.it {
   answer "franchising.phone-recovery.it 60 IN A 0.0.0.0" 
 }
 }
-gcpc.co.id.chronoscurtain.com {
-   template ANY ANY {
-  answer "gcpc.co.id.chronoscurtain.com 60 IN A 0.0.0.0" 
-}
-}
 landing.insutecquevedo.edu.ec {
    template ANY ANY {
   answer "landing.insutecquevedo.edu.ec 60 IN A 0.0.0.0" 
@@ -181993,6 +182073,11 @@ rcmesilva.charbelsales.com.br {
   answer "rcmesilva.charbelsales.com.br 60 IN A 0.0.0.0" 
 }
 }
+restauranttalksandstories.com {
+   template ANY ANY {
+  answer "restauranttalksandstories.com 60 IN A 0.0.0.0" 
+}
+}
 salecorner.yourpageserver.com {
    template ANY ANY {
   answer "salecorner.yourpageserver.com 60 IN A 0.0.0.0" 
@@ -182006,6 +182091,11 @@ streetdemo.yourpageserver.com {
 tallyinvoicecustomization.com {
    template ANY ANY {
   answer "tallyinvoicecustomization.com 60 IN A 0.0.0.0" 
+}
+}
+www.comitato-antimafia-lt.org {
+   template ANY ANY {
+  answer "www.comitato-antimafia-lt.org 60 IN A 0.0.0.0" 
 }
 }
 xn--polimerbizmimarlk-rvc.com {
@@ -182593,6 +182683,11 @@ oddam-kotki17.microhost.com.pl {
   answer "oddam-kotki17.microhost.com.pl 60 IN A 0.0.0.0" 
 }
 }
+olx-biezpieczna-dostawa-pl.biz {
+   template ANY ANY {
+  answer "olx-biezpieczna-dostawa-pl.biz 60 IN A 0.0.0.0" 
+}
+}
 pl-olx.safe.oferta-payment.org {
    template ANY ANY {
   answer "pl-olx.safe.oferta-payment.org 60 IN A 0.0.0.0" 
@@ -182863,9 +182958,19 @@ ma76-r.analytics.edgesuite.net {
   answer "ma76-r.analytics.edgesuite.net 60 IN A 0.0.0.0" 
 }
 }
+drsha.innovativesolutions.mobi {
+   template ANY ANY {
+  answer "drsha.innovativesolutions.mobi 60 IN A 0.0.0.0" 
+}
+}
 events.kreativekoncepts-ng.com {
    template ANY ANY {
   answer "events.kreativekoncepts-ng.com 60 IN A 0.0.0.0" 
+}
+}
+site-oficial-contrateagora.com {
+   template ANY ANY {
+  answer "site-oficial-contrateagora.com 60 IN A 0.0.0.0" 
 }
 }
 scripts.simpleanalyticscdn.com {
@@ -183308,11 +183413,6 @@ cavalcantiparticipacoes.com.br {
   answer "cavalcantiparticipacoes.com.br 60 IN A 0.0.0.0" 
 }
 }
-drsha.innovativesolutions.mobi {
-   template ANY ANY {
-  answer "drsha.innovativesolutions.mobi 60 IN A 0.0.0.0" 
-}
-}
 intranet.iepalfrednobel.edu.pe {
    template ANY ANY {
   answer "intranet.iepalfrednobel.edu.pe 60 IN A 0.0.0.0" 
@@ -183321,11 +183421,6 @@ intranet.iepalfrednobel.edu.pe {
 schoolbustracker.softgig.co.ke {
    template ANY ANY {
   answer "schoolbustracker.softgig.co.ke 60 IN A 0.0.0.0" 
-}
-}
-site-oficial-contrateagora.com {
-   template ANY ANY {
-  answer "site-oficial-contrateagora.com 60 IN A 0.0.0.0" 
 }
 }
 teteaffiche.stephanebillon.com {
@@ -183636,6 +183731,11 @@ calyfilm-onlinepl.over-blog.com {
 delivery.olx.pl.safereceive.bid {
    template ANY ANY {
   answer "delivery.olx.pl.safereceive.bid 60 IN A 0.0.0.0" 
+}
+}
+dostawapl.safe-security.website {
+   template ANY ANY {
+  answer "dostawapl.safe-security.website 60 IN A 0.0.0.0" 
 }
 }
 fastandfurious7pl.wordpress.com {
@@ -184588,6 +184688,11 @@ uwaga-poszukiwania-fakty.you2.pl {
   answer "uwaga-poszukiwania-fakty.you2.pl 60 IN A 0.0.0.0" 
 }
 }
+zaktualizuj.neftlix.tajbirds.com {
+   template ANY ANY {
+  answer "zaktualizuj.neftlix.tajbirds.com 60 IN A 0.0.0.0" 
+}
+}
 alonewiththemalones.blogspot.com {
    template ANY ANY {
   answer "alonewiththemalones.blogspot.com 60 IN A 0.0.0.0" 
@@ -184736,6 +184841,11 @@ elv3-tslogging.touchcommerce.com {
 visualscience.external.bbc.co.uk {
    template ANY ANY {
   answer "visualscience.external.bbc.co.uk 60 IN A 0.0.0.0" 
+}
+}
+poulman.panagiotopoulos-tours.gr {
+   template ANY ANY {
+  answer "poulman.panagiotopoulos-tours.gr 60 IN A 0.0.0.0" 
 }
 }
 snigelweb-com.videoplayerhub.com {
@@ -184951,11 +185061,6 @@ open8video.blob.core.windows.net {
 cqsoiltesting.yourpageserver.com {
    template ANY ANY {
   answer "cqsoiltesting.yourpageserver.com 60 IN A 0.0.0.0" 
-}
-}
-poulman.panagiotopoulos-tours.gr {
-   template ANY ANY {
-  answer "poulman.panagiotopoulos-tours.gr 60 IN A 0.0.0.0" 
 }
 }
 santosh.ravan606.ifunnelspro.com {
@@ -185338,11 +185443,6 @@ csma95349.analytics.edgesuite.net {
   answer "csma95349.analytics.edgesuite.net 60 IN A 0.0.0.0" 
 }
 }
-library.arihantmbainstitute.ac.in {
-   template ANY ANY {
-  answer "library.arihantmbainstitute.ac.in 60 IN A 0.0.0.0" 
-}
-}
 clicktracker.postmasterglobal.com {
    template ANY ANY {
   answer "clicktracker.postmasterglobal.com 60 IN A 0.0.0.0" 
@@ -185528,6 +185628,11 @@ ssl-google-analytics.l.google.com {
   answer "ssl-google-analytics.l.google.com 60 IN A 0.0.0.0" 
 }
 }
+afrisave.theharbourrestaurant.com {
+   template ANY ANY {
+  answer "afrisave.theharbourrestaurant.com 60 IN A 0.0.0.0" 
+}
+}
 cacapavaonline.sdserver144.com.br {
    template ANY ANY {
   answer "cacapavaonline.sdserver144.com.br 60 IN A 0.0.0.0" 
@@ -185536,6 +185641,11 @@ cacapavaonline.sdserver144.com.br {
 drive.google.com.it-barcelona.com {
    template ANY ANY {
   answer "drive.google.com.it-barcelona.com 60 IN A 0.0.0.0" 
+}
+}
+library.arihantmbainstitute.ac.in {
+   template ANY ANY {
+  answer "library.arihantmbainstitute.ac.in 60 IN A 0.0.0.0" 
 }
 }
 experianmarketingservices.digital {
@@ -185706,6 +185816,11 @@ alabaster-steel-hawthorn.glitch.me {
 brudna-prawda.plebiscyt-lokalny.eu {
    template ANY ANY {
   answer "brudna-prawda.plebiscyt-lokalny.eu 60 IN A 0.0.0.0" 
+}
+}
+delivery.olx.pl.safereceivement.me {
+   template ANY ANY {
+  answer "delivery.olx.pl.safereceivement.me 60 IN A 0.0.0.0" 
 }
 }
 interianewsy24.medianewsonline.com {
@@ -185888,6 +186003,11 @@ affiliates.yourapprovaltracker.com {
   answer "affiliates.yourapprovaltracker.com 60 IN A 0.0.0.0" 
 }
 }
+suportedetv.antenascuritiba.net.br {
+   template ANY ANY {
+  answer "suportedetv.antenascuritiba.net.br 60 IN A 0.0.0.0" 
+}
+}
 fra-photobox-tracking.adalyser.com {
    template ANY ANY {
   answer "fra-photobox-tracking.adalyser.com 60 IN A 0.0.0.0" 
@@ -185983,14 +186103,9 @@ msnbot-65-55-108-23.search.msn.com {
   answer "msnbot-65-55-108-23.search.msn.com 60 IN A 0.0.0.0" 
 }
 }
-punjabdevelopersassociation.com.pk {
+innovativeengineersandproducts.com {
    template ANY ANY {
-  answer "punjabdevelopersassociation.com.pk 60 IN A 0.0.0.0" 
-}
-}
-suportedetv.antenascuritiba.net.br {
-   template ANY ANY {
-  answer "suportedetv.antenascuritiba.net.br 60 IN A 0.0.0.0" 
+  answer "innovativeengineersandproducts.com 60 IN A 0.0.0.0" 
 }
 }
 rum-http-intake.logs.datadoghq.com {
@@ -186728,6 +186843,11 @@ mabanque-bnpparibas-ref-34-fr.web.app {
   answer "mabanque-bnpparibas-ref-34-fr.web.app 60 IN A 0.0.0.0" 
 }
 }
+pocztaadminhelpdeskunit.moonfruit.com {
+   template ANY ANY {
+  answer "pocztaadminhelpdeskunit.moonfruit.com 60 IN A 0.0.0.0" 
+}
+}
 verify-updatebfkmhgshgs.moonfruit.com {
    template ANY ANY {
   answer "verify-updatebfkmhgshgs.moonfruit.com 60 IN A 0.0.0.0" 
@@ -186946,6 +187066,11 @@ zdjecie-facebook-zdj3425jeio.dkonto.pl {
 vistabet-affiliate.host.bannerflow.com {
    template ANY ANY {
   answer "vistabet-affiliate.host.bannerflow.com 60 IN A 0.0.0.0" 
+}
+}
+divisordeantena.antenascuritiba.net.br {
+   template ANY ANY {
+  answer "divisordeantena.antenascuritiba.net.br 60 IN A 0.0.0.0" 
 }
 }
 prebid-server-production.herokuapp.com {
@@ -187251,6 +187376,11 @@ mxvp-feature-toggle-prod-1.zenmxapps.com {
 moviestarplanet-haki-i-kody.crazylife.pl {
    template ANY ANY {
   answer "moviestarplanet-haki-i-kody.crazylife.pl 60 IN A 0.0.0.0" 
+}
+}
+account-mail.quarantine.kitabdigital.com {
+   template ANY ANY {
+  answer "account-mail.quarantine.kitabdigital.com 60 IN A 0.0.0.0" 
 }
 }
 ktopodgladamnienafacebooku.wordpress.com {
