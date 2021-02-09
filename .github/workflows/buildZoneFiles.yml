@@ -35,7 +35,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:	
           name: ${{ github.run_id }}-artifacts
-          path: /pub
+          path: pub
 
   test:
     needs: [build]
