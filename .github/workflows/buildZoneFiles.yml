@@ -49,6 +49,7 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           name: ${{ github.run_id }}-artifacts
+          path: pub
     
       - name: Validate Zone Files
         run: |
@@ -68,7 +69,8 @@ jobs:
           token: ${{ secrets.PAT }}
       - uses: actions/download-artifact@v2
         with:
-          name: ${{ github.run_id }}-artifacts    
+          name: ${{ github.run_id }}-artifacts
+          path: pub   
           
       - name: Get Release Tags
         id: get-release-tags
