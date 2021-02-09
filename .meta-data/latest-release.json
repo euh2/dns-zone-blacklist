@@ -3,7 +3,7 @@
   "upstream_body": "* Updated from clefspeare13, yoyo.org, URLHaus, someonewhocares.org, digitalside.it, KADhosts, hostsVN, Badd-Boyz, and AdAway. (b0edd803)\n* Merge pull request #1529 from XhmikosR/patch-1 (c6c6cb44)\n* Merge pull request #1530 from XhmikosR/patch-2 (fd783d45)\n* readme_template: link to the master actions (649034d2)\n* Update CI config (cbeadb1e)\n* Added hosts from https://supunkavinda.blog/disqus article (Disqus). (cba09a9c)",
   "upstream_published_at": "2021-02-08T21:09:47Z",
   "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.3.12",
-  "local_build_no": 1,
-  "local_tag_name": "3.3.12-1",
-  "minutes_since_published_at": 23
+  "local_build_no": 2,
+  "local_tag_name": "3.3.12-2",
+  "minutes_since_published_at": 846
 }
