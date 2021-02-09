@@ -31,6 +31,11 @@ jobs:
       - run: npm install
       - name: Build
         run: npm run build
+        
+      - uses: actions/upload-artifact@v2
+        with:	
+          name: ${{ github.run_id }}-artifacts
+          path: /pub
 
   test:
     needs: [build]
@@ -39,6 +44,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.run_id }}-artifacts
+    
       - name: Validate Zone Files
         run: |
           ls -la 
@@ -55,7 +66,10 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT }}
-             
+      - uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.run_id }}-artifacts    
+          
       - name: Get Release Tags
         id: get-release-tags
         run: |
@@ -96,7 +110,7 @@ jobs:
             This Release was published ${{fromJson(steps.get-release-tags.outputs.releaseJSON).minutes_since_published_at}} minutes after the [Upstream Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_tag_name}}](${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_url}}):
                         
             ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_body}}
-          draft: false
+          draft: true
           prerelease: false
       - name: Signal
         run: |
