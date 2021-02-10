@@ -113,7 +113,7 @@ jobs:
             This Release was published ${{fromJson(steps.get-release-tags.outputs.releaseJSON).minutes_since_published_at}} minutes after the [Upstream Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_tag_name}}](${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_url}}):
                         
             ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_body}}
-          draft: true
+          draft: false
           prerelease: false
       - name: Signal
         run: |
