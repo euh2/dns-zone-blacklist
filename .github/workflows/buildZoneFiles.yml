@@ -75,7 +75,7 @@ jobs:
       - name: Get Release Tags
         id: get-release-tags
         run: |
-          cat .meta-data/latest-*.json | jq -s 'map(.) | add | . |= (.local_build_no |= . + 1) | . |= (.local_tag_name = .upstream_tag_name + "-" + (.local_build_no | tostring)) | . |= (.minutes_since_published_at = ((now - (.upstream_published_at | fromdateiso8601)) / 60 | round))' | tee .meta-data/latest-release.json
+          cat meta-data/latest-*.json | jq -s ' add | . |= (.local_build_no += 1) | . |= (.local_tag_name = .upstream_tag_name + "-" + (.local_build_no | tostring)) | . |= (.minutes_since_published_at = ((now - (.upstream_published_at | fromdateiso8601)) / 60 | round))' | tee meta-data/latest-release.json
           
           ur=`cat ./.meta-data/latest-release.json`
           ur="${ur//'%'/'%25'}"
@@ -89,6 +89,7 @@ jobs:
       - name: Check for modified files
         id: git-check
         run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+      
       - name: Commit latest release version
         if: steps.git-check.outputs.modified == 'true'
         run: |
