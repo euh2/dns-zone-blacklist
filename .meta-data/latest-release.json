@@ -3,7 +3,7 @@
   "upstream_body": "* Updates from URLHaus, someonewhocares.org, digitalside, and KADhosts. (b1ab45eb)\n* Issue #1536: add vkcache dot com. (3be28f59)\n* Fix typo I introduced in commit cba09a9cbf. (72fd592e)",
   "upstream_published_at": "2021-02-09T15:31:27Z",
   "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.3.13",
-  "local_build_no": 3,
-  "local_tag_name": "3.3.13-3",
-  "minutes_since_published_at": 23
+  "local_build_no": 4,
+  "local_tag_name": "3.3.13-4",
+  "minutes_since_published_at": 4548
 }
