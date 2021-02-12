@@ -54,14 +54,14 @@ class Blacklist {
         filename: 'coredns-nxdomain.blacklist',
         response: "NXDOMAIN",
         enabled: true,
-        template: '<%= host %> \{\n   template ANY ANY \{\n  rcode NXDOMAIN \n\}\n\}'
+        template: '<%= host %> \{\n  template ANY ANY \{\n    rcode NXDOMAIN \n\}\n\}'
       },
       {
         type: 'coredns',
         filename: 'dns-blacklist',
         response: "0.0.0.0",
         enabled: true,
-        template: '<%= host %> \{\n   template ANY ANY \{\n  answer "<%= host %> 60 IN A 0.0.0.0" \n\}\n\}'
+        template: '<%= host %> \{\n  template ANY ANY \{\n    answer "<%= host %> 60 IN A 0.0.0.0" \n\}\n\}'
       },
       {
         type: 'dnsmasq',
