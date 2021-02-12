@@ -104,16 +104,18 @@ jobs:
       - name: Publish Release
         id: publish_release
         uses: actions/create-release@v1
+        
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         with:
+          token: ${{ secrets.PAT }}
           tag_name: ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}
           release_name: Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).local_tag_name}}
           body: |
             This Release was published ${{fromJson(steps.get-release-tags.outputs.releaseJSON).minutes_since_published_at}} minutes after the [Upstream Release ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_tag_name}}](${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_url}}):
                         
             ${{fromJson(steps.get-release-tags.outputs.releaseJSON).upstream_body}}
-          draft: false
+          draft: true
           prerelease: false
       - name: Signal
         run: |
