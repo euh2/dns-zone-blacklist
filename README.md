@@ -4,7 +4,7 @@
 
 This project started as a fork of [oznu's DNS Zone Blacklist Generator](https://github.com/oznu/dns-zone-blacklist). It has some added functionality, like the option to customize the generated output format of Zone Files and the ability to select a custom [Blacklist Variant](https://github.com/StevenBlack/hosts#list-of-all-hosts-file-variants).
 
-This tool generates Zone Files for [BIND](https://en.wikipedia.org/wiki/BIND), [Dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) and [Unbound](https://en.wikipedia.org/wiki/Unbound_(DNS_server)) DNS servers using data from the [StevenBlack/hosts](https://github.com/StevenBlack/hosts) project. The generated zone files can be used to block Ads and Malware for an entire Network when used with a local DNS Server.
+This tool generates Zone Files for [BIND](https://en.wikipedia.org/wiki/BIND), [CoreDNS](https://coredns.io/), [Dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) and [Unbound](https://en.wikipedia.org/wiki/Unbound_(DNS_server)) DNS servers using data from the [StevenBlack/hosts](https://github.com/StevenBlack/hosts) project. The generated zone files can be used to block Ads and Malware for an entire Network when used with a local DNS Server.
 
 ## Blacklist Variants
 
