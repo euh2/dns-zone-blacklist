@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.3.14",
-  "upstream_body": "* Updates from yoyo.org, sinfonietta, someonewhocares.org, shady-hosts, digitalside.it, KADhosts, Badd-Boyz, and AdAway. (3c38a5f6)",
-  "upstream_published_at": "2021-02-14T22:03:53Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.3.14"
+  "upstream_tag_name": "3.4.0",
+  "upstream_body": "* Updates from clefspeare, yoyo.org, URLHaus, someonewhocares.org, gigitalside.it, KADhosts, Badd-Boyz, AdAway, and introducing orca.pet. (cbf89242)\n* Issue #1439: Add the orca.pet “Not On My Shift” curated source, maintained by @socram8888 (5fe1f0c8)",
+  "upstream_published_at": "2021-02-16T22:51:01Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.0"
 }
