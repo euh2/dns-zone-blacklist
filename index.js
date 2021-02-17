@@ -15,7 +15,7 @@ class Blacklist {
     this.readmeDataURL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/readmeData.json'
     this.baseURL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/'
     this.baseURLFile = 'hosts'
-    this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blacklists/master/pub'
+    this.pubURL = 'https://raw.githubusercontent.com/euh2/dns-blacklists/main/pub'
     this.pubDataAll = []
     this.zonefileSerial = () => {
       // start with fixed timestamp (2021-feb-01)
@@ -282,7 +282,7 @@ class Blacklist {
         w
       }
 
-      let pubDataAll = {}
+      // let pubDataAll = {}
       const doneWork = new Promise( async (resolve) => {
         // await every single worker promise, then write zone files (formats)
         for (let i of workerList) {
