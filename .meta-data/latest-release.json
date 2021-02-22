@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.4.1",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts, digitalside.it, orca.pet, KADHosts, and hostsVN. (d4fd41f5)",
-  "upstream_published_at": "2021-02-21T23:15:06Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.1",
-  "local_build_no": 1,
-  "local_tag_name": "3.4.1-1",
-  "minutes_since_published_at": 24
-}
+
