@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.4.2",
-  "upstream_body": "* Updates from URLHaus, someonewhocares.org, digitalside.it, KADhosts, hostsVN, and Badd-Boyz. (6aa31cb4)",
-  "upstream_published_at": "2021-02-22T14:15:42Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.2",
-  "local_build_no": 1,
-  "local_tag_name": "3.4.2-1",
-  "minutes_since_published_at": 20
-}
+
