@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.4.4",
-  "upstream_body": "* Updates from URLHaus, digitalside.it, KADhosts, hostsVN, and Badd-Boyz. (d2be3439)\n* Issue #1559 — add scam phish site. (16070f1a)",
-  "upstream_published_at": "2021-02-28T19:28:05Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.4",
-  "local_build_no": 1,
-  "local_tag_name": "3.4.4-1",
-  "minutes_since_published_at": 23
-}
+
