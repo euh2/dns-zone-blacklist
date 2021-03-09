@@ -404,6 +404,8 @@ local-zone: "axes.co" redirect
 local-data: "axes.co A 0.0.0.0"
 local-zone: "beka.pl" redirect
 local-data: "beka.pl A 0.0.0.0"
+local-zone: "cco0.cc" redirect
+local-data: "cco0.cc A 0.0.0.0"
 local-zone: "cdpa.pl" redirect
 local-data: "cdpa.pl A 0.0.0.0"
 local-zone: "cdsp.pl" redirect
@@ -578,6 +580,8 @@ local-zone: "ioam.de" redirect
 local-data: "ioam.de A 0.0.0.0"
 local-zone: "itop.cz" redirect
 local-data: "itop.cz A 0.0.0.0"
+local-zone: "jads.co" redirect
+local-data: "jads.co A 0.0.0.0"
 local-zone: "kost.tv" redirect
 local-data: "kost.tv A 0.0.0.0"
 local-zone: "lnks.gd" redirect
@@ -1154,10 +1158,16 @@ local-zone: "jabra.id" redirect
 local-data: "jabra.id A 0.0.0.0"
 local-zone: "42sf.net" redirect
 local-data: "42sf.net A 0.0.0.0"
+local-zone: "dexil.ru" redirect
+local-data: "dexil.ru A 0.0.0.0"
 local-zone: "divam.ir" redirect
 local-data: "divam.ir A 0.0.0.0"
+local-zone: "mistc.es" redirect
+local-data: "mistc.es A 0.0.0.0"
 local-zone: "mouwz.nl" redirect
 local-data: "mouwz.nl A 0.0.0.0"
+local-zone: "wsw.cool" redirect
+local-data: "wsw.cool A 0.0.0.0"
 local-zone: "wikia.cm" redirect
 local-data: "wikia.cm A 0.0.0.0"
 local-zone: "rmike.ru" redirect
@@ -1168,6 +1178,12 @@ local-zone: "mol7.biz" redirect
 local-data: "mol7.biz A 0.0.0.0"
 local-zone: "mol9.biz" redirect
 local-data: "mol9.biz A 0.0.0.0"
+local-zone: "plnv.top" redirect
+local-data: "plnv.top A 0.0.0.0"
+local-zone: "vjsi.top" redirect
+local-data: "vjsi.top A 0.0.0.0"
+local-zone: "yual.top" redirect
+local-data: "yual.top A 0.0.0.0"
 local-zone: "nimp.org" redirect
 local-data: "nimp.org A 0.0.0.0"
 local-zone: "cjt1.net" redirect
@@ -1458,16 +1474,14 @@ local-zone: "mopai.sg" redirect
 local-data: "mopai.sg A 0.0.0.0"
 local-zone: "omega.az" redirect
 local-data: "omega.az A 0.0.0.0"
-local-zone: "rippr.cc" redirect
-local-data: "rippr.cc A 0.0.0.0"
 local-zone: "sapac.ro" redirect
 local-data: "sapac.ro A 0.0.0.0"
 local-zone: "tadoo.ca" redirect
 local-data: "tadoo.ca A 0.0.0.0"
 local-zone: "tksb.net" redirect
 local-data: "tksb.net A 0.0.0.0"
-local-zone: "yual.top" redirect
-local-data: "yual.top A 0.0.0.0"
+local-zone: "uc-56.ru" redirect
+local-data: "uc-56.ru A 0.0.0.0"
 local-zone: "24log.de" redirect
 local-data: "24log.de A 0.0.0.0"
 local-zone: "2mdn.net" redirect
@@ -1818,8 +1832,6 @@ local-zone: "bypass.jp" redirect
 local-data: "bypass.jp A 0.0.0.0"
 local-zone: "c8.net.ua" redirect
 local-data: "c8.net.ua A 0.0.0.0"
-local-zone: "chtbl.com" redirect
-local-data: "chtbl.com A 0.0.0.0"
 local-zone: "dui88.com" redirect
 local-data: "dui88.com A 0.0.0.0"
 local-zone: "eacdn.com" redirect
@@ -2060,8 +2072,6 @@ local-zone: "202ch.com" redirect
 local-data: "202ch.com A 0.0.0.0"
 local-zone: "24695.com" redirect
 local-data: "24695.com A 0.0.0.0"
-local-zone: "2anal.net" redirect
-local-data: "2anal.net A 0.0.0.0"
 local-zone: "300sk.com" redirect
 local-data: "300sk.com A 0.0.0.0"
 local-zone: "3-gay.com" redirect
@@ -2432,6 +2442,8 @@ local-zone: "ikohs.com" redirect
 local-data: "ikohs.com A 0.0.0.0"
 local-zone: "ilink.bar" redirect
 local-data: "ilink.bar A 0.0.0.0"
+local-zone: "ilink.cam" redirect
+local-data: "ilink.cam A 0.0.0.0"
 local-zone: "ilink.fun" redirect
 local-data: "ilink.fun A 0.0.0.0"
 local-zone: "ilink.icu" redirect
@@ -2692,8 +2704,12 @@ local-zone: "sdc.dn.no" redirect
 local-data: "sdc.dn.no A 0.0.0.0"
 local-zone: "ocmwr.com" redirect
 local-data: "ocmwr.com A 0.0.0.0"
+local-zone: "99bkx.com" redirect
+local-data: "99bkx.com A 0.0.0.0"
 local-zone: "nguen.net" redirect
 local-data: "nguen.net A 0.0.0.0"
+local-zone: "nqtxk.com" redirect
+local-data: "nqtxk.com A 0.0.0.0"
 local-zone: "redlog.cl" redirect
 local-data: "redlog.cl A 0.0.0.0"
 local-zone: "smecom.it" redirect
@@ -2768,14 +2784,16 @@ local-zone: "net13.biz" redirect
 local-data: "net13.biz A 0.0.0.0"
 local-zone: "net17.biz" redirect
 local-data: "net17.biz A 0.0.0.0"
-local-zone: "7zip.mobi" redirect
-local-data: "7zip.mobi A 0.0.0.0"
 local-zone: "bppgov.ng" redirect
 local-data: "bppgov.ng A 0.0.0.0"
+local-zone: "infair.vn" redirect
+local-data: "infair.vn A 0.0.0.0"
 local-zone: "media.wtf" redirect
 local-data: "media.wtf A 0.0.0.0"
 local-zone: "pe-cr.com" redirect
 local-data: "pe-cr.com A 0.0.0.0"
+local-zone: "sislog.es" redirect
+local-data: "sislog.es A 0.0.0.0"
 local-zone: "telmed.cl" redirect
 local-data: "telmed.cl A 0.0.0.0"
 local-zone: "bid.glass" redirect
@@ -3248,16 +3266,20 @@ local-zone: "yuibo.com" redirect
 local-data: "yuibo.com A 0.0.0.0"
 local-zone: "1am.co.nz" redirect
 local-data: "1am.co.nz A 0.0.0.0"
+local-zone: "7zip.mobi" redirect
+local-data: "7zip.mobi A 0.0.0.0"
 local-zone: "andres.ug" redirect
 local-data: "andres.ug A 0.0.0.0"
-local-zone: "brodam.ro" redirect
-local-data: "brodam.ro A 0.0.0.0"
+local-zone: "crmmlm.ir" redirect
+local-data: "crmmlm.ir A 0.0.0.0"
 local-zone: "d-cem.com" redirect
 local-data: "d-cem.com A 0.0.0.0"
 local-zone: "datsom.vn" redirect
 local-data: "datsom.vn A 0.0.0.0"
 local-zone: "dw2.co.id" redirect
 local-data: "dw2.co.id A 0.0.0.0"
+local-zone: "f1sol.com" redirect
+local-data: "f1sol.com A 0.0.0.0"
 local-zone: "f6.com.vn" redirect
 local-data: "f6.com.vn A 0.0.0.0"
 local-zone: "hseda.com" redirect
@@ -3268,8 +3290,6 @@ local-zone: "kbdom.com" redirect
 local-data: "kbdom.com A 0.0.0.0"
 local-zone: "legend.nu" redirect
 local-data: "legend.nu A 0.0.0.0"
-local-zone: "malaya.tv" redirect
-local-data: "malaya.tv A 0.0.0.0"
 local-zone: "mbgrm.com" redirect
 local-data: "mbgrm.com A 0.0.0.0"
 local-zone: "meert.org" redirect
@@ -3278,10 +3298,10 @@ local-zone: "merbay.ru" redirect
 local-data: "merbay.ru A 0.0.0.0"
 local-zone: "nec-i.com" redirect
 local-data: "nec-i.com A 0.0.0.0"
+local-zone: "okuru.wtf" redirect
+local-data: "okuru.wtf A 0.0.0.0"
 local-zone: "prosoc.nl" redirect
 local-data: "prosoc.nl A 0.0.0.0"
-local-zone: "rota-r.ru" redirect
-local-data: "rota-r.ru A 0.0.0.0"
 local-zone: "rsgym.net" redirect
 local-data: "rsgym.net A 0.0.0.0"
 local-zone: "siili.net" redirect
@@ -3292,6 +3312,8 @@ local-zone: "slmtv.com" redirect
 local-data: "slmtv.com A 0.0.0.0"
 local-zone: "smarts.tj" redirect
 local-data: "smarts.tj A 0.0.0.0"
+local-zone: "sproca.tg" redirect
+local-data: "sproca.tg A 0.0.0.0"
 local-zone: "sweaty.dk" redirect
 local-data: "sweaty.dk A 0.0.0.0"
 local-zone: "taurus.ug" redirect
@@ -4348,6 +4370,8 @@ local-zone: "vtvcab.xyz" redirect
 local-data: "vtvcab.xyz A 0.0.0.0"
 local-zone: "log.vov.vn" redirect
 local-data: "log.vov.vn A 0.0.0.0"
+local-zone: "mto.cgv.vn" redirect
+local-data: "mto.cgv.vn A 0.0.0.0"
 local-zone: "mysapo.net" redirect
 local-data: "mysapo.net A 0.0.0.0"
 local-zone: "4ksport.pl" redirect
@@ -5246,6 +5270,8 @@ local-zone: "afedgh.org" redirect
 local-data: "afedgh.org A 0.0.0.0"
 local-zone: "appulse.de" redirect
 local-data: "appulse.de A 0.0.0.0"
+local-zone: "b2bpipe.cn" redirect
+local-data: "b2bpipe.cn A 0.0.0.0"
 local-zone: "imrt.ac.in" redirect
 local-data: "imrt.ac.in A 0.0.0.0"
 local-zone: "kidimy.org" redirect
@@ -5362,10 +5388,20 @@ local-zone: "news17.biz" redirect
 local-data: "news17.biz A 0.0.0.0"
 local-zone: "news20.biz" redirect
 local-data: "news20.biz A 0.0.0.0"
+local-zone: "elenari.cl" redirect
+local-data: "elenari.cl A 0.0.0.0"
+local-zone: "gogorv.net" redirect
+local-data: "gogorv.net A 0.0.0.0"
+local-zone: "jenergy.tw" redirect
+local-data: "jenergy.tw A 0.0.0.0"
 local-zone: "moufed.com" redirect
 local-data: "moufed.com A 0.0.0.0"
 local-zone: "procert.gr" redirect
 local-data: "procert.gr A 0.0.0.0"
+local-zone: "sharpn.com" redirect
+local-data: "sharpn.com A 0.0.0.0"
+local-zone: "zarpli.com" redirect
+local-data: "zarpli.com A 0.0.0.0"
 local-zone: "uptime.com" redirect
 local-data: "uptime.com A 0.0.0.0"
 local-zone: "mp.4dex.io" redirect
@@ -6038,6 +6074,8 @@ local-zone: "zenback.jp" redirect
 local-data: "zenback.jp A 0.0.0.0"
 local-zone: "21robo.com" redirect
 local-data: "21robo.com A 0.0.0.0"
+local-zone: "askcon.net" redirect
+local-data: "askcon.net A 0.0.0.0"
 local-zone: "atfile.com" redirect
 local-data: "atfile.com A 0.0.0.0"
 local-zone: "aulist.com" redirect
@@ -6050,8 +6088,6 @@ local-zone: "bcrg.co.za" redirect
 local-data: "bcrg.co.za A 0.0.0.0"
 local-zone: "bnrnews.id" redirect
 local-data: "bnrnews.id A 0.0.0.0"
-local-zone: "casarey.mx" redirect
-local-data: "casarey.mx A 0.0.0.0"
 local-zone: "cifeer.net" redirect
 local-data: "cifeer.net A 0.0.0.0"
 local-zone: "detorre.es" redirect
@@ -6064,14 +6100,20 @@ local-zone: "exilum.com" redirect
 local-data: "exilum.com A 0.0.0.0"
 local-zone: "gnscrew.ro" redirect
 local-data: "gnscrew.ro A 0.0.0.0"
+local-zone: "goldmen.in" redirect
+local-data: "goldmen.in A 0.0.0.0"
 local-zone: "hesa.co.id" redirect
 local-data: "hesa.co.id A 0.0.0.0"
+local-zone: "iremart.es" redirect
+local-data: "iremart.es A 0.0.0.0"
 local-zone: "isrorg.com" redirect
 local-data: "isrorg.com A 0.0.0.0"
 local-zone: "jamshed.pk" redirect
 local-data: "jamshed.pk A 0.0.0.0"
 local-zone: "ktb.sch.id" redirect
 local-data: "ktb.sch.id A 0.0.0.0"
+local-zone: "lujo.store" redirect
+local-data: "lujo.store A 0.0.0.0"
 local-zone: "mbx.com.au" redirect
 local-data: "mbx.com.au A 0.0.0.0"
 local-zone: "meeweb.com" redirect
@@ -6092,8 +6134,6 @@ local-zone: "ozemag.com" redirect
 local-data: "ozemag.com A 0.0.0.0"
 local-zone: "phittc.com" redirect
 local-data: "phittc.com A 0.0.0.0"
-local-zone: "pink99.com" redirect
-local-data: "pink99.com A 0.0.0.0"
 local-zone: "qmsled.com" redirect
 local-data: "qmsled.com A 0.0.0.0"
 local-zone: "res.uf1.cn" redirect
@@ -6128,8 +6168,6 @@ local-zone: "www.cwa.mx" redirect
 local-data: "www.cwa.mx A 0.0.0.0"
 local-zone: "www.idj.no" redirect
 local-data: "www.idj.no A 0.0.0.0"
-local-zone: "zarpli.com" redirect
-local-data: "zarpli.com A 0.0.0.0"
 local-zone: "1-1ads.com" redirect
 local-data: "1-1ads.com A 0.0.0.0"
 local-zone: "101com.com" redirect
@@ -7320,8 +7358,6 @@ local-zone: "8899804.com" redirect
 local-data: "8899804.com A 0.0.0.0"
 local-zone: "8ue9q7i.com" redirect
 local-data: "8ue9q7i.com A 0.0.0.0"
-local-zone: "9c51vda.com" redirect
-local-data: "9c51vda.com A 0.0.0.0"
 local-zone: "a2btrans.pl" redirect
 local-data: "a2btrans.pl A 0.0.0.0"
 local-zone: "a2zgroup.in" redirect
@@ -8010,6 +8046,8 @@ local-zone: "idoku24.com" redirect
 local-data: "idoku24.com A 0.0.0.0"
 local-zone: "imnpost.net" redirect
 local-data: "imnpost.net A 0.0.0.0"
+local-zone: "info-sms.su" redirect
+local-data: "info-sms.su A 0.0.0.0"
 local-zone: "inipost.net" redirect
 local-data: "inipost.net A 0.0.0.0"
 local-zone: "inpoczt.net" redirect
@@ -8170,6 +8208,8 @@ local-zone: "olxpol.info" redirect
 local-data: "olxpol.info A 0.0.0.0"
 local-zone: "olxteam.com" redirect
 local-data: "olxteam.com A 0.0.0.0"
+local-zone: "olx-czek.pl" redirect
+local-data: "olx-czek.pl A 0.0.0.0"
 local-zone: "olx-epay.pl" redirect
 local-data: "olx-epay.pl A 0.0.0.0"
 local-zone: "olx-pay.org" redirect
@@ -8574,12 +8614,18 @@ local-zone: "seatwave.ru" redirect
 local-data: "seatwave.ru A 0.0.0.0"
 local-zone: "365abcd.net" redirect
 local-data: "365abcd.net A 0.0.0.0"
+local-zone: "51tunan.com" redirect
+local-data: "51tunan.com A 0.0.0.0"
 local-zone: "ailnoir.com" redirect
 local-data: "ailnoir.com A 0.0.0.0"
+local-zone: "giupich.org" redirect
+local-data: "giupich.org A 0.0.0.0"
 local-zone: "godynamo.co" redirect
 local-data: "godynamo.co A 0.0.0.0"
 local-zone: "habulex.com" redirect
 local-data: "habulex.com A 0.0.0.0"
+local-zone: "jiaosuba.cn" redirect
+local-data: "jiaosuba.cn A 0.0.0.0"
 local-zone: "marincr.com" redirect
 local-data: "marincr.com A 0.0.0.0"
 local-zone: "mucc.com.au" redirect
@@ -8594,10 +8640,16 @@ local-zone: "sourmet.com" redirect
 local-data: "sourmet.com A 0.0.0.0"
 local-zone: "synoviz.com" redirect
 local-data: "synoviz.com A 0.0.0.0"
+local-zone: "teamder.org" redirect
+local-data: "teamder.org A 0.0.0.0"
 local-zone: "weboyal.com" redirect
 local-data: "weboyal.com A 0.0.0.0"
+local-zone: "wp.up118.cn" redirect
+local-data: "wp.up118.cn A 0.0.0.0"
 local-zone: "ylem222.com" redirect
 local-data: "ylem222.com A 0.0.0.0"
+local-zone: "yuanant.com" redirect
+local-data: "yuanant.com A 0.0.0.0"
 local-zone: "ygoogle.com" redirect
 local-data: "ygoogle.com A 0.0.0.0"
 local-zone: "gdoogle.com" redirect
@@ -8702,6 +8754,8 @@ local-zone: "go8news.biz" redirect
 local-data: "go8news.biz A 0.0.0.0"
 local-zone: "r.mylot.com" redirect
 local-data: "r.mylot.com A 0.0.0.0"
+local-zone: "exploit.cab" redirect
+local-data: "exploit.cab A 0.0.0.0"
 local-zone: "icloudcs.in" redirect
 local-data: "icloudcs.in A 0.0.0.0"
 local-zone: "tlcc.com.gt" redirect
@@ -9682,6 +9736,8 @@ local-zone: "1008691.com" redirect
 local-data: "1008691.com A 0.0.0.0"
 local-zone: "agemn.co.za" redirect
 local-data: "agemn.co.za A 0.0.0.0"
+local-zone: "aslambek.eu" redirect
+local-data: "aslambek.eu A 0.0.0.0"
 local-zone: "baiden00.ru" redirect
 local-data: "baiden00.ru A 0.0.0.0"
 local-zone: "bavhome.com" redirect
@@ -9690,10 +9746,12 @@ local-zone: "callbury.in" redirect
 local-data: "callbury.in A 0.0.0.0"
 local-zone: "colorpak.pl" redirect
 local-data: "colorpak.pl A 0.0.0.0"
-local-zone: "d.ttr3p.com" redirect
-local-data: "d.ttr3p.com A 0.0.0.0"
-local-zone: "exploit.cab" redirect
-local-data: "exploit.cab A 0.0.0.0"
+local-zone: "dikan.co.za" redirect
+local-data: "dikan.co.za A 0.0.0.0"
+local-zone: "drakarys.rs" redirect
+local-data: "drakarys.rs A 0.0.0.0"
+local-zone: "gesky.co.tz" redirect
+local-data: "gesky.co.tz A 0.0.0.0"
 local-zone: "gnimelf.net" redirect
 local-data: "gnimelf.net A 0.0.0.0"
 local-zone: "hd11315.com" redirect
@@ -9704,30 +9762,28 @@ local-zone: "hiptool.net" redirect
 local-data: "hiptool.net A 0.0.0.0"
 local-zone: "hostzaa.com" redirect
 local-data: "hostzaa.com A 0.0.0.0"
+local-zone: "ismf.com.ng" redirect
+local-data: "ismf.com.ng A 0.0.0.0"
 local-zone: "jebs.net.au" redirect
 local-data: "jebs.net.au A 0.0.0.0"
 local-zone: "kmqm.com.vn" redirect
 local-data: "kmqm.com.vn A 0.0.0.0"
 local-zone: "ldgcorp.com" redirect
 local-data: "ldgcorp.com A 0.0.0.0"
-local-zone: "maxiquim.cl" redirect
-local-data: "maxiquim.cl A 0.0.0.0"
 local-zone: "mertlog.com" redirect
 local-data: "mertlog.com A 0.0.0.0"
-local-zone: "mexcorp.net" redirect
-local-data: "mexcorp.net A 0.0.0.0"
 local-zone: "mkontakt.az" redirect
 local-data: "mkontakt.az A 0.0.0.0"
 local-zone: "pcsoori.com" redirect
 local-data: "pcsoori.com A 0.0.0.0"
 local-zone: "pole.com.vc" redirect
 local-data: "pole.com.vc A 0.0.0.0"
+local-zone: "purefoe.top" redirect
+local-data: "purefoe.top A 0.0.0.0"
 local-zone: "rasadbar.ir" redirect
 local-data: "rasadbar.ir A 0.0.0.0"
 local-zone: "rezkabum.ru" redirect
 local-data: "rezkabum.ru A 0.0.0.0"
-local-zone: "rldatix.pro" redirect
-local-data: "rldatix.pro A 0.0.0.0"
 local-zone: "ruisgood.ru" redirect
 local-data: "ruisgood.ru A 0.0.0.0"
 local-zone: "sculetus.nl" redirect
@@ -9736,12 +9792,12 @@ local-zone: "statsic.com" redirect
 local-data: "statsic.com A 0.0.0.0"
 local-zone: "techgms.com" redirect
 local-data: "techgms.com A 0.0.0.0"
+local-zone: "testcm2.com" redirect
+local-data: "testcm2.com A 0.0.0.0"
 local-zone: "upload.sexy" redirect
 local-data: "upload.sexy A 0.0.0.0"
 local-zone: "vksales.com" redirect
 local-data: "vksales.com A 0.0.0.0"
-local-zone: "yfca-ye.org" redirect
-local-data: "yfca-ye.org A 0.0.0.0"
 local-zone: "3337723.com" redirect
 local-data: "3337723.com A 0.0.0.0"
 local-zone: "6ldu6qa.com" redirect
@@ -12022,6 +12078,12 @@ local-zone: "pay05-olx.pl" redirect
 local-data: "pay05-olx.pl A 0.0.0.0"
 local-zone: "pay06-olx.pl" redirect
 local-data: "pay06-olx.pl A 0.0.0.0"
+local-zone: "pay07-olx.pl" redirect
+local-data: "pay07-olx.pl A 0.0.0.0"
+local-zone: "pay08-olx.pl" redirect
+local-data: "pay08-olx.pl A 0.0.0.0"
+local-zone: "pay09-olx.pl" redirect
+local-data: "pay09-olx.pl A 0.0.0.0"
 local-zone: "pay24.com.pl" redirect
 local-data: "pay24.com.pl A 0.0.0.0"
 local-zone: "payoner.club" redirect
@@ -12144,6 +12206,8 @@ local-zone: "serialowo.pl" redirect
 local-data: "serialowo.pl A 0.0.0.0"
 local-zone: "skuter.c0.pl" redirect
 local-data: "skuter.c0.pl A 0.0.0.0"
+local-zone: "sms-info.net" redirect
+local-data: "sms-info.net A 0.0.0.0"
 local-zone: "softmania.pl" redirect
 local-data: "softmania.pl A 0.0.0.0"
 local-zone: "sprawdzto.ml" redirect
@@ -12594,6 +12658,10 @@ local-zone: "geeklevi.com" redirect
 local-data: "geeklevi.com A 0.0.0.0"
 local-zone: "guzelbil.com" redirect
 local-data: "guzelbil.com A 0.0.0.0"
+local-zone: "joliveer.com" redirect
+local-data: "joliveer.com A 0.0.0.0"
+local-zone: "kmtks.org.tw" redirect
+local-data: "kmtks.org.tw A 0.0.0.0"
 local-zone: "lova.network" redirect
 local-data: "lova.network A 0.0.0.0"
 local-zone: "nbkangxi.com" redirect
@@ -12668,10 +12736,14 @@ local-zone: "1sercher.biz" redirect
 local-data: "1sercher.biz A 0.0.0.0"
 local-zone: "t.paypal.com" redirect
 local-data: "t.paypal.com A 0.0.0.0"
+local-zone: "1a3c1a2b.xyz" redirect
+local-data: "1a3c1a2b.xyz A 0.0.0.0"
 local-zone: "iranfilme.ir" redirect
 local-data: "iranfilme.ir A 0.0.0.0"
 local-zone: "statereo.bar" redirect
 local-data: "statereo.bar A 0.0.0.0"
+local-zone: "ygdomain.xyz" redirect
+local-data: "ygdomain.xyz A 0.0.0.0"
 local-zone: "zz.690tx.com" redirect
 local-data: "zz.690tx.com A 0.0.0.0"
 local-zone: "adpushup.com" redirect
@@ -13880,8 +13952,6 @@ local-zone: "betone.co.kr" redirect
 local-data: "betone.co.kr A 0.0.0.0"
 local-zone: "bilhen.co.za" redirect
 local-data: "bilhen.co.za A 0.0.0.0"
-local-zone: "codexive.xyz" redirect
-local-data: "codexive.xyz A 0.0.0.0"
 local-zone: "d9.99ddd.com" redirect
 local-data: "d9.99ddd.com A 0.0.0.0"
 local-zone: "dandyair.com" redirect
@@ -13890,6 +13960,10 @@ local-zone: "dannexgh.com" redirect
 local-data: "dannexgh.com A 0.0.0.0"
 local-zone: "dd.qiyuea.cn" redirect
 local-data: "dd.qiyuea.cn A 0.0.0.0"
+local-zone: "drlamyas.net" redirect
+local-data: "drlamyas.net A 0.0.0.0"
+local-zone: "elivebox.net" redirect
+local-data: "elivebox.net A 0.0.0.0"
 local-zone: "emaids.co.za" redirect
 local-data: "emaids.co.za A 0.0.0.0"
 local-zone: "eubanks7.com" redirect
@@ -13900,44 +13974,50 @@ local-zone: "hds.sz4h.com" redirect
 local-data: "hds.sz4h.com A 0.0.0.0"
 local-zone: "hunggiang.vn" redirect
 local-data: "hunggiang.vn A 0.0.0.0"
-local-zone: "hyberian.com" redirect
-local-data: "hyberian.com A 0.0.0.0"
 local-zone: "idilsoft.com" redirect
 local-data: "idilsoft.com A 0.0.0.0"
 local-zone: "idvindia.com" redirect
 local-data: "idvindia.com A 0.0.0.0"
 local-zone: "ikexpert.com" redirect
 local-data: "ikexpert.com A 0.0.0.0"
-local-zone: "interstat.co" redirect
-local-data: "interstat.co A 0.0.0.0"
 local-zone: "jathra.co.uk" redirect
 local-data: "jathra.co.uk A 0.0.0.0"
 local-zone: "josegene.com" redirect
 local-data: "josegene.com A 0.0.0.0"
+local-zone: "kumaralok.in" redirect
+local-data: "kumaralok.in A 0.0.0.0"
 local-zone: "lameguard.ru" redirect
 local-data: "lameguard.ru A 0.0.0.0"
-local-zone: "linerstat.co" redirect
-local-data: "linerstat.co A 0.0.0.0"
 local-zone: "linkintec.cn" redirect
 local-data: "linkintec.cn A 0.0.0.0"
 local-zone: "livetrack.in" redirect
 local-data: "livetrack.in A 0.0.0.0"
+local-zone: "manhtien.net" redirect
+local-data: "manhtien.net A 0.0.0.0"
 local-zone: "medianews.ge" redirect
 local-data: "medianews.ge A 0.0.0.0"
 local-zone: "modularch.hu" redirect
 local-data: "modularch.hu A 0.0.0.0"
 local-zone: "mumgee.co.za" redirect
 local-data: "mumgee.co.za A 0.0.0.0"
+local-zone: "mycalibra.me" redirect
+local-data: "mycalibra.me A 0.0.0.0"
 local-zone: "nonnarina.ax" redirect
 local-data: "nonnarina.ax A 0.0.0.0"
 local-zone: "orion445.com" redirect
 local-data: "orion445.com A 0.0.0.0"
+local-zone: "osrsport.com" redirect
+local-data: "osrsport.com A 0.0.0.0"
 local-zone: "ottimade.com" redirect
 local-data: "ottimade.com A 0.0.0.0"
 local-zone: "rhema.com.sg" redirect
 local-data: "rhema.com.sg A 0.0.0.0"
 local-zone: "santyago.org" redirect
 local-data: "santyago.org A 0.0.0.0"
+local-zone: "shittusb.com" redirect
+local-data: "shittusb.com A 0.0.0.0"
+local-zone: "slasinfo.com" redirect
+local-data: "slasinfo.com A 0.0.0.0"
 local-zone: "smackwear.ie" redirect
 local-data: "smackwear.ie A 0.0.0.0"
 local-zone: "souvenirs.ng" redirect
@@ -14132,6 +14212,8 @@ local-zone: "comclick.com" redirect
 local-data: "comclick.com A 0.0.0.0"
 local-zone: "connectad.io" redirect
 local-data: "connectad.io A 0.0.0.0"
+local-zone: "consensu.org" redirect
+local-data: "consensu.org A 0.0.0.0"
 local-zone: "count.rin.ru" redirect
 local-data: "count.rin.ru A 0.0.0.0"
 local-zone: "ctnetwork.hu" redirect
@@ -16810,6 +16892,8 @@ local-zone: "worldprize.pl" redirect
 local-data: "worldprize.pl A 0.0.0.0"
 local-zone: "wwwareshop.pl" redirect
 local-data: "wwwareshop.pl A 0.0.0.0"
+local-zone: "wyborcza.live" redirect
+local-data: "wyborcza.live A 0.0.0.0"
 local-zone: "wygeneruj.net" redirect
 local-data: "wygeneruj.net A 0.0.0.0"
 local-zone: "xn--ox-xqa.pl" redirect
@@ -17294,18 +17378,34 @@ local-zone: "amirapache.ir" redirect
 local-data: "amirapache.ir A 0.0.0.0"
 local-zone: "canopusbd.com" redirect
 local-data: "canopusbd.com A 0.0.0.0"
+local-zone: "feelmore.site" redirect
+local-data: "feelmore.site A 0.0.0.0"
+local-zone: "funtrade.land" redirect
+local-data: "funtrade.land A 0.0.0.0"
 local-zone: "grandprov.com" redirect
 local-data: "grandprov.com A 0.0.0.0"
 local-zone: "homzbasix.com" redirect
 local-data: "homzbasix.com A 0.0.0.0"
+local-zone: "loanglide.com" redirect
+local-data: "loanglide.com A 0.0.0.0"
+local-zone: "mahigifts.com" redirect
+local-data: "mahigifts.com A 0.0.0.0"
 local-zone: "nen.vacad.net" redirect
 local-data: "nen.vacad.net A 0.0.0.0"
+local-zone: "share-bnb.com" redirect
+local-data: "share-bnb.com A 0.0.0.0"
+local-zone: "sky-scout.com" redirect
+local-data: "sky-scout.com A 0.0.0.0"
+local-zone: "sm-projekt.si" redirect
+local-data: "sm-projekt.si A 0.0.0.0"
 local-zone: "socialfact.in" redirect
 local-data: "socialfact.in A 0.0.0.0"
 local-zone: "thietkelq.com" redirect
 local-data: "thietkelq.com A 0.0.0.0"
 local-zone: "tuyennvtb.com" redirect
 local-data: "tuyennvtb.com A 0.0.0.0"
+local-zone: "royaimaii.com" redirect
+local-data: "royaimaii.com A 0.0.0.0"
 local-zone: "faicebook.com" redirect
 local-data: "faicebook.com A 0.0.0.0"
 local-zone: "ftacebook.com" redirect
@@ -17366,8 +17466,6 @@ local-zone: "flintspin.com" redirect
 local-data: "flintspin.com A 0.0.0.0"
 local-zone: "graficamos.cl" redirect
 local-data: "graficamos.cl A 0.0.0.0"
-local-zone: "ilmistaan.com" redirect
-local-data: "ilmistaan.com A 0.0.0.0"
 local-zone: "kara-door.com" redirect
 local-data: "kara-door.com A 0.0.0.0"
 local-zone: "statsspot.com" redirect
@@ -18904,10 +19002,6 @@ local-zone: "augustair.com" redirect
 local-data: "augustair.com A 0.0.0.0"
 local-zone: "bary.sz4h.com" redirect
 local-data: "bary.sz4h.com A 0.0.0.0"
-local-zone: "bencomedy.com" redirect
-local-data: "bencomedy.com A 0.0.0.0"
-local-zone: "calfgiant.com" redirect
-local-data: "calfgiant.com A 0.0.0.0"
 local-zone: "codsambal.com" redirect
 local-data: "codsambal.com A 0.0.0.0"
 local-zone: "csnserver.com" redirect
@@ -18926,14 +19020,20 @@ local-zone: "dheeranet.com" redirect
 local-data: "dheeranet.com A 0.0.0.0"
 local-zone: "digisails.org" redirect
 local-data: "digisails.org A 0.0.0.0"
+local-zone: "disayts10.top" redirect
+local-data: "disayts10.top A 0.0.0.0"
 local-zone: "dom-chel74.ru" redirect
 local-data: "dom-chel74.ru A 0.0.0.0"
 local-zone: "dovberger.com" redirect
 local-data: "dovberger.com A 0.0.0.0"
 local-zone: "drbaby.com.sa" redirect
 local-data: "drbaby.com.sa A 0.0.0.0"
+local-zone: "enorichie.net" redirect
+local-data: "enorichie.net A 0.0.0.0"
 local-zone: "felicienne.nl" redirect
 local-data: "felicienne.nl A 0.0.0.0"
+local-zone: "fortgem.co.uk" redirect
+local-data: "fortgem.co.uk A 0.0.0.0"
 local-zone: "foxeps.com.br" redirect
 local-data: "foxeps.com.br A 0.0.0.0"
 local-zone: "gbbulls.co.uk" redirect
@@ -18942,8 +19042,8 @@ local-zone: "giadungg7.com" redirect
 local-data: "giadungg7.com A 0.0.0.0"
 local-zone: "goldoni.co.uk" redirect
 local-data: "goldoni.co.uk A 0.0.0.0"
-local-zone: "goscrawny.com" redirect
-local-data: "goscrawny.com A 0.0.0.0"
+local-zone: "h.epelcdn.com" redirect
+local-data: "h.epelcdn.com A 0.0.0.0"
 local-zone: "hagebakken.no" redirect
 local-data: "hagebakken.no A 0.0.0.0"
 local-zone: "harshraval.in" redirect
@@ -18954,8 +19054,6 @@ local-zone: "hmpmall.co.kr" redirect
 local-data: "hmpmall.co.kr A 0.0.0.0"
 local-zone: "hongluosi.com" redirect
 local-data: "hongluosi.com A 0.0.0.0"
-local-zone: "hoverknot.com" redirect
-local-data: "hoverknot.com A 0.0.0.0"
 local-zone: "hsmwebapp.com" redirect
 local-data: "hsmwebapp.com A 0.0.0.0"
 local-zone: "htownbars.com" redirect
@@ -18966,20 +19064,26 @@ local-zone: "hubtech.co.za" redirect
 local-data: "hubtech.co.za A 0.0.0.0"
 local-zone: "hvbevents.com" redirect
 local-data: "hvbevents.com A 0.0.0.0"
+local-zone: "ilmistaan.com" redirect
+local-data: "ilmistaan.com A 0.0.0.0"
 local-zone: "ilrafrica.com" redirect
 local-data: "ilrafrica.com A 0.0.0.0"
+local-zone: "indonesias.me" redirect
+local-data: "indonesias.me A 0.0.0.0"
 local-zone: "infovator.com" redirect
 local-data: "infovator.com A 0.0.0.0"
 local-zone: "iris101.co.uk" redirect
 local-data: "iris101.co.uk A 0.0.0.0"
 local-zone: "israrulhaq.me" redirect
 local-data: "israrulhaq.me A 0.0.0.0"
+local-zone: "jettyplus.com" redirect
+local-data: "jettyplus.com A 0.0.0.0"
 local-zone: "jmtc.91756.cn" redirect
 local-data: "jmtc.91756.cn A 0.0.0.0"
 local-zone: "lestesteux.ca" redirect
 local-data: "lestesteux.ca A 0.0.0.0"
-local-zone: "linerstat.bar" redirect
-local-data: "linerstat.bar A 0.0.0.0"
+local-zone: "lweonepal.com" redirect
+local-data: "lweonepal.com A 0.0.0.0"
 local-zone: "m-technics.kz" redirect
 local-data: "m-technics.kz A 0.0.0.0"
 local-zone: "madicon.co.za" redirect
@@ -18996,10 +19100,14 @@ local-zone: "meadtimes.com" redirect
 local-data: "meadtimes.com A 0.0.0.0"
 local-zone: "misterson.com" redirect
 local-data: "misterson.com A 0.0.0.0"
+local-zone: "mmcamping.com" redirect
+local-data: "mmcamping.com A 0.0.0.0"
 local-zone: "mncarteam.com" redirect
 local-data: "mncarteam.com A 0.0.0.0"
 local-zone: "mydatebook.in" redirect
 local-data: "mydatebook.in A 0.0.0.0"
+local-zone: "naidunews.com" redirect
+local-data: "naidunews.com A 0.0.0.0"
 local-zone: "namnyak.co.ke" redirect
 local-data: "namnyak.co.ke A 0.0.0.0"
 local-zone: "nurmarkaz.org" redirect
@@ -19010,6 +19118,8 @@ local-zone: "pujashoppe.in" redirect
 local-data: "pujashoppe.in A 0.0.0.0"
 local-zone: "qualpharma.in" redirect
 local-data: "qualpharma.in A 0.0.0.0"
+local-zone: "redbats.co.in" redirect
+local-data: "redbats.co.in A 0.0.0.0"
 local-zone: "rkcable.co.in" redirect
 local-data: "rkcable.co.in A 0.0.0.0"
 local-zone: "sadiqgill.com" redirect
@@ -19020,8 +19130,6 @@ local-zone: "sec-doc-w.com" redirect
 local-data: "sec-doc-w.com A 0.0.0.0"
 local-zone: "sharkrigs.com" redirect
 local-data: "sharkrigs.com A 0.0.0.0"
-local-zone: "shooka-co.com" redirect
-local-data: "shooka-co.com A 0.0.0.0"
 local-zone: "sibernetix.fr" redirect
 local-data: "sibernetix.fr A 0.0.0.0"
 local-zone: "smartzedu.com" redirect
@@ -21112,6 +21220,8 @@ local-zone: "pitbull.ek1.pl" redirect
 local-data: "pitbull.ek1.pl A 0.0.0.0"
 local-zone: "pl.gvgmall.com" redirect
 local-data: "pl.gvgmall.com A 0.0.0.0"
+local-zone: "pl.whokeys.com" redirect
+local-data: "pl.whokeys.com A 0.0.0.0"
 local-zone: "pomorskidom.pl" redirect
 local-data: "pomorskidom.pl A 0.0.0.0"
 local-zone: "popcornvod.com" redirect
@@ -21408,6 +21518,8 @@ local-zone: "dlaogrodu.live" redirect
 local-data: "dlaogrodu.live A 0.0.0.0"
 local-zone: "dobra-notka.eu" redirect
 local-data: "dobra-notka.eu A 0.0.0.0"
+local-zone: "dobreplany.com" redirect
+local-data: "dobreplany.com A 0.0.0.0"
 local-zone: "dobre-filmy.pl" redirect
 local-data: "dobre-filmy.pl A 0.0.0.0"
 local-zone: "doctordays.com" redirect
@@ -21426,6 +21538,8 @@ local-zone: "dpd-paczka.com" redirect
 local-data: "dpd-paczka.com A 0.0.0.0"
 local-zone: "dpd-parcel.com" redirect
 local-data: "dpd-parcel.com A 0.0.0.0"
+local-zone: "droga-dalej.ml" redirect
+local-data: "droga-dalej.ml A 0.0.0.0"
 local-zone: "dyskonto.store" redirect
 local-data: "dyskonto.store A 0.0.0.0"
 local-zone: "ebok-poczta.pl" redirect
@@ -21630,6 +21744,8 @@ local-zone: "lutz-blades.pl" redirect
 local-data: "lutz-blades.pl A 0.0.0.0"
 local-zone: "luxeeforex.com" redirect
 local-data: "luxeeforex.com A 0.0.0.0"
+local-zone: "mariapolska.pl" redirect
+local-data: "mariapolska.pl A 0.0.0.0"
 local-zone: "mientayweb.com" redirect
 local-data: "mientayweb.com A 0.0.0.0"
 local-zone: "militanttra.at" redirect
@@ -21686,6 +21802,8 @@ local-zone: "olxoferta.site" redirect
 local-data: "olxoferta.site A 0.0.0.0"
 local-zone: "olxpl-safe.com" redirect
 local-data: "olxpl-safe.com A 0.0.0.0"
+local-zone: "olx-banking.me" redirect
+local-data: "olx-banking.me A 0.0.0.0"
 local-zone: "olx-center.com" redirect
 local-data: "olx-center.com A 0.0.0.0"
 local-zone: "olx-dostawk.pl" redirect
@@ -21734,6 +21852,8 @@ local-zone: "otopraca.co.pl" redirect
 local-data: "otopraca.co.pl A 0.0.0.0"
 local-zone: "ottokurier.com" redirect
 local-data: "ottokurier.com A 0.0.0.0"
+local-zone: "outl00k.mfs.gg" redirect
+local-data: "outl00k.mfs.gg A 0.0.0.0"
 local-zone: "paczkaadam.com" redirect
 local-data: "paczkaadam.com A 0.0.0.0"
 local-zone: "paczka-dhl.com" redirect
@@ -21974,6 +22094,8 @@ local-zone: "wyraz-pomoc.eu" redirect
 local-data: "wyraz-pomoc.eu A 0.0.0.0"
 local-zone: "wysylka-olx.me" redirect
 local-data: "wysylka-olx.me A 0.0.0.0"
+local-zone: "wysylka-olx.pl" redirect
+local-data: "wysylka-olx.pl A 0.0.0.0"
 local-zone: "yellowskin.top" redirect
 local-data: "yellowskin.top A 0.0.0.0"
 local-zone: "yourfitway.com" redirect
@@ -22558,6 +22680,8 @@ local-zone: "castllypay.com" redirect
 local-data: "castllypay.com A 0.0.0.0"
 local-zone: "dgeneration.in" redirect
 local-data: "dgeneration.in A 0.0.0.0"
+local-zone: "galerihana.com" redirect
+local-data: "galerihana.com A 0.0.0.0"
 local-zone: "hackersweb.org" redirect
 local-data: "hackersweb.org A 0.0.0.0"
 local-zone: "nextgearup.com" redirect
@@ -22632,18 +22756,16 @@ local-zone: "adelantosi.com" redirect
 local-data: "adelantosi.com A 0.0.0.0"
 local-zone: "davidachim.com" redirect
 local-data: "davidachim.com A 0.0.0.0"
-local-zone: "gettransfer.ma" redirect
-local-data: "gettransfer.ma A 0.0.0.0"
 local-zone: "hyundal-ce.com" redirect
 local-data: "hyundal-ce.com A 0.0.0.0"
 local-zone: "medimac.com.au" redirect
 local-data: "medimac.com.au A 0.0.0.0"
 local-zone: "owapetry-71.tk" redirect
 local-data: "owapetry-71.tk A 0.0.0.0"
+local-zone: "special-key.cf" redirect
+local-data: "special-key.cf A 0.0.0.0"
 local-zone: "statillion.bar" redirect
 local-data: "statillion.bar A 0.0.0.0"
-local-zone: "statssound.com" redirect
-local-data: "statssound.com A 0.0.0.0"
 local-zone: "statsvilla.com" redirect
 local-data: "statsvilla.com A 0.0.0.0"
 local-zone: "sungardspo.com" redirect
@@ -24250,8 +24372,6 @@ local-zone: "24.dbstrony.pl" redirect
 local-data: "24.dbstrony.pl A 0.0.0.0"
 local-zone: "360.lcy2zzx.pw" redirect
 local-data: "360.lcy2zzx.pw A 0.0.0.0"
-local-zone: "actforreal.com" redirect
-local-data: "actforreal.com A 0.0.0.0"
 local-zone: "aeropilates.cl" redirect
 local-data: "aeropilates.cl A 0.0.0.0"
 local-zone: "affanyesvi.com" redirect
@@ -24264,22 +24384,18 @@ local-zone: "am-concepts.ca" redirect
 local-data: "am-concepts.ca A 0.0.0.0"
 local-zone: "amnandishan.ir" redirect
 local-data: "amnandishan.ir A 0.0.0.0"
-local-zone: "anklebreed.xyz" redirect
-local-data: "anklebreed.xyz A 0.0.0.0"
+local-zone: "anantam.net.in" redirect
+local-data: "anantam.net.in A 0.0.0.0"
 local-zone: "apoolcondo.com" redirect
 local-data: "apoolcondo.com A 0.0.0.0"
-local-zone: "armofmercy.com" redirect
-local-data: "armofmercy.com A 0.0.0.0"
 local-zone: "azraktours.com" redirect
 local-data: "azraktours.com A 0.0.0.0"
-local-zone: "baadababada.ru" redirect
-local-data: "baadababada.ru A 0.0.0.0"
 local-zone: "backgrounds.pk" redirect
 local-data: "backgrounds.pk A 0.0.0.0"
-local-zone: "baitalmandi.in" redirect
-local-data: "baitalmandi.in A 0.0.0.0"
 local-zone: "bilbosaquet.ug" redirect
 local-data: "bilbosaquet.ug A 0.0.0.0"
+local-zone: "birkett.com.au" redirect
+local-data: "birkett.com.au A 0.0.0.0"
 local-zone: "booksearch.com" redirect
 local-data: "booksearch.com A 0.0.0.0"
 local-zone: "brightmega.com" redirect
@@ -24290,10 +24406,18 @@ local-zone: "caballo.com.au" redirect
 local-data: "caballo.com.au A 0.0.0.0"
 local-zone: "catchperch.com" redirect
 local-data: "catchperch.com A 0.0.0.0"
+local-zone: "conformist.fun" redirect
+local-data: "conformist.fun A 0.0.0.0"
+local-zone: "crearechile.cl" redirect
+local-data: "crearechile.cl A 0.0.0.0"
 local-zone: "dekovizyon.com" redirect
 local-data: "dekovizyon.com A 0.0.0.0"
 local-zone: "dent-estet.com" redirect
 local-data: "dent-estet.com A 0.0.0.0"
+local-zone: "dilalla.com.ar" redirect
+local-data: "dilalla.com.ar A 0.0.0.0"
+local-zone: "dindorf.com.ar" redirect
+local-data: "dindorf.com.ar A 0.0.0.0"
 local-zone: "dl.zkytech.com" redirect
 local-data: "dl.zkytech.com A 0.0.0.0"
 local-zone: "dnn.alibuf.com" redirect
@@ -24302,16 +24426,12 @@ local-zone: "dns.alibuf.com" redirect
 local-data: "dns.alibuf.com A 0.0.0.0"
 local-zone: "du-wizards.com" redirect
 local-data: "du-wizards.com A 0.0.0.0"
+local-zone: "familystory.es" redirect
+local-data: "familystory.es A 0.0.0.0"
 local-zone: "farmnatural.in" redirect
 local-data: "farmnatural.in A 0.0.0.0"
 local-zone: "funletters.net" redirect
 local-data: "funletters.net A 0.0.0.0"
-local-zone: "garagelivet.se" redirect
-local-data: "garagelivet.se A 0.0.0.0"
-local-zone: "geserdikit.com" redirect
-local-data: "geserdikit.com A 0.0.0.0"
-local-zone: "giftcard16.com" redirect
-local-data: "giftcard16.com A 0.0.0.0"
 local-zone: "goldcake.co.id" redirect
 local-data: "goldcake.co.id A 0.0.0.0"
 local-zone: "gpworksinc.com" redirect
@@ -24320,8 +24440,6 @@ local-zone: "gracejukes.com" redirect
 local-data: "gracejukes.com A 0.0.0.0"
 local-zone: "hercinovic.com" redirect
 local-data: "hercinovic.com A 0.0.0.0"
-local-zone: "interstats.bar" redirect
-local-data: "interstats.bar A 0.0.0.0"
 local-zone: "iscamenabe.com" redirect
 local-data: "iscamenabe.com A 0.0.0.0"
 local-zone: "jeffdahlke.com" redirect
@@ -24342,6 +24460,8 @@ local-zone: "mbsolutions.ge" redirect
 local-data: "mbsolutions.ge A 0.0.0.0"
 local-zone: "metalin-cr.com" redirect
 local-data: "metalin-cr.com A 0.0.0.0"
+local-zone: "metecan.com.tr" redirect
+local-data: "metecan.com.tr A 0.0.0.0"
 local-zone: "mettaanand.org" redirect
 local-data: "mettaanand.org A 0.0.0.0"
 local-zone: "micalle.com.au" redirect
@@ -24352,6 +24472,8 @@ local-zone: "navayurveda.in" redirect
 local-data: "navayurveda.in A 0.0.0.0"
 local-zone: "nettube.com.br" redirect
 local-data: "nettube.com.br A 0.0.0.0"
+local-zone: "newdestock.com" redirect
+local-data: "newdestock.com A 0.0.0.0"
 local-zone: "nsheldon.co.uk" redirect
 local-data: "nsheldon.co.uk A 0.0.0.0"
 local-zone: "oknoplastik.sk" redirect
@@ -24368,10 +24490,10 @@ local-zone: "patriotpath.am" redirect
 local-data: "patriotpath.am A 0.0.0.0"
 local-zone: "phasdesign.com" redirect
 local-data: "phasdesign.com A 0.0.0.0"
-local-zone: "placevirus.com" redirect
-local-data: "placevirus.com A 0.0.0.0"
 local-zone: "plasfan.ind.br" redirect
 local-data: "plasfan.ind.br A 0.0.0.0"
+local-zone: "readwrite26.nl" redirect
+local-data: "readwrite26.nl A 0.0.0.0"
 local-zone: "reifenquick.de" redirect
 local-data: "reifenquick.de A 0.0.0.0"
 local-zone: "riverfox.co.za" redirect
@@ -24386,8 +24508,8 @@ local-zone: "site.sjc.co.ke" redirect
 local-data: "site.sjc.co.ke A 0.0.0.0"
 local-zone: "somcorbera.cat" redirect
 local-data: "somcorbera.cat A 0.0.0.0"
-local-zone: "special-key.cf" redirect
-local-data: "special-key.cf A 0.0.0.0"
+local-zone: "statssound.com" redirect
+local-data: "statssound.com A 0.0.0.0"
 local-zone: "statsstate.com" redirect
 local-data: "statsstate.com A 0.0.0.0"
 local-zone: "stattilion.bar" redirect
@@ -24404,6 +24526,8 @@ local-zone: "thosewebbs.com" redirect
 local-data: "thosewebbs.com A 0.0.0.0"
 local-zone: "tianangdep.com" redirect
 local-data: "tianangdep.com A 0.0.0.0"
+local-zone: "turktech.co.uk" redirect
+local-data: "turktech.co.uk A 0.0.0.0"
 local-zone: "ugprs-ubih.org" redirect
 local-data: "ugprs-ubih.org A 0.0.0.0"
 local-zone: "ultimate-24.de" redirect
@@ -24412,8 +24536,6 @@ local-zone: "uniengrisb.com" redirect
 local-data: "uniengrisb.com A 0.0.0.0"
 local-zone: "violinstop.com" redirect
 local-data: "violinstop.com A 0.0.0.0"
-local-zone: "vms.prep.co.in" redirect
-local-data: "vms.prep.co.in A 0.0.0.0"
 local-zone: "wanepniger.org" redirect
 local-data: "wanepniger.org A 0.0.0.0"
 local-zone: "weareactum.com" redirect
@@ -27528,6 +27650,8 @@ local-zone: "znany-lekarz.pl" redirect
 local-data: "znany-lekarz.pl A 0.0.0.0"
 local-zone: "zooglobe.com.pl" redirect
 local-data: "zooglobe.com.pl A 0.0.0.0"
+local-zone: "zwrocsluch.site" redirect
+local-data: "zwrocsluch.site A 0.0.0.0"
 local-zone: "dostawa-olx.com" redirect
 local-data: "dostawa-olx.com A 0.0.0.0"
 local-zone: "dostawa-olx.net" redirect
@@ -28204,12 +28328,22 @@ local-zone: "einfoxfunds.com" redirect
 local-data: "einfoxfunds.com A 0.0.0.0"
 local-zone: "bamperbolspb.ru" redirect
 local-data: "bamperbolspb.ru A 0.0.0.0"
+local-zone: "cancervants.org" redirect
+local-data: "cancervants.org A 0.0.0.0"
+local-zone: "cgassociates.pk" redirect
+local-data: "cgassociates.pk A 0.0.0.0"
+local-zone: "defencelover.in" redirect
+local-data: "defencelover.in A 0.0.0.0"
 local-zone: "gardendeur.site" redirect
 local-data: "gardendeur.site A 0.0.0.0"
 local-zone: "hmsounds.com.br" redirect
 local-data: "hmsounds.com.br A 0.0.0.0"
+local-zone: "hongqiqujiu.com" redirect
+local-data: "hongqiqujiu.com A 0.0.0.0"
 local-zone: "tacloban.gov.ph" redirect
 local-data: "tacloban.gov.ph A 0.0.0.0"
+local-zone: "toanthaybac.com" redirect
+local-data: "toanthaybac.com A 0.0.0.0"
 local-zone: "mygeolocate.com" redirect
 local-data: "mygeolocate.com A 0.0.0.0"
 local-zone: "elongives.space" redirect
@@ -28286,10 +28420,12 @@ local-zone: "go.exrtbsrv.com" redirect
 local-data: "go.exrtbsrv.com A 0.0.0.0"
 local-zone: "xml.fastdln.com" redirect
 local-data: "xml.fastdln.com A 0.0.0.0"
+local-zone: "decifrar.com.br" redirect
+local-data: "decifrar.com.br A 0.0.0.0"
 local-zone: "dns.cyberium.cc" redirect
 local-data: "dns.cyberium.cc A 0.0.0.0"
-local-zone: "farmaciamja.com" redirect
-local-data: "farmaciamja.com A 0.0.0.0"
+local-zone: "goofferpage.xyz" redirect
+local-data: "goofferpage.xyz A 0.0.0.0"
 local-zone: "api-2-0.spot.im" redirect
 local-data: "api-2-0.spot.im A 0.0.0.0"
 local-zone: "api.airbrake.io" redirect
@@ -29026,6 +29162,8 @@ local-zone: "jgedads.cjt.net" redirect
 local-data: "jgedads.cjt.net A 0.0.0.0"
 local-zone: "joyschema3.live" redirect
 local-data: "joyschema3.live A 0.0.0.0"
+local-zone: "k3vzn.flx10.com" redirect
+local-data: "k3vzn.flx10.com A 0.0.0.0"
 local-zone: "kaprazatos.club" redirect
 local-data: "kaprazatos.club A 0.0.0.0"
 local-zone: "kitaramedia.com" redirect
@@ -29774,10 +29912,14 @@ local-zone: "adithimedia.com" redirect
 local-data: "adithimedia.com A 0.0.0.0"
 local-zone: "ajstudiollc.com" redirect
 local-data: "ajstudiollc.com A 0.0.0.0"
+local-zone: "alpaylar.com.tr" redirect
+local-data: "alpaylar.com.tr A 0.0.0.0"
 local-zone: "api.cstdevs.com" redirect
 local-data: "api.cstdevs.com A 0.0.0.0"
 local-zone: "api.quocbao.biz" redirect
 local-data: "api.quocbao.biz A 0.0.0.0"
+local-zone: "arjunsharin.com" redirect
+local-data: "arjunsharin.com A 0.0.0.0"
 local-zone: "aromabiensa.com" redirect
 local-data: "aromabiensa.com A 0.0.0.0"
 local-zone: "athenacapsg.com" redirect
@@ -29786,34 +29928,28 @@ local-zone: "bardiastore.com" redirect
 local-data: "bardiastore.com A 0.0.0.0"
 local-zone: "bcmt.elin.co.za" redirect
 local-data: "bcmt.elin.co.za A 0.0.0.0"
-local-zone: "bumdesnesia.com" redirect
-local-data: "bumdesnesia.com A 0.0.0.0"
 local-zone: "bursatezgah.com" redirect
 local-data: "bursatezgah.com A 0.0.0.0"
 local-zone: "c.oooooooooo.ga" redirect
 local-data: "c.oooooooooo.ga A 0.0.0.0"
 local-zone: "ccauthority.net" redirect
 local-data: "ccauthority.net A 0.0.0.0"
-local-zone: "chanvribloc.com" redirect
-local-data: "chanvribloc.com A 0.0.0.0"
 local-zone: "chezalice.co.za" redirect
 local-data: "chezalice.co.za A 0.0.0.0"
 local-zone: "childselect.com" redirect
 local-data: "childselect.com A 0.0.0.0"
+local-zone: "crmmanivela.com" redirect
+local-data: "crmmanivela.com A 0.0.0.0"
 local-zone: "destinymc.co.za" redirect
 local-data: "destinymc.co.za A 0.0.0.0"
 local-zone: "dongphuctop.com" redirect
 local-data: "dongphuctop.com A 0.0.0.0"
 local-zone: "dragonsknot.com" redirect
 local-data: "dragonsknot.com A 0.0.0.0"
-local-zone: "embracepart.com" redirect
-local-data: "embracepart.com A 0.0.0.0"
 local-zone: "equimination.ee" redirect
 local-data: "equimination.ee A 0.0.0.0"
 local-zone: "erp.zilymax.com" redirect
 local-data: "erp.zilymax.com A 0.0.0.0"
-local-zone: "extremejoy.live" redirect
-local-data: "extremejoy.live A 0.0.0.0"
 local-zone: "fkd.derpcity.ru" redirect
 local-data: "fkd.derpcity.ru A 0.0.0.0"
 local-zone: "gametwogame.com" redirect
@@ -29824,8 +29960,12 @@ local-zone: "grupoinmare.com" redirect
 local-data: "grupoinmare.com A 0.0.0.0"
 local-zone: "gvpcdpgc.edu.in" redirect
 local-data: "gvpcdpgc.edu.in A 0.0.0.0"
+local-zone: "hayjayoffer.com" redirect
+local-data: "hayjayoffer.com A 0.0.0.0"
 local-zone: "help.hizuko.com" redirect
 local-data: "help.hizuko.com A 0.0.0.0"
+local-zone: "hotelmarissa.ro" redirect
+local-data: "hotelmarissa.ro A 0.0.0.0"
 local-zone: "iammdshanto.com" redirect
 local-data: "iammdshanto.com A 0.0.0.0"
 local-zone: "in-tune2016.com" redirect
@@ -29834,16 +29974,18 @@ local-zone: "incredicole.com" redirect
 local-data: "incredicole.com A 0.0.0.0"
 local-zone: "kadigital.co.uk" redirect
 local-data: "kadigital.co.uk A 0.0.0.0"
+local-zone: "lekkievents.com" redirect
+local-data: "lekkievents.com A 0.0.0.0"
 local-zone: "lms.cstdevs.com" redirect
 local-data: "lms.cstdevs.com A 0.0.0.0"
-local-zone: "ltc.typoten.com" redirect
-local-data: "ltc.typoten.com A 0.0.0.0"
 local-zone: "margamoreno.com" redirect
 local-data: "margamoreno.com A 0.0.0.0"
 local-zone: "matigonzalez.cl" redirect
 local-data: "matigonzalez.cl A 0.0.0.0"
 local-zone: "modernmanna.org" redirect
 local-data: "modernmanna.org A 0.0.0.0"
+local-zone: "new.bombill.com" redirect
+local-data: "new.bombill.com A 0.0.0.0"
 local-zone: "ngdaycare.co.za" redirect
 local-data: "ngdaycare.co.za A 0.0.0.0"
 local-zone: "nidhi.iexist.in" redirect
@@ -29852,8 +29994,6 @@ local-zone: "nikanpolimer.ir" redirect
 local-data: "nikanpolimer.ir A 0.0.0.0"
 local-zone: "nomadicbees.com" redirect
 local-data: "nomadicbees.com A 0.0.0.0"
-local-zone: "onlinerstats.co" redirect
-local-data: "onlinerstats.co A 0.0.0.0"
 local-zone: "p1.lingpao8.com" redirect
 local-data: "p1.lingpao8.com A 0.0.0.0"
 local-zone: "pacificgroup.ws" redirect
@@ -29892,6 +30032,8 @@ local-zone: "senbiaojita.com" redirect
 local-data: "senbiaojita.com A 0.0.0.0"
 local-zone: "skyflyfares.com" redirect
 local-data: "skyflyfares.com A 0.0.0.0"
+local-zone: "slaweskicpa.com" redirect
+local-data: "slaweskicpa.com A 0.0.0.0"
 local-zone: "sriglobalit.com" redirect
 local-data: "sriglobalit.com A 0.0.0.0"
 local-zone: "ss.monita.co.id" redirect
@@ -31140,8 +31282,6 @@ local-zone: "tag.cogocast.net" redirect
 local-data: "tag.cogocast.net A 0.0.0.0"
 local-zone: "push.connecto.io" redirect
 local-data: "push.connecto.io A 0.0.0.0"
-local-zone: "mgr.consensu.org" redirect
-local-data: "mgr.consensu.org A 0.0.0.0"
 local-zone: "contentstream.pl" redirect
 local-data: "contentstream.pl A 0.0.0.0"
 local-zone: "smetrics.cox.com" redirect
@@ -32318,6 +32458,8 @@ local-zone: "chefeladlevi.com" redirect
 local-data: "chefeladlevi.com A 0.0.0.0"
 local-zone: "clever-trade.com" redirect
 local-data: "clever-trade.com A 0.0.0.0"
+local-zone: "cr99797.tmweb.ru" redirect
+local-data: "cr99797.tmweb.ru A 0.0.0.0"
 local-zone: "cryptofundfx.com" redirect
 local-data: "cryptofundfx.com A 0.0.0.0"
 local-zone: "crypto-engine.pl" redirect
@@ -32748,6 +32890,8 @@ local-zone: "olx-pl-oferta.eu" redirect
 local-data: "olx-pl-oferta.eu A 0.0.0.0"
 local-zone: "olx.get-pl.store" redirect
 local-data: "olx.get-pl.store A 0.0.0.0"
+local-zone: "olx.pl-deals.xyz" redirect
+local-data: "olx.pl-deals.xyz A 0.0.0.0"
 local-zone: "onet24.dkonto.pl" redirect
 local-data: "onet24.dkonto.pl A 0.0.0.0"
 local-zone: "onet-nowosci.xyz" redirect
@@ -32802,12 +32946,16 @@ local-zone: "pletomak.mypi.co" redirect
 local-data: "pletomak.mypi.co A 0.0.0.0"
 local-zone: "pl-id737962.info" redirect
 local-data: "pl-id737962.info A 0.0.0.0"
+local-zone: "pl-papajohns.fun" redirect
+local-data: "pl-papajohns.fun A 0.0.0.0"
 local-zone: "pl-przelew.world" redirect
 local-data: "pl-przelew.world A 0.0.0.0"
 local-zone: "pl-przelewy.info" redirect
 local-data: "pl-przelewy.info A 0.0.0.0"
 local-zone: "pl.olx-ofert.art" redirect
 local-data: "pl.olx-ofert.art A 0.0.0.0"
+local-zone: "pl.olx-safe.casa" redirect
+local-data: "pl.olx-safe.casa A 0.0.0.0"
 local-zone: "pobieracz.com.pl" redirect
 local-data: "pobieracz.com.pl A 0.0.0.0"
 local-zone: "pobierz-ebook.pl" redirect
@@ -32936,6 +33084,8 @@ local-zone: "smartcare.xja.pl" redirect
 local-data: "smartcare.xja.pl A 0.0.0.0"
 local-zone: "sne.bydgoszcz.pl" redirect
 local-data: "sne.bydgoszcz.pl A 0.0.0.0"
+local-zone: "socialclub55.xyz" redirect
+local-data: "socialclub55.xyz A 0.0.0.0"
 local-zone: "socksonclick.com" redirect
 local-data: "socksonclick.com A 0.0.0.0"
 local-zone: "specnewsinfo.com" redirect
@@ -33908,10 +34058,18 @@ local-zone: "thienlongcnc.com" redirect
 local-data: "thienlongcnc.com A 0.0.0.0"
 local-zone: "blog.sidmach.com" redirect
 local-data: "blog.sidmach.com A 0.0.0.0"
+local-zone: "comptoncymru.com" redirect
+local-data: "comptoncymru.com A 0.0.0.0"
+local-zone: "courseunlock.org" redirect
+local-data: "courseunlock.org A 0.0.0.0"
+local-zone: "eurosystemsrl.eu" redirect
+local-data: "eurosystemsrl.eu A 0.0.0.0"
 local-zone: "galaxyfunbowl.gr" redirect
 local-data: "galaxyfunbowl.gr A 0.0.0.0"
 local-zone: "justparty.com.br" redirect
 local-data: "justparty.com.br A 0.0.0.0"
+local-zone: "trashstation.com" redirect
+local-data: "trashstation.com A 0.0.0.0"
 local-zone: "wowfollowers.com" redirect
 local-data: "wowfollowers.com A 0.0.0.0"
 local-zone: "update.fbsbx.com" redirect
@@ -34028,12 +34186,10 @@ local-zone: "b85allecev.store" redirect
 local-data: "b85allecev.store A 0.0.0.0"
 local-zone: "belcineloweek.ru" redirect
 local-data: "belcineloweek.ru A 0.0.0.0"
-local-zone: "f0517761.xsph.ru" redirect
-local-data: "f0517761.xsph.ru A 0.0.0.0"
-local-zone: "f0518003.xsph.ru" redirect
-local-data: "f0518003.xsph.ru A 0.0.0.0"
 local-zone: "karachiwalla.com" redirect
 local-data: "karachiwalla.com A 0.0.0.0"
+local-zone: "panslimiterd.com" redirect
+local-data: "panslimiterd.com A 0.0.0.0"
 local-zone: "staticonline.bar" redirect
 local-data: "staticonline.bar A 0.0.0.0"
 local-zone: "cdn.playwire.com" redirect
@@ -35690,22 +35846,20 @@ local-zone: "mdasa.elin.co.za" redirect
 local-data: "mdasa.elin.co.za A 0.0.0.0"
 local-zone: "mirror.mypage.sk" redirect
 local-data: "mirror.mypage.sk A 0.0.0.0"
+local-zone: "mishpachton.club" redirect
+local-data: "mishpachton.club A 0.0.0.0"
 local-zone: "mmogollon.com.mx" redirect
 local-data: "mmogollon.com.mx A 0.0.0.0"
 local-zone: "news.dbstrony.pl" redirect
 local-data: "news.dbstrony.pl A 0.0.0.0"
-local-zone: "ngo.edusprit.com" redirect
-local-data: "ngo.edusprit.com A 0.0.0.0"
 local-zone: "nhorangtreem.com" redirect
 local-data: "nhorangtreem.com A 0.0.0.0"
 local-zone: "nyradiation.info" redirect
 local-data: "nyradiation.info A 0.0.0.0"
-local-zone: "onlinerstats.bar" redirect
-local-data: "onlinerstats.bar A 0.0.0.0"
+local-zone: "one2onematch.net" redirect
+local-data: "one2onematch.net A 0.0.0.0"
 local-zone: "optitechsa.co.za" redirect
 local-data: "optitechsa.co.za A 0.0.0.0"
-local-zone: "panslimiterd.com" redirect
-local-data: "panslimiterd.com A 0.0.0.0"
 local-zone: "patch2.99ddd.com" redirect
 local-data: "patch2.99ddd.com A 0.0.0.0"
 local-zone: "patch3.99ddd.com" redirect
@@ -35716,22 +35870,26 @@ local-zone: "pd.oceaniarp.net" redirect
 local-data: "pd.oceaniarp.net A 0.0.0.0"
 local-zone: "renehavis.com.ua" redirect
 local-data: "renehavis.com.ua A 0.0.0.0"
-local-zone: "rrmmarketing.com" redirect
-local-data: "rrmmarketing.com A 0.0.0.0"
 local-zone: "safepodiatry.com" redirect
 local-data: "safepodiatry.com A 0.0.0.0"
+local-zone: "sepahansteel.com" redirect
+local-data: "sepahansteel.com A 0.0.0.0"
 local-zone: "sgkmudder.org.tr" redirect
 local-data: "sgkmudder.org.tr A 0.0.0.0"
 local-zone: "sindicato1ucm.cl" redirect
 local-data: "sindicato1ucm.cl A 0.0.0.0"
 local-zone: "sistelligent.com" redirect
 local-data: "sistelligent.com A 0.0.0.0"
+local-zone: "spititourism.com" redirect
+local-data: "spititourism.com A 0.0.0.0"
 local-zone: "src1.minibai.com" redirect
 local-data: "src1.minibai.com A 0.0.0.0"
 local-zone: "supportit.online" redirect
 local-data: "supportit.online A 0.0.0.0"
 local-zone: "sys.pbmadu.co.id" redirect
 local-data: "sys.pbmadu.co.id A 0.0.0.0"
+local-zone: "tarifacabins.com" redirect
+local-data: "tarifacabins.com A 0.0.0.0"
 local-zone: "tdsp.yngw518.com" redirect
 local-data: "tdsp.yngw518.com A 0.0.0.0"
 local-zone: "telescopelms.com" redirect
@@ -35742,18 +35900,18 @@ local-zone: "test.typoten.com" redirect
 local-data: "test.typoten.com A 0.0.0.0"
 local-zone: "thefuturelife.in" redirect
 local-data: "thefuturelife.in A 0.0.0.0"
+local-zone: "triplonet.com.br" redirect
+local-data: "triplonet.com.br A 0.0.0.0"
 local-zone: "vegadelcasero.cl" redirect
 local-data: "vegadelcasero.cl A 0.0.0.0"
-local-zone: "virtuebeauty.org" redirect
-local-data: "virtuebeauty.org A 0.0.0.0"
 local-zone: "vologroup.com.br" redirect
 local-data: "vologroup.com.br A 0.0.0.0"
-local-zone: "vpinversiones.cl" redirect
-local-data: "vpinversiones.cl A 0.0.0.0"
 local-zone: "wanepliberia.org" redirect
 local-data: "wanepliberia.org A 0.0.0.0"
 local-zone: "website-work.com" redirect
 local-data: "website-work.com A 0.0.0.0"
+local-zone: "websitesample.in" redirect
+local-data: "websitesample.in A 0.0.0.0"
 local-zone: "wildnights.co.uk" redirect
 local-data: "wildnights.co.uk A 0.0.0.0"
 local-zone: "www.enc-tech.com" redirect
@@ -38170,6 +38328,8 @@ local-zone: "bitcoin-storm.com" redirect
 local-data: "bitcoin-storm.com A 0.0.0.0"
 local-zone: "biuro-wynikowe.eu" redirect
 local-data: "biuro-wynikowe.eu A 0.0.0.0"
+local-zone: "blablocar-pl.site" redirect
+local-data: "blablocar-pl.site A 0.0.0.0"
 local-zone: "blackstone500.com" redirect
 local-data: "blackstone500.com A 0.0.0.0"
 local-zone: "broadwayladies.pl" redirect
@@ -38430,6 +38590,8 @@ local-zone: "mazowskagazeta.pl" redirect
 local-data: "mazowskagazeta.pl A 0.0.0.0"
 local-zone: "medycznapolska.pl" redirect
 local-data: "medycznapolska.pl A 0.0.0.0"
+local-zone: "meet-me-here3.com" redirect
+local-data: "meet-me-here3.com A 0.0.0.0"
 local-zone: "miejskie24.gpe.pl" redirect
 local-data: "miejskie24.gpe.pl A 0.0.0.0"
 local-zone: "milano.koscian.pl" redirect
@@ -38500,10 +38662,14 @@ local-zone: "olx-bezpieczny.pl" redirect
 local-data: "olx-bezpieczny.pl A 0.0.0.0"
 local-zone: "olx-delivering.pl" redirect
 local-data: "olx-delivering.pl A 0.0.0.0"
+local-zone: "olx-informacja.pl" redirect
+local-data: "olx-informacja.pl A 0.0.0.0"
 local-zone: "olx-messenger.com" redirect
 local-data: "olx-messenger.com A 0.0.0.0"
 local-zone: "olx-paycore.store" redirect
 local-data: "olx-paycore.store A 0.0.0.0"
+local-zone: "olx-paystatus.com" redirect
+local-data: "olx-paystatus.com A 0.0.0.0"
 local-zone: "olx-pay-system.tk" redirect
 local-data: "olx-pay-system.tk A 0.0.0.0"
 local-zone: "olx-pl.depget.com" redirect
@@ -38524,6 +38690,12 @@ local-zone: "olx.order-pl.life" redirect
 local-data: "olx.order-pl.life A 0.0.0.0"
 local-zone: "olx.order-pl.shop" redirect
 local-data: "olx.order-pl.shop A 0.0.0.0"
+local-zone: "olx.pl-deals.surf" redirect
+local-data: "olx.pl-deals.surf A 0.0.0.0"
+local-zone: "olx.pl-deals.work" redirect
+local-data: "olx.pl-deals.work A 0.0.0.0"
+local-zone: "olx.pl-safely.xyz" redirect
+local-data: "olx.pl-safely.xyz A 0.0.0.0"
 local-zone: "olympusholding.co" redirect
 local-data: "olympusholding.co A 0.0.0.0"
 local-zone: "onclickbright.com" redirect
@@ -38614,6 +38786,8 @@ local-zone: "pomoz-glosujac.eu" redirect
 local-data: "pomoz-glosujac.eu A 0.0.0.0"
 local-zone: "porannawiedza.xyz" redirect
 local-data: "porannawiedza.xyz A 0.0.0.0"
+local-zone: "postaraj-pomoc.eu" redirect
+local-data: "postaraj-pomoc.eu A 0.0.0.0"
 local-zone: "potwierdz-wiek.ml" redirect
 local-data: "potwierdz-wiek.ml A 0.0.0.0"
 local-zone: "powaifinearts.org" redirect
@@ -39826,6 +40000,16 @@ local-zone: "skylarstetten.com" redirect
 local-data: "skylarstetten.com A 0.0.0.0"
 local-zone: "mediarowntech.com" redirect
 local-data: "mediarowntech.com A 0.0.0.0"
+local-zone: "arisannafarms.com" redirect
+local-data: "arisannafarms.com A 0.0.0.0"
+local-zone: "mevlutacik.com.tr" redirect
+local-data: "mevlutacik.com.tr A 0.0.0.0"
+local-zone: "pmb.akprind.ac.id" redirect
+local-data: "pmb.akprind.ac.id A 0.0.0.0"
+local-zone: "publicidadorl.com" redirect
+local-data: "publicidadorl.com A 0.0.0.0"
+local-zone: "robbreport.com.my" redirect
+local-data: "robbreport.com.my A 0.0.0.0"
 local-zone: "superztechnoz.com" redirect
 local-data: "superztechnoz.com A 0.0.0.0"
 local-zone: "navmanupdates.com" redirect
@@ -39934,16 +40118,18 @@ local-zone: "cannabisoilnd.com" redirect
 local-data: "cannabisoilnd.com A 0.0.0.0"
 local-zone: "beatyamerican.com" redirect
 local-data: "beatyamerican.com A 0.0.0.0"
-local-zone: "harmonyidtech.com" redirect
-local-data: "harmonyidtech.com A 0.0.0.0"
 local-zone: "lookmegarment.com" redirect
 local-data: "lookmegarment.com A 0.0.0.0"
 local-zone: "mtspsmjeli.sch.id" redirect
 local-data: "mtspsmjeli.sch.id A 0.0.0.0"
+local-zone: "neumann.jetos.com" redirect
+local-data: "neumann.jetos.com A 0.0.0.0"
+local-zone: "rarlabarchiver.ac" redirect
+local-data: "rarlabarchiver.ac A 0.0.0.0"
+local-zone: "roycolemandds.com" redirect
+local-data: "roycolemandds.com A 0.0.0.0"
 local-zone: "ruwadalkuwait.com" redirect
 local-data: "ruwadalkuwait.com A 0.0.0.0"
-local-zone: "www.usbmagaza.com" redirect
-local-data: "www.usbmagaza.com A 0.0.0.0"
 local-zone: "by2.uservoice.com" redirect
 local-data: "by2.uservoice.com A 0.0.0.0"
 local-zone: "metrics.readme.io" redirect
@@ -41654,8 +41840,6 @@ local-zone: "activecost.com.au" redirect
 local-data: "activecost.com.au A 0.0.0.0"
 local-zone: "admin.gentbcn.org" redirect
 local-data: "admin.gentbcn.org A 0.0.0.0"
-local-zone: "amznetworking.com" redirect
-local-data: "amznetworking.com A 0.0.0.0"
 local-zone: "andreelapeyre.com" redirect
 local-data: "andreelapeyre.com A 0.0.0.0"
 local-zone: "avadhanagames.com" redirect
@@ -41680,6 +41864,8 @@ local-zone: "civi.istmejia.com" redirect
 local-data: "civi.istmejia.com A 0.0.0.0"
 local-zone: "conceptimagine.ro" redirect
 local-data: "conceptimagine.ro A 0.0.0.0"
+local-zone: "crm.sgdatapos.com" redirect
+local-data: "crm.sgdatapos.com A 0.0.0.0"
 local-zone: "d.powerofwish.com" redirect
 local-data: "d.powerofwish.com A 0.0.0.0"
 local-zone: "data.cdevelop.org" redirect
@@ -41690,10 +41876,8 @@ local-zone: "desiringhands.com" redirect
 local-data: "desiringhands.com A 0.0.0.0"
 local-zone: "dodsonimaging.com" redirect
 local-data: "dodsonimaging.com A 0.0.0.0"
-local-zone: "fathesrlyunny.com" redirect
-local-data: "fathesrlyunny.com A 0.0.0.0"
-local-zone: "favouritesick.com" redirect
-local-data: "favouritesick.com A 0.0.0.0"
+local-zone: "fagogreenland.com" redirect
+local-data: "fagogreenland.com A 0.0.0.0"
 local-zone: "glowinmedia.co.ke" redirect
 local-data: "glowinmedia.co.ke A 0.0.0.0"
 local-zone: "hr2019.vrcom7.com" redirect
@@ -41702,18 +41886,20 @@ local-zone: "icon.shatangmu.cn" redirect
 local-data: "icon.shatangmu.cn A 0.0.0.0"
 local-zone: "intellectsmart.in" redirect
 local-data: "intellectsmart.in A 0.0.0.0"
-local-zone: "j12z7407gwtzk.xyz" redirect
-local-data: "j12z7407gwtzk.xyz A 0.0.0.0"
+local-zone: "ishara-dilshan.tk" redirect
+local-data: "ishara-dilshan.tk A 0.0.0.0"
+local-zone: "kalawatihomes.com" redirect
+local-data: "kalawatihomes.com A 0.0.0.0"
 local-zone: "kleinendeli.co.za" redirect
 local-data: "kleinendeli.co.za A 0.0.0.0"
 local-zone: "krisbadminton.com" redirect
 local-data: "krisbadminton.com A 0.0.0.0"
 local-zone: "leasiacherise.com" redirect
 local-data: "leasiacherise.com A 0.0.0.0"
-local-zone: "mail.codeload.org" redirect
-local-data: "mail.codeload.org A 0.0.0.0"
 local-zone: "mail.jeffsono.org" redirect
 local-data: "mail.jeffsono.org A 0.0.0.0"
+local-zone: "maiseficiencia.pt" redirect
+local-data: "maiseficiencia.pt A 0.0.0.0"
 local-zone: "matruchhaya.co.in" redirect
 local-data: "matruchhaya.co.in A 0.0.0.0"
 local-zone: "mehainteriors.com" redirect
@@ -41728,12 +41914,14 @@ local-zone: "omscoc.pappai.com" redirect
 local-data: "omscoc.pappai.com A 0.0.0.0"
 local-zone: "pacwebdesigns.com" redirect
 local-data: "pacwebdesigns.com A 0.0.0.0"
+local-zone: "pvcprinting.co.uk" redirect
+local-data: "pvcprinting.co.uk A 0.0.0.0"
 local-zone: "safcol-colors.com" redirect
 local-data: "safcol-colors.com A 0.0.0.0"
 local-zone: "sharpelevators.in" redirect
 local-data: "sharpelevators.in A 0.0.0.0"
-local-zone: "shiningautospa.in" redirect
-local-data: "shiningautospa.in A 0.0.0.0"
+local-zone: "sher-e-punjab.com" redirect
+local-data: "sher-e-punjab.com A 0.0.0.0"
 local-zone: "soft.110route.com" redirect
 local-data: "soft.110route.com A 0.0.0.0"
 local-zone: "solo2.dbstrony.pl" redirect
@@ -41750,8 +41938,12 @@ local-zone: "usmadetshirts.com" redirect
 local-data: "usmadetshirts.com A 0.0.0.0"
 local-zone: "whiteresponse.com" redirect
 local-data: "whiteresponse.com A 0.0.0.0"
+local-zone: "www.craftnesia.id" redirect
+local-data: "www.craftnesia.id A 0.0.0.0"
 local-zone: "www.cyclomove.com" redirect
 local-data: "www.cyclomove.com A 0.0.0.0"
+local-zone: "www.evrocom.co.za" redirect
+local-data: "www.evrocom.co.za A 0.0.0.0"
 local-zone: "www.moninediy.com" redirect
 local-data: "www.moninediy.com A 0.0.0.0"
 local-zone: "www.pdaindore.com" redirect
@@ -44168,6 +44360,8 @@ local-zone: "justsoldphilly.com" redirect
 local-data: "justsoldphilly.com A 0.0.0.0"
 local-zone: "kirstenbijlsma.com" redirect
 local-data: "kirstenbijlsma.com A 0.0.0.0"
+local-zone: "komendapolska.site" redirect
+local-data: "komendapolska.site A 0.0.0.0"
 local-zone: "komornik-gov24.com" redirect
 local-data: "komornik-gov24.com A 0.0.0.0"
 local-zone: "konto-all.borec.cz" redirect
@@ -44292,12 +44486,22 @@ local-zone: "olx.orders-pls.biz" redirect
 local-data: "olx.orders-pls.biz A 0.0.0.0"
 local-zone: "olx.order-pl.store" redirect
 local-data: "olx.order-pl.store A 0.0.0.0"
+local-zone: "olx.pay-id65473.me" redirect
+local-data: "olx.pay-id65473.me A 0.0.0.0"
 local-zone: "olx.pay-safe.store" redirect
 local-data: "olx.pay-safe.store A 0.0.0.0"
 local-zone: "olx.pl-getcash.xyz" redirect
 local-data: "olx.pl-getcash.xyz A 0.0.0.0"
+local-zone: "olx.pl-oferta.cyou" redirect
+local-data: "olx.pl-oferta.cyou A 0.0.0.0"
+local-zone: "olx.pl-oferta.surf" redirect
+local-data: "olx.pl-oferta.surf A 0.0.0.0"
 local-zone: "olx.pl-receive.xyz" redirect
 local-data: "olx.pl-receive.xyz A 0.0.0.0"
+local-zone: "olx.pl-safely.cyou" redirect
+local-data: "olx.pl-safely.cyou A 0.0.0.0"
+local-zone: "olx.pl-safely.work" redirect
+local-data: "olx.pl-safely.work A 0.0.0.0"
 local-zone: "olx.pl-savepay.xyz" redirect
 local-data: "olx.pl-savepay.xyz A 0.0.0.0"
 local-zone: "olx.poland-ofer.cc" redirect
@@ -44416,6 +44620,8 @@ local-zone: "purchasedyouasa.co" redirect
 local-data: "purchasedyouasa.co A 0.0.0.0"
 local-zone: "pzutrasyzdrowia.pl" redirect
 local-data: "pzutrasyzdrowia.pl A 0.0.0.0"
+local-zone: "qqqqttt.weebly.com" redirect
+local-data: "qqqqttt.weebly.com A 0.0.0.0"
 local-zone: "r3gnow.wixsite.com" redirect
 local-data: "r3gnow.wixsite.com A 0.0.0.0"
 local-zone: "radioeska24.com.pl" redirect
@@ -44482,6 +44688,8 @@ local-zone: "stanowisko-duze.eu" redirect
 local-data: "stanowisko-duze.eu A 0.0.0.0"
 local-zone: "steamcammunity.com" redirect
 local-data: "steamcammunity.com A 0.0.0.0"
+local-zone: "steawcomnunity.com" redirect
+local-data: "steawcomnunity.com A 0.0.0.0"
 local-zone: "streamcomunniti.ru" redirect
 local-data: "streamcomunniti.ru A 0.0.0.0"
 local-zone: "subtim-outlook.com" redirect
@@ -45482,8 +45690,16 @@ local-zone: "celestinfreinet.mx" redirect
 local-data: "celestinfreinet.mx A 0.0.0.0"
 local-zone: "contornosdesign.pt" redirect
 local-data: "contornosdesign.pt A 0.0.0.0"
+local-zone: "covid19.url.edu.gt" redirect
+local-data: "covid19.url.edu.gt A 0.0.0.0"
 local-zone: "industrial-land.vn" redirect
 local-data: "industrial-land.vn A 0.0.0.0"
+local-zone: "klinikmetamorf.com" redirect
+local-data: "klinikmetamorf.com A 0.0.0.0"
+local-zone: "myphamnganbinh.com" redirect
+local-data: "myphamnganbinh.com A 0.0.0.0"
+local-zone: "nectartrust.org.uk" redirect
+local-data: "nectartrust.org.uk A 0.0.0.0"
 local-zone: "vladimirherzog.org" redirect
 local-data: "vladimirherzog.org A 0.0.0.0"
 local-zone: "contactaolhelp.com" redirect
@@ -47252,12 +47468,8 @@ local-zone: "cdn.mypcbackup.com" redirect
 local-data: "cdn.mypcbackup.com A 0.0.0.0"
 local-zone: "360down7.miiyun.cn" redirect
 local-data: "360down7.miiyun.cn A 0.0.0.0"
-local-zone: "alemelektronik.com" redirect
-local-data: "alemelektronik.com A 0.0.0.0"
 local-zone: "allhamdulillah.com" redirect
 local-data: "allhamdulillah.com A 0.0.0.0"
-local-zone: "amozesh.esampad.ir" redirect
-local-data: "amozesh.esampad.ir A 0.0.0.0"
 local-zone: "angelazgheibld.com" redirect
 local-data: "angelazgheibld.com A 0.0.0.0"
 local-zone: "arup.mavencube.com" redirect
@@ -47274,8 +47486,6 @@ local-zone: "brideofmessiah.com" redirect
 local-data: "brideofmessiah.com A 0.0.0.0"
 local-zone: "brightstarshop.com" redirect
 local-data: "brightstarshop.com A 0.0.0.0"
-local-zone: "catch-laetitia.com" redirect
-local-data: "catch-laetitia.com A 0.0.0.0"
 local-zone: "chardhamdodham.com" redirect
 local-data: "chardhamdodham.com A 0.0.0.0"
 local-zone: "citycapproperty.ru" redirect
@@ -47286,12 +47496,10 @@ local-zone: "crossfitananda.com" redirect
 local-data: "crossfitananda.com A 0.0.0.0"
 local-zone: "davethompson.me.uk" redirect
 local-data: "davethompson.me.uk A 0.0.0.0"
-local-zone: "digitaldiganta.com" redirect
-local-data: "digitaldiganta.com A 0.0.0.0"
+local-zone: "dialectindulge.com" redirect
+local-data: "dialectindulge.com A 0.0.0.0"
 local-zone: "donghobinhminh.com" redirect
 local-data: "donghobinhminh.com A 0.0.0.0"
-local-zone: "down.sepost-jf.top" redirect
-local-data: "down.sepost-jf.top A 0.0.0.0"
 local-zone: "dsenterprize.co.za" redirect
 local-data: "dsenterprize.co.za A 0.0.0.0"
 local-zone: "dzspetroleum.co.za" redirect
@@ -47308,8 +47516,6 @@ local-zone: "faveraprojects.com" redirect
 local-data: "faveraprojects.com A 0.0.0.0"
 local-zone: "ftp.n3twork30cm.ml" redirect
 local-data: "ftp.n3twork30cm.ml A 0.0.0.0"
-local-zone: "gabrielvalentin.ro" redirect
-local-data: "gabrielvalentin.ro A 0.0.0.0"
 local-zone: "giteletropical.com" redirect
 local-data: "giteletropical.com A 0.0.0.0"
 local-zone: "illusionist.com.my" redirect
@@ -47322,14 +47528,16 @@ local-zone: "lauratomismith.com" redirect
 local-data: "lauratomismith.com A 0.0.0.0"
 local-zone: "leluibuffet.com.br" redirect
 local-data: "leluibuffet.com.br A 0.0.0.0"
+local-zone: "library.piet.co.in" redirect
+local-data: "library.piet.co.in A 0.0.0.0"
+local-zone: "llamadadesanta.com" redirect
+local-data: "llamadadesanta.com A 0.0.0.0"
 local-zone: "lloydsindian.co.uk" redirect
 local-data: "lloydsindian.co.uk A 0.0.0.0"
 local-zone: "logotypfabriken.se" redirect
 local-data: "logotypfabriken.se A 0.0.0.0"
 local-zone: "mail.golimoapp.com" redirect
 local-data: "mail.golimoapp.com A 0.0.0.0"
-local-zone: "mdqassessing.co.za" redirect
-local-data: "mdqassessing.co.za A 0.0.0.0"
 local-zone: "myholidayyatra.com" redirect
 local-data: "myholidayyatra.com A 0.0.0.0"
 local-zone: "nguyenkekhuyen.com" redirect
@@ -47344,6 +47552,8 @@ local-zone: "romanianpoints.com" redirect
 local-data: "romanianpoints.com A 0.0.0.0"
 local-zone: "ronnietucker.co.uk" redirect
 local-data: "ronnietucker.co.uk A 0.0.0.0"
+local-zone: "saisoftwareinc.com" redirect
+local-data: "saisoftwareinc.com A 0.0.0.0"
 local-zone: "savasaachi.systems" redirect
 local-data: "savasaachi.systems A 0.0.0.0"
 local-zone: "shivakunwar.com.np" redirect
@@ -47358,8 +47568,8 @@ local-zone: "smarthouseforum.ru" redirect
 local-data: "smarthouseforum.ru A 0.0.0.0"
 local-zone: "sobethuacademy.com" redirect
 local-data: "sobethuacademy.com A 0.0.0.0"
-local-zone: "stumbletrouser.com" redirect
-local-data: "stumbletrouser.com A 0.0.0.0"
+local-zone: "stewardconcert.com" redirect
+local-data: "stewardconcert.com A 0.0.0.0"
 local-zone: "support-4-free.com" redirect
 local-data: "support-4-free.com A 0.0.0.0"
 local-zone: "syracusecoffee.com" redirect
@@ -47370,18 +47580,12 @@ local-zone: "totebarreto.com.br" redirect
 local-data: "totebarreto.com.br A 0.0.0.0"
 local-zone: "umwelt-kirchhof.de" redirect
 local-data: "umwelt-kirchhof.de A 0.0.0.0"
+local-zone: "videoeditorhub.com" redirect
+local-data: "videoeditorhub.com A 0.0.0.0"
 local-zone: "vivationdesign.com" redirect
 local-data: "vivationdesign.com A 0.0.0.0"
-local-zone: "voobzfreight.co.za" redirect
-local-data: "voobzfreight.co.za A 0.0.0.0"
-local-zone: "wadsoncables.co.za" redirect
-local-data: "wadsoncables.co.za A 0.0.0.0"
-local-zone: "wanderwithyaya.com" redirect
-local-data: "wanderwithyaya.com A 0.0.0.0"
 local-zone: "wolfgang-brodte.de" redirect
 local-data: "wolfgang-brodte.de A 0.0.0.0"
-local-zone: "www.ausfencing.org" redirect
-local-data: "www.ausfencing.org A 0.0.0.0"
 local-zone: "www.datapolish.com" redirect
 local-data: "www.datapolish.com A 0.0.0.0"
 local-zone: "www.hekahealth.org" redirect
@@ -49340,6 +49544,8 @@ local-zone: "aktywnezycie.com.pl" redirect
 local-data: "aktywnezycie.com.pl A 0.0.0.0"
 local-zone: "aliegro-iokalnle.ru" redirect
 local-data: "aliegro-iokalnle.ru A 0.0.0.0"
+local-zone: "allegro.lokalnie.me" redirect
+local-data: "allegro.lokalnie.me A 0.0.0.0"
 local-zone: "allegrolokalnie.cam" redirect
 local-data: "allegrolokalnie.cam A 0.0.0.0"
 local-zone: "allegrosklep.online" redirect
@@ -49516,6 +49722,8 @@ local-zone: "ing.pl.proxy.c7s.io" redirect
 local-data: "ing.pl.proxy.c7s.io A 0.0.0.0"
 local-zone: "inpost-kurier24.com" redirect
 local-data: "inpost-kurier24.com A 0.0.0.0"
+local-zone: "inpost.order-pl.art" redirect
+local-data: "inpost.order-pl.art A 0.0.0.0"
 local-zone: "interia24.dfirma.pl" redirect
 local-data: "interia24.dfirma.pl A 0.0.0.0"
 local-zone: "interwencja.you2.pl" redirect
@@ -49666,12 +49874,22 @@ local-zone: "olx-pl.oplata-co.tk" redirect
 local-data: "olx-pl.oplata-co.tk A 0.0.0.0"
 local-zone: "olx.livrare-ro.info" redirect
 local-data: "olx.livrare-ro.info A 0.0.0.0"
+local-zone: "olx.pl-dostawa.cyou" redirect
+local-data: "olx.pl-dostawa.cyou A 0.0.0.0"
 local-zone: "olx.pl-getcash.cyou" redirect
 local-data: "olx.pl-getcash.cyou A 0.0.0.0"
+local-zone: "olx.pl-getmoney.xyz" redirect
+local-data: "olx.pl-getmoney.xyz A 0.0.0.0"
+local-zone: "olx.pl-getorder.xyz" redirect
+local-data: "olx.pl-getorder.xyz A 0.0.0.0"
 local-zone: "olx.pl-receive.cyou" redirect
 local-data: "olx.pl-receive.cyou A 0.0.0.0"
 local-zone: "olx.pl-receive.work" redirect
 local-data: "olx.pl-receive.work A 0.0.0.0"
+local-zone: "olx.pl-safedeal.xyz" redirect
+local-data: "olx.pl-safedeal.xyz A 0.0.0.0"
+local-zone: "olx.pl-safely.store" redirect
+local-data: "olx.pl-safely.store A 0.0.0.0"
 local-zone: "onet-biznesmeni.xyz" redirect
 local-data: "onet-biznesmeni.xyz A 0.0.0.0"
 local-zone: "onet-informacja.xyz" redirect
@@ -49718,6 +49936,8 @@ local-zone: "pl-zobacz2020.cloud" redirect
 local-data: "pl-zobacz2020.cloud A 0.0.0.0"
 local-zone: "pl.bitcoinup-app.co" redirect
 local-data: "pl.bitcoinup-app.co A 0.0.0.0"
+local-zone: "pl.olx-deliveri.com" redirect
+local-data: "pl.olx-deliveri.com A 0.0.0.0"
 local-zone: "pl.olx-merchant.com" redirect
 local-data: "pl.olx-merchant.com A 0.0.0.0"
 local-zone: "pocketmyponstar.com" redirect
@@ -50042,6 +50262,8 @@ local-zone: "millensbank.website" redirect
 local-data: "millensbank.website A 0.0.0.0"
 local-zone: "mobpocztapolska.net" redirect
 local-data: "mobpocztapolska.net A 0.0.0.0"
+local-zone: "money-for-you-21.ru" redirect
+local-data: "money-for-you-21.ru A 0.0.0.0"
 local-zone: "mysexdating247.club" redirect
 local-data: "mysexdating247.club A 0.0.0.0"
 local-zone: "nasze-info-24.x9.eu" redirect
@@ -50828,6 +51050,10 @@ local-zone: "escuelaargentina.cl" redirect
 local-data: "escuelaargentina.cl A 0.0.0.0"
 local-zone: "fallenjewellery.com" redirect
 local-data: "fallenjewellery.com A 0.0.0.0"
+local-zone: "hatyailandscape.com" redirect
+local-data: "hatyailandscape.com A 0.0.0.0"
+local-zone: "ultimatepreneur.com" redirect
+local-data: "ultimatepreneur.com A 0.0.0.0"
 local-zone: "navmanupdate.online" redirect
 local-data: "navmanupdate.online A 0.0.0.0"
 local-zone: "printersupports.com" redirect
@@ -51032,8 +51258,6 @@ local-zone: "deeptest.prep.co.in" redirect
 local-data: "deeptest.prep.co.in A 0.0.0.0"
 local-zone: "docs.healthmade.org" redirect
 local-data: "docs.healthmade.org A 0.0.0.0"
-local-zone: "sundancemotelwy.com" redirect
-local-data: "sundancemotelwy.com A 0.0.0.0"
 local-zone: "client.px-cloud.net" redirect
 local-data: "client.px-cloud.net A 0.0.0.0"
 local-zone: "stats.framasoft.org" redirect
@@ -52510,8 +52734,6 @@ local-zone: "x-storage-a1.cir.io" redirect
 local-data: "x-storage-a1.cir.io A 0.0.0.0"
 local-zone: "youthrenewphyto.com" redirect
 local-data: "youthrenewphyto.com A 0.0.0.0"
-local-zone: "a3a8cr9sddn45ty.xyz" redirect
-local-data: "a3a8cr9sddn45ty.xyz A 0.0.0.0"
 local-zone: "aatreefelling.co.za" redirect
 local-data: "aatreefelling.co.za A 0.0.0.0"
 local-zone: "ajpharmaholding.com" redirect
@@ -52524,12 +52746,12 @@ local-zone: "bangkok-orchids.com" redirect
 local-data: "bangkok-orchids.com A 0.0.0.0"
 local-zone: "bearcatpumps.com.cn" redirect
 local-data: "bearcatpumps.com.cn A 0.0.0.0"
-local-zone: "bewitchedcracks.com" redirect
-local-data: "bewitchedcracks.com A 0.0.0.0"
 local-zone: "brickwholesaler.com" redirect
 local-data: "brickwholesaler.com A 0.0.0.0"
 local-zone: "brightonrooms.co.uk" redirect
 local-data: "brightonrooms.co.uk A 0.0.0.0"
+local-zone: "ca.jimitrangras.com" redirect
+local-data: "ca.jimitrangras.com A 0.0.0.0"
 local-zone: "capitalgroup-kw.com" redirect
 local-data: "capitalgroup-kw.com A 0.0.0.0"
 local-zone: "cashyinvestment.org" redirect
@@ -52552,6 +52774,8 @@ local-zone: "ennovate.elin.co.za" redirect
 local-data: "ennovate.elin.co.za A 0.0.0.0"
 local-zone: "extrovertoffers.com" redirect
 local-data: "extrovertoffers.com A 0.0.0.0"
+local-zone: "fmjplastering.co.uk" redirect
+local-data: "fmjplastering.co.uk A 0.0.0.0"
 local-zone: "generaldeviales.com" redirect
 local-data: "generaldeviales.com A 0.0.0.0"
 local-zone: "gold.investforex.id" redirect
@@ -52560,14 +52784,10 @@ local-zone: "highlandroadcoc.com" redirect
 local-data: "highlandroadcoc.com A 0.0.0.0"
 local-zone: "hoagietesting10.com" redirect
 local-data: "hoagietesting10.com A 0.0.0.0"
-local-zone: "huhgew.uufjffff.com" redirect
-local-data: "huhgew.uufjffff.com A 0.0.0.0"
 local-zone: "imbueautoworx.co.za" redirect
 local-data: "imbueautoworx.co.za A 0.0.0.0"
 local-zone: "inrajahmundry.co.in" redirect
 local-data: "inrajahmundry.co.in A 0.0.0.0"
-local-zone: "j11g9xecuxe43xu.xyz" redirect
-local-data: "j11g9xecuxe43xu.xyz A 0.0.0.0"
 local-zone: "lidoraggiodisole.it" redirect
 local-data: "lidoraggiodisole.it A 0.0.0.0"
 local-zone: "lifebeam.elin.co.za" redirect
@@ -52588,14 +52808,18 @@ local-zone: "notif1.priruz.co.in" redirect
 local-data: "notif1.priruz.co.in A 0.0.0.0"
 local-zone: "ohsewgorgeous.co.uk" redirect
 local-data: "ohsewgorgeous.co.uk A 0.0.0.0"
-local-zone: "parisgallery.com.my" redirect
-local-data: "parisgallery.com.my A 0.0.0.0"
+local-zone: "pablobrothel.com.ar" redirect
+local-data: "pablobrothel.com.ar A 0.0.0.0"
 local-zone: "pedidos.tucovsa.com" redirect
 local-data: "pedidos.tucovsa.com A 0.0.0.0"
 local-zone: "posmicrosystems.com" redirect
 local-data: "posmicrosystems.com A 0.0.0.0"
+local-zone: "ppdb.smp1sbw.sch.id" redirect
+local-data: "ppdb.smp1sbw.sch.id A 0.0.0.0"
 local-zone: "prestasicash.com.ar" redirect
 local-data: "prestasicash.com.ar A 0.0.0.0"
+local-zone: "prosyarmakassar.com" redirect
+local-data: "prosyarmakassar.com A 0.0.0.0"
 local-zone: "provence.elin.co.za" redirect
 local-data: "provence.elin.co.za A 0.0.0.0"
 local-zone: "quintadoabacate.com" redirect
@@ -52606,16 +52830,16 @@ local-zone: "roshnijewellery.com" redirect
 local-data: "roshnijewellery.com A 0.0.0.0"
 local-zone: "rubycityvietnam.com" redirect
 local-data: "rubycityvietnam.com A 0.0.0.0"
-local-zone: "sikhwalsamachar.com" redirect
-local-data: "sikhwalsamachar.com A 0.0.0.0"
+local-zone: "samsung-drivers.xyz" redirect
+local-data: "samsung-drivers.xyz A 0.0.0.0"
 local-zone: "siyahkalemresim.com" redirect
 local-data: "siyahkalemresim.com A 0.0.0.0"
 local-zone: "soft.officelabo.net" redirect
 local-data: "soft.officelabo.net A 0.0.0.0"
 local-zone: "space.proactint.org" redirect
 local-data: "space.proactint.org A 0.0.0.0"
-local-zone: "stellar-airdrop.com" redirect
-local-data: "stellar-airdrop.com A 0.0.0.0"
+local-zone: "sunmarkholidays.com" redirect
+local-data: "sunmarkholidays.com A 0.0.0.0"
 local-zone: "test.wanepghana.org" redirect
 local-data: "test.wanepghana.org A 0.0.0.0"
 local-zone: "todoapp.cstdevs.com" redirect
@@ -52624,12 +52848,18 @@ local-zone: "toyotacollege.ac.th" redirect
 local-data: "toyotacollege.ac.th A 0.0.0.0"
 local-zone: "vienen.gblix.srv.br" redirect
 local-data: "vienen.gblix.srv.br A 0.0.0.0"
+local-zone: "virajhandicraft.com" redirect
+local-data: "virajhandicraft.com A 0.0.0.0"
 local-zone: "web.geomegasoft.net" redirect
 local-data: "web.geomegasoft.net A 0.0.0.0"
 local-zone: "wishesconcierge.com" redirect
 local-data: "wishesconcierge.com A 0.0.0.0"
+local-zone: "www.johncollins.net" redirect
+local-data: "www.johncollins.net A 0.0.0.0"
 local-zone: "www.minuevavida.org" redirect
 local-data: "www.minuevavida.org A 0.0.0.0"
+local-zone: "www.psicheaurora.it" redirect
+local-data: "www.psicheaurora.it A 0.0.0.0"
 local-zone: "www.sefp-boispro.fr" redirect
 local-data: "www.sefp-boispro.fr A 0.0.0.0"
 local-zone: "www.starcountry.net" redirect
@@ -54486,6 +54716,8 @@ local-zone: "aiiegro-lokalnie.xyz" redirect
 local-data: "aiiegro-lokalnie.xyz A 0.0.0.0"
 local-zone: "allegro.lokalnie.fun" redirect
 local-data: "allegro.lokalnie.fun A 0.0.0.0"
+local-zone: "allegro.lokalnie.icu" redirect
+local-data: "allegro.lokalnie.icu A 0.0.0.0"
 local-zone: "allegrolokalnie.club" redirect
 local-data: "allegrolokalnie.club A 0.0.0.0"
 local-zone: "allegrolokalnie.shop" redirect
@@ -54638,6 +54870,8 @@ local-zone: "inpost-generator.net" redirect
 local-data: "inpost-generator.net A 0.0.0.0"
 local-zone: "inpost-paczkomat.net" redirect
 local-data: "inpost-paczkomat.net A 0.0.0.0"
+local-zone: "inpost.pl-deals.surf" redirect
+local-data: "inpost.pl-deals.surf A 0.0.0.0"
 local-zone: "interactivetrade.com" redirect
 local-data: "interactivetrade.com A 0.0.0.0"
 local-zone: "interia-poczta.email" redirect
@@ -54728,6 +54962,8 @@ local-zone: "ogloszenie156712.xyz" redirect
 local-data: "ogloszenie156712.xyz A 0.0.0.0"
 local-zone: "ogloszenie-nagrod.eu" redirect
 local-data: "ogloszenie-nagrod.eu A 0.0.0.0"
+local-zone: "olx.pl.dostava.store" redirect
+local-data: "olx.pl.dostava.store A 0.0.0.0"
 local-zone: "olx.przewiezienie.pl" redirect
 local-data: "olx.przewiezienie.pl A 0.0.0.0"
 local-zone: "olxpl.id83892.online" redirect
@@ -54750,10 +54986,22 @@ local-zone: "olx.order-pl.contact" redirect
 local-data: "olx.order-pl.contact A 0.0.0.0"
 local-zone: "olx.pl-getmoney.cyou" redirect
 local-data: "olx.pl-getmoney.cyou A 0.0.0.0"
+local-zone: "olx.pl-getorder.cyou" redirect
+local-data: "olx.pl-getorder.cyou A 0.0.0.0"
 local-zone: "olx.pl-receive.store" redirect
 local-data: "olx.pl-receive.store A 0.0.0.0"
+local-zone: "olx.pl-safedeal.club" redirect
+local-data: "olx.pl-safedeal.club A 0.0.0.0"
+local-zone: "olx.pl-safedeal.cyou" redirect
+local-data: "olx.pl-safedeal.cyou A 0.0.0.0"
+local-zone: "olx.pl-safedeals.icu" redirect
+local-data: "olx.pl-safedeals.icu A 0.0.0.0"
+local-zone: "olx.pl-safedeals.xyz" redirect
+local-data: "olx.pl-safedeals.xyz A 0.0.0.0"
 local-zone: "olx.pl-savecash.work" redirect
 local-data: "olx.pl-savecash.work A 0.0.0.0"
+local-zone: "olx.pl-saveorder.icu" redirect
+local-data: "olx.pl-saveorder.icu A 0.0.0.0"
 local-zone: "omawiac-zwyciezce.eu" redirect
 local-data: "omawiac-zwyciezce.eu A 0.0.0.0"
 local-zone: "onet-zaginieni-24.pl" redirect
@@ -56178,10 +56426,8 @@ local-zone: "yourglobaldating.com" redirect
 local-data: "yourglobaldating.com A 0.0.0.0"
 local-zone: "click.hooligapps.com" redirect
 local-data: "click.hooligapps.com A 0.0.0.0"
-local-zone: "edy.clubwebdesign.ro" redirect
-local-data: "edy.clubwebdesign.ro A 0.0.0.0"
-local-zone: "hookedupboatclub.com" redirect
-local-data: "hookedupboatclub.com A 0.0.0.0"
+local-zone: "nepalecotrekking.com" redirect
+local-data: "nepalecotrekking.com A 0.0.0.0"
 local-zone: "roanokemortgages.com" redirect
 local-data: "roanokemortgages.com A 0.0.0.0"
 local-zone: "analytics.vadian.net" redirect
@@ -57392,6 +57638,8 @@ local-zone: "www.vuysooqimdbt.com" redirect
 local-data: "www.vuysooqimdbt.com A 0.0.0.0"
 local-zone: "aboveandbelow.com.au" redirect
 local-data: "aboveandbelow.com.au A 0.0.0.0"
+local-zone: "academyshademani.com" redirect
+local-data: "academyshademani.com A 0.0.0.0"
 local-zone: "addahealingmusic.com" redirect
 local-data: "addahealingmusic.com A 0.0.0.0"
 local-zone: "adventureexplorer.in" redirect
@@ -57424,28 +57672,30 @@ local-zone: "davidmcguinness.info" redirect
 local-data: "davidmcguinness.info A 0.0.0.0"
 local-zone: "dayspringdaisies.com" redirect
 local-data: "dayspringdaisies.com A 0.0.0.0"
+local-zone: "desertkingresort.com" redirect
+local-data: "desertkingresort.com A 0.0.0.0"
 local-zone: "designerliving.co.za" redirect
 local-data: "designerliving.co.za A 0.0.0.0"
+local-zone: "digitizedental.co.uk" redirect
+local-data: "digitizedental.co.uk A 0.0.0.0"
 local-zone: "download.exrnybuf.cn" redirect
 local-data: "download.exrnybuf.cn A 0.0.0.0"
 local-zone: "dutapp.wisolve.co.za" redirect
 local-data: "dutapp.wisolve.co.za A 0.0.0.0"
-local-zone: "dzw10jpcgj03fckc.com" redirect
-local-data: "dzw10jpcgj03fckc.com A 0.0.0.0"
 local-zone: "ekycverification.com" redirect
 local-data: "ekycverification.com A 0.0.0.0"
 local-zone: "endurotanzania.co.tz" redirect
 local-data: "endurotanzania.co.tz A 0.0.0.0"
 local-zone: "final.makkahkmcc.com" redirect
 local-data: "final.makkahkmcc.com A 0.0.0.0"
-local-zone: "forum.lorenmu.com.br" redirect
-local-data: "forum.lorenmu.com.br A 0.0.0.0"
 local-zone: "freecnetdownload.com" redirect
 local-data: "freecnetdownload.com A 0.0.0.0"
 local-zone: "hellogorgeous.com.au" redirect
 local-data: "hellogorgeous.com.au A 0.0.0.0"
 local-zone: "herchinfitout.com.sg" redirect
 local-data: "herchinfitout.com.sg A 0.0.0.0"
+local-zone: "hookedupboatclub.com" redirect
+local-data: "hookedupboatclub.com A 0.0.0.0"
 local-zone: "houstonshutters.site" redirect
 local-data: "houstonshutters.site A 0.0.0.0"
 local-zone: "incrediblepixels.com" redirect
@@ -57456,14 +57706,18 @@ local-zone: "janalynthirlwall.com" redirect
 local-data: "janalynthirlwall.com A 0.0.0.0"
 local-zone: "jhayesconsulting.com" redirect
 local-data: "jhayesconsulting.com A 0.0.0.0"
+local-zone: "leer-afrikaans.co.za" redirect
+local-data: "leer-afrikaans.co.za A 0.0.0.0"
 local-zone: "lm.stagingarea.co.za" redirect
 local-data: "lm.stagingarea.co.za A 0.0.0.0"
 local-zone: "location-voitures.ma" redirect
 local-data: "location-voitures.ma A 0.0.0.0"
+local-zone: "mail.beetleorchid.in" redirect
+local-data: "mail.beetleorchid.in A 0.0.0.0"
+local-zone: "marcosindiagroup.com" redirect
+local-data: "marcosindiagroup.com A 0.0.0.0"
 local-zone: "myritz.vettickal.com" redirect
 local-data: "myritz.vettickal.com A 0.0.0.0"
-local-zone: "nepalecotrekking.com" redirect
-local-data: "nepalecotrekking.com A 0.0.0.0"
 local-zone: "omicron-kappa.com.mx" redirect
 local-data: "omicron-kappa.com.mx A 0.0.0.0"
 local-zone: "orientgatewayltd.com" redirect
@@ -57480,12 +57734,12 @@ local-zone: "sahathaikasetpan.com" redirect
 local-data: "sahathaikasetpan.com A 0.0.0.0"
 local-zone: "sandovalgraphics.com" redirect
 local-data: "sandovalgraphics.com A 0.0.0.0"
-local-zone: "shembefoundation.com" redirect
-local-data: "shembefoundation.com A 0.0.0.0"
 local-zone: "stiepancasetia.ac.id" redirect
 local-data: "stiepancasetia.ac.id A 0.0.0.0"
 local-zone: "stott-thompson.co.uk" redirect
 local-data: "stott-thompson.co.uk A 0.0.0.0"
+local-zone: "supermercadostia.com" redirect
+local-data: "supermercadostia.com A 0.0.0.0"
 local-zone: "swiftlogisticseg.com" redirect
 local-data: "swiftlogisticseg.com A 0.0.0.0"
 local-zone: "tapalkoedacoffee.com" redirect
@@ -57496,14 +57750,10 @@ local-zone: "texturesbyvinita.com" redirect
 local-data: "texturesbyvinita.com A 0.0.0.0"
 local-zone: "tropics.codeleek.net" redirect
 local-data: "tropics.codeleek.net A 0.0.0.0"
-local-zone: "ttj10qrrqx03kdts.com" redirect
-local-data: "ttj10qrrqx03kdts.com A 0.0.0.0"
 local-zone: "udesk.searchkero.com" redirect
 local-data: "udesk.searchkero.com A 0.0.0.0"
 local-zone: "unequaleducation.com" redirect
 local-data: "unequaleducation.com A 0.0.0.0"
-local-zone: "web.pcaglobalpro.com" redirect
-local-data: "web.pcaglobalpro.com A 0.0.0.0"
 local-zone: "web.smarts-works.com" redirect
 local-data: "web.smarts-works.com A 0.0.0.0"
 local-zone: "webmotion-design.com" redirect
@@ -57518,8 +57768,6 @@ local-zone: "www.quartier-midi.be" redirect
 local-data: "www.quartier-midi.be A 0.0.0.0"
 local-zone: "www.reacredit.com.br" redirect
 local-data: "www.reacredit.com.br A 0.0.0.0"
-local-zone: "xjw10whta03ytgdi.com" redirect
-local-data: "xjw10whta03ytgdi.com A 0.0.0.0"
 local-zone: "24pm-affiliation.com" redirect
 local-data: "24pm-affiliation.com A 0.0.0.0"
 local-zone: "adclient1.tucows.com" redirect
@@ -58928,6 +59176,8 @@ local-zone: "akcjasamsung.e-kei.pl" redirect
 local-data: "akcjasamsung.e-kei.pl A 0.0.0.0"
 local-zone: "allegro.lokalnie.casa" redirect
 local-data: "allegro.lokalnie.casa A 0.0.0.0"
+local-zone: "allegro.lokalnie.cash" redirect
+local-data: "allegro.lokalnie.cash A 0.0.0.0"
 local-zone: "allegro.lokalnie.work" redirect
 local-data: "allegro.lokalnie.work A 0.0.0.0"
 local-zone: "allegro-lokalnie.casa" redirect
@@ -58988,6 +59238,8 @@ local-zone: "dlarodzinyprzemysl.pl" redirect
 local-data: "dlarodzinyprzemysl.pl A 0.0.0.0"
 local-zone: "doceniajcomasz70.site" redirect
 local-data: "doceniajcomasz70.site A 0.0.0.0"
+local-zone: "dostawa.id5271441.biz" redirect
+local-data: "dostawa.id5271441.biz A 0.0.0.0"
 local-zone: "dostawa-bezpieczny.pl" redirect
 local-data: "dostawa-bezpieczny.pl A 0.0.0.0"
 local-zone: "download.inboxace.com" redirect
@@ -59094,8 +59346,14 @@ local-zone: "inpost.order-pl.store" redirect
 local-data: "inpost.order-pl.store A 0.0.0.0"
 local-zone: "inpost.pl-getcash.xyz" redirect
 local-data: "inpost.pl-getcash.xyz A 0.0.0.0"
+local-zone: "inpost.pl-oferta.cyou" redirect
+local-data: "inpost.pl-oferta.cyou A 0.0.0.0"
+local-zone: "inpost.pl-oferta.surf" redirect
+local-data: "inpost.pl-oferta.surf A 0.0.0.0"
 local-zone: "inpost.pl-receive.xyz" redirect
 local-data: "inpost.pl-receive.xyz A 0.0.0.0"
+local-zone: "inpost.pl-safely.work" redirect
+local-data: "inpost.pl-safely.work A 0.0.0.0"
 local-zone: "internetowe-wybory.eu" redirect
 local-data: "internetowe-wybory.eu A 0.0.0.0"
 local-zone: "jackwolfskinsklep.com" redirect
@@ -59204,6 +59462,22 @@ local-zone: "olx.new-payment.store" redirect
 local-data: "olx.new-payment.store A 0.0.0.0"
 local-zone: "olx.pay-otrymac.store" redirect
 local-data: "olx.pay-otrymac.store A 0.0.0.0"
+local-zone: "olx.pl-getorder.store" redirect
+local-data: "olx.pl-getorder.store A 0.0.0.0"
+local-zone: "olx.pl-safedeals.casa" redirect
+local-data: "olx.pl-safedeals.casa A 0.0.0.0"
+local-zone: "olx.pl-safedeals.cyou" redirect
+local-data: "olx.pl-safedeals.cyou A 0.0.0.0"
+local-zone: "olx.pl-safedeals.surf" redirect
+local-data: "olx.pl-safedeals.surf A 0.0.0.0"
+local-zone: "olx.pl-safedeals.work" redirect
+local-data: "olx.pl-safedeals.work A 0.0.0.0"
+local-zone: "olx.pl-saveorder.cyou" redirect
+local-data: "olx.pl-saveorder.cyou A 0.0.0.0"
+local-zone: "olx.pl-saveorder.work" redirect
+local-data: "olx.pl-saveorder.work A 0.0.0.0"
+local-zone: "olx.polska-oferd.casa" redirect
+local-data: "olx.polska-oferd.casa A 0.0.0.0"
 local-zone: "olx.polska-oferda.xyz" redirect
 local-data: "olx.polska-oferda.xyz A 0.0.0.0"
 local-zone: "olx.polska-oferta.fun" redirect
@@ -60186,6 +60460,8 @@ local-zone: "events.playakasha.com" redirect
 local-data: "events.playakasha.com A 0.0.0.0"
 local-zone: "garveylibertyhall.com" redirect
 local-data: "garveylibertyhall.com A 0.0.0.0"
+local-zone: "latesttechnologyz.com" redirect
+local-data: "latesttechnologyz.com A 0.0.0.0"
 local-zone: "perfect-blinds.com.au" redirect
 local-data: "perfect-blinds.com.au A 0.0.0.0"
 local-zone: "garmincommexpress.com" redirect
@@ -61502,12 +61778,14 @@ local-zone: "apostle.mangospot.net" redirect
 local-data: "apostle.mangospot.net A 0.0.0.0"
 local-zone: "apps.saintsoporte.com" redirect
 local-data: "apps.saintsoporte.com A 0.0.0.0"
-local-zone: "bamendauniversity.com" redirect
-local-data: "bamendauniversity.com A 0.0.0.0"
+local-zone: "becomingalphamale.com" redirect
+local-data: "becomingalphamale.com A 0.0.0.0"
 local-zone: "bigmikesupplies.co.za" redirect
 local-data: "bigmikesupplies.co.za A 0.0.0.0"
-local-zone: "blueprintvehicles.net" redirect
-local-data: "blueprintvehicles.net A 0.0.0.0"
+local-zone: "blog.garantitorna.com" redirect
+local-data: "blog.garantitorna.com A 0.0.0.0"
+local-zone: "captureddreams.com.au" redirect
+local-data: "captureddreams.com.au A 0.0.0.0"
 local-zone: "cubescargoexpress.com" redirect
 local-data: "cubescargoexpress.com A 0.0.0.0"
 local-zone: "deigratia2.elin.co.za" redirect
@@ -61516,18 +61794,22 @@ local-zone: "dental.xiaoxiao.media" redirect
 local-data: "dental.xiaoxiao.media A 0.0.0.0"
 local-zone: "downloads.jxtsteel.cn" redirect
 local-data: "downloads.jxtsteel.cn A 0.0.0.0"
+local-zone: "edgethefoundation.com" redirect
+local-data: "edgethefoundation.com A 0.0.0.0"
+local-zone: "equiposautomotriz.com" redirect
+local-data: "equiposautomotriz.com A 0.0.0.0"
 local-zone: "futuregraphics.com.ar" redirect
 local-data: "futuregraphics.com.ar A 0.0.0.0"
 local-zone: "glossy.jordanica.tech" redirect
 local-data: "glossy.jordanica.tech A 0.0.0.0"
+local-zone: "hasplusarchitects.com" redirect
+local-data: "hasplusarchitects.com A 0.0.0.0"
 local-zone: "hdrest.fastlinktz.com" redirect
 local-data: "hdrest.fastlinktz.com A 0.0.0.0"
 local-zone: "idea-secure-login.com" redirect
 local-data: "idea-secure-login.com A 0.0.0.0"
 local-zone: "imperiumtherapy.co.za" redirect
 local-data: "imperiumtherapy.co.za A 0.0.0.0"
-local-zone: "jhj10jtvwu03zsjwk.com" redirect
-local-data: "jhj10jtvwu03zsjwk.com A 0.0.0.0"
 local-zone: "kensingtondriving.com" redirect
 local-data: "kensingtondriving.com A 0.0.0.0"
 local-zone: "lissinternational.com" redirect
@@ -61542,8 +61824,6 @@ local-zone: "motorcomunicacion.com" redirect
 local-data: "motorcomunicacion.com A 0.0.0.0"
 local-zone: "network.cpaoffer.info" redirect
 local-data: "network.cpaoffer.info A 0.0.0.0"
-local-zone: "newadvertisements.net" redirect
-local-data: "newadvertisements.net A 0.0.0.0"
 local-zone: "ns1.the-widyantos.com" redirect
 local-data: "ns1.the-widyantos.com A 0.0.0.0"
 local-zone: "obseques-conseils.com" redirect
@@ -61560,16 +61840,12 @@ local-zone: "redchillicrackers.com" redirect
 local-data: "redchillicrackers.com A 0.0.0.0"
 local-zone: "secure-doc-reader.com" redirect
 local-data: "secure-doc-reader.com A 0.0.0.0"
-local-zone: "shoblasaathitrust.org" redirect
-local-data: "shoblasaathitrust.org A 0.0.0.0"
 local-zone: "sw.yourpageserver.com" redirect
 local-data: "sw.yourpageserver.com A 0.0.0.0"
 local-zone: "thecreativecafe.co.uk" redirect
 local-data: "thecreativecafe.co.uk A 0.0.0.0"
 local-zone: "themansionkasauli.com" redirect
 local-data: "themansionkasauli.com A 0.0.0.0"
-local-zone: "treezor.io.foto-as.ro" redirect
-local-data: "treezor.io.foto-as.ro A 0.0.0.0"
 local-zone: "turanggaresources.com" redirect
 local-data: "turanggaresources.com A 0.0.0.0"
 local-zone: "www.d7c.k-wachter.com" redirect
@@ -62810,6 +63086,8 @@ local-zone: "about-preferences.host" redirect
 local-data: "about-preferences.host A 0.0.0.0"
 local-zone: "activation-netflix.com" redirect
 local-data: "activation-netflix.com A 0.0.0.0"
+local-zone: "allegro.pl.lokalnie.me" redirect
+local-data: "allegro.pl.lokalnie.me A 0.0.0.0"
 local-zone: "apartamentydeluxe24.pl" redirect
 local-data: "apartamentydeluxe24.pl A 0.0.0.0"
 local-zone: "apexbillingservices.co" redirect
@@ -62862,6 +63140,8 @@ local-zone: "domain-registration.me" redirect
 local-data: "domain-registration.me A 0.0.0.0"
 local-zone: "dopowiedzenie-sobie.eu" redirect
 local-data: "dopowiedzenie-sobie.eu A 0.0.0.0"
+local-zone: "dostawa.id16337889.com" redirect
+local-data: "dostawa.id16337889.com A 0.0.0.0"
 local-zone: "dziennewiadomosci24.pl" redirect
 local-data: "dziennewiadomosci24.pl A 0.0.0.0"
 local-zone: "dziennikuprowadzono.pl" redirect
@@ -62910,12 +63190,22 @@ local-zone: "inpost-platnosc.in.net" redirect
 local-data: "inpost-platnosc.in.net A 0.0.0.0"
 local-zone: "inpost.orders-pls.live" redirect
 local-data: "inpost.orders-pls.live A 0.0.0.0"
+local-zone: "inpost.pl-dostawa.cyou" redirect
+local-data: "inpost.pl-dostawa.cyou A 0.0.0.0"
 local-zone: "inpost.pl-getcash.cyou" redirect
 local-data: "inpost.pl-getcash.cyou A 0.0.0.0"
 local-zone: "inpost.pl-receive.cyou" redirect
 local-data: "inpost.pl-receive.cyou A 0.0.0.0"
 local-zone: "inpost.pl-receive.work" redirect
 local-data: "inpost.pl-receive.work A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.icu" redirect
+local-data: "inpost.pl-safedeal.icu A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.xyz" redirect
+local-data: "inpost.pl-safedeal.xyz A 0.0.0.0"
+local-zone: "inpost.pl-safely.store" redirect
+local-data: "inpost.pl-safely.store A 0.0.0.0"
+local-zone: "inpost.pl-savepays.xyz" redirect
+local-data: "inpost.pl-savepays.xyz A 0.0.0.0"
 local-zone: "kalendarzdnia23.online" redirect
 local-data: "kalendarzdnia23.online A 0.0.0.0"
 local-zone: "kazdymozepomocitv.club" redirect
@@ -63004,6 +63294,8 @@ local-zone: "olx.pl-1614874633.site" redirect
 local-data: "olx.pl-1614874633.site A 0.0.0.0"
 local-zone: "olx.pl-1614874634.site" redirect
 local-data: "olx.pl-1614874634.site A 0.0.0.0"
+local-zone: "olx.pl-safedeals.store" redirect
+local-data: "olx.pl-safedeals.store A 0.0.0.0"
 local-zone: "olx.poland-ofer.online" redirect
 local-data: "olx.poland-ofer.online A 0.0.0.0"
 local-zone: "olx.poland-orders.shop" redirect
@@ -63080,6 +63372,8 @@ local-zone: "poczta.pl-receive.cyou" redirect
 local-data: "poczta.pl-receive.cyou A 0.0.0.0"
 local-zone: "poczta.pl-receive.work" redirect
 local-data: "poczta.pl-receive.work A 0.0.0.0"
+local-zone: "poczta.pl-safely.store" redirect
+local-data: "poczta.pl-safely.store A 0.0.0.0"
 local-zone: "poczta.pl-safeway.live" redirect
 local-data: "poczta.pl-safeway.live A 0.0.0.0"
 local-zone: "poczta.ron-mil-pl.site" redirect
@@ -63142,6 +63436,8 @@ local-zone: "siedziskozelowe-pl.com" redirect
 local-data: "siedziskozelowe-pl.com A 0.0.0.0"
 local-zone: "sledzenie-paczki.store" redirect
 local-data: "sledzenie-paczki.store A 0.0.0.0"
+local-zone: "solny-inhalator-pl.com" redirect
+local-data: "solny-inhalator-pl.com A 0.0.0.0"
 local-zone: "spotted-wroclaw-471.pl" redirect
 local-data: "spotted-wroclaw-471.pl A 0.0.0.0"
 local-zone: "sprawdzwiek.hekko24.pl" redirect
@@ -63852,10 +64148,16 @@ local-zone: "918kiss.newworld88.com" redirect
 local-data: "918kiss.newworld88.com A 0.0.0.0"
 local-zone: "clickedgesolutions.com" redirect
 local-data: "clickedgesolutions.com A 0.0.0.0"
+local-zone: "hnacare.objectsdev.com" redirect
+local-data: "hnacare.objectsdev.com A 0.0.0.0"
 local-zone: "parikhinfosolutions.in" redirect
 local-data: "parikhinfosolutions.in A 0.0.0.0"
 local-zone: "persianwoodkitchen.com" redirect
 local-data: "persianwoodkitchen.com A 0.0.0.0"
+local-zone: "thaircy.redcross.or.th" redirect
+local-data: "thaircy.redcross.or.th A 0.0.0.0"
+local-zone: "vanguardacademy-ng.com" redirect
+local-data: "vanguardacademy-ng.com A 0.0.0.0"
 local-zone: "xn--thvitstore-c7a.com" redirect
 local-data: "xn--thvitstore-c7a.com A 0.0.0.0"
 local-zone: "garminupdatenow.online" redirect
@@ -65026,8 +65328,6 @@ local-zone: "amarteargentina.com.ar" redirect
 local-data: "amarteargentina.com.ar A 0.0.0.0"
 local-zone: "atlasconcreteworks.com" redirect
 local-data: "atlasconcreteworks.com A 0.0.0.0"
-local-zone: "beta.vxinnovations.com" redirect
-local-data: "beta.vxinnovations.com A 0.0.0.0"
 local-zone: "bhavaniengineering.com" redirect
 local-data: "bhavaniengineering.com A 0.0.0.0"
 local-zone: "bradleyinstitute.co.za" redirect
@@ -65036,16 +65336,14 @@ local-zone: "buscascolegios.diit.cl" redirect
 local-data: "buscascolegios.diit.cl A 0.0.0.0"
 local-zone: "cendekiabinaaksara.com" redirect
 local-data: "cendekiabinaaksara.com A 0.0.0.0"
-local-zone: "cooperationoffense.com" redirect
-local-data: "cooperationoffense.com A 0.0.0.0"
 local-zone: "crm.lavieenrose.com.sg" redirect
 local-data: "crm.lavieenrose.com.sg A 0.0.0.0"
 local-zone: "dedicace.radio-ifge.fr" redirect
 local-data: "dedicace.radio-ifge.fr A 0.0.0.0"
-local-zone: "digitalstudiomaster.ro" redirect
-local-data: "digitalstudiomaster.ro A 0.0.0.0"
-local-zone: "down.posti-fi-fjsk.top" redirect
-local-data: "down.posti-fi-fjsk.top A 0.0.0.0"
+local-zone: "elearn.empoweredmw.com" redirect
+local-data: "elearn.empoweredmw.com A 0.0.0.0"
+local-zone: "elkytoursandtravel.com" redirect
+local-data: "elkytoursandtravel.com A 0.0.0.0"
 local-zone: "flyingbuddhadesign.com" redirect
 local-data: "flyingbuddhadesign.com A 0.0.0.0"
 local-zone: "fullelectronica.com.ar" redirect
@@ -65062,8 +65360,6 @@ local-zone: "join.cl8movement.co.za" redirect
 local-data: "join.cl8movement.co.za A 0.0.0.0"
 local-zone: "newinfinitysynergy.com" redirect
 local-data: "newinfinitysynergy.com A 0.0.0.0"
-local-zone: "nhipcauytevietnhat.com" redirect
-local-data: "nhipcauytevietnhat.com A 0.0.0.0"
 local-zone: "njtiledesigncenter.com" redirect
 local-data: "njtiledesigncenter.com A 0.0.0.0"
 local-zone: "nocalnoodle.elin.co.za" redirect
@@ -65102,8 +65398,6 @@ local-zone: "torresquinterocorp.com" redirect
 local-data: "torresquinterocorp.com A 0.0.0.0"
 local-zone: "totalprotectionltd.com" redirect
 local-data: "totalprotectionltd.com A 0.0.0.0"
-local-zone: "uat.indianfilmzone.com" redirect
-local-data: "uat.indianfilmzone.com A 0.0.0.0"
 local-zone: "veterinariadrpopui.com" redirect
 local-data: "veterinariadrpopui.com A 0.0.0.0"
 local-zone: "visions.alnisamart.com" redirect
@@ -65626,8 +65920,6 @@ local-zone: "cmgfeeds.cmgdigital.com" redirect
 local-data: "cmgfeeds.cmgdigital.com A 0.0.0.0"
 local-zone: "mobile.cmtelematics.com" redirect
 local-data: "mobile.cmtelematics.com A 0.0.0.0"
-local-zone: "vendorlist.consensu.org" redirect
-local-data: "vendorlist.consensu.org A 0.0.0.0"
 local-zone: "cws-us-east.conviva.com" redirect
 local-data: "cws-us-east.conviva.com A 0.0.0.0"
 local-zone: "cdn.destinilocators.com" redirect
@@ -66084,6 +66376,10 @@ local-zone: "doladowania-telefonu.pl" redirect
 local-data: "doladowania-telefonu.pl A 0.0.0.0"
 local-zone: "dostava-olx-poland.info" redirect
 local-data: "dostava-olx-poland.info A 0.0.0.0"
+local-zone: "dostawa.id17356006.info" redirect
+local-data: "dostawa.id17356006.info A 0.0.0.0"
+local-zone: "dostawa.id63418494.info" redirect
+local-data: "dostawa.id63418494.info A 0.0.0.0"
 local-zone: "dostawa-olx-poland.info" redirect
 local-data: "dostawa-olx-poland.info A 0.0.0.0"
 local-zone: "dziennik-weryfikacja.tk" redirect
@@ -66122,6 +66418,22 @@ local-zone: "inpost.pl-getmoney.cyou" redirect
 local-data: "inpost.pl-getmoney.cyou A 0.0.0.0"
 local-zone: "inpost.pl-receive.store" redirect
 local-data: "inpost.pl-receive.store A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.casa" redirect
+local-data: "inpost.pl-safedeal.casa A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.club" redirect
+local-data: "inpost.pl-safedeal.club A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.cyou" redirect
+local-data: "inpost.pl-safedeal.cyou A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.shop" redirect
+local-data: "inpost.pl-safedeal.shop A 0.0.0.0"
+local-zone: "inpost.pl-safedeal.surf" redirect
+local-data: "inpost.pl-safedeal.surf A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.icu" redirect
+local-data: "inpost.pl-safedeals.icu A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.xyz" redirect
+local-data: "inpost.pl-safedeals.xyz A 0.0.0.0"
+local-zone: "inpost.pl-saveorder.icu" redirect
+local-data: "inpost.pl-saveorder.icu A 0.0.0.0"
 local-zone: "instytut-medyczny24.com" redirect
 local-data: "instytut-medyczny24.com A 0.0.0.0"
 local-zone: "internetowe-potyczki.eu" redirect
@@ -66202,6 +66514,8 @@ local-zone: "poczta.pl-getmoney.cyou" redirect
 local-data: "poczta.pl-getmoney.cyou A 0.0.0.0"
 local-zone: "poczta.pl-receive.store" redirect
 local-data: "poczta.pl-receive.store A 0.0.0.0"
+local-zone: "poczta.pl-saveorder.icu" redirect
+local-data: "poczta.pl-saveorder.icu A 0.0.0.0"
 local-zone: "politykaprywatnosci.org" redirect
 local-data: "politykaprywatnosci.org A 0.0.0.0"
 local-zone: "polskieinformacje.space" redirect
@@ -66802,6 +67116,8 @@ local-zone: "congreso-hidalgo.gob.mx" redirect
 local-data: "congreso-hidalgo.gob.mx A 0.0.0.0"
 local-zone: "clone.app.home-cost.com" redirect
 local-data: "clone.app.home-cost.com A 0.0.0.0"
+local-zone: "thozhilvarthalatest.com" redirect
+local-data: "thozhilvarthalatest.com A 0.0.0.0"
 local-zone: "topblackfridaydealz.com" redirect
 local-data: "topblackfridaydealz.com A 0.0.0.0"
 local-zone: "navman-gpsupdate.online" redirect
@@ -66904,6 +67220,8 @@ local-zone: "yourglobal-profit1.life" redirect
 local-data: "yourglobal-profit1.life A 0.0.0.0"
 local-zone: "yournew-claimprize.life" redirect
 local-data: "yournew-claimprize.life A 0.0.0.0"
+local-zone: "hygroscopicprecious.com" redirect
+local-data: "hygroscopicprecious.com A 0.0.0.0"
 local-zone: "protected-by.clarium.io" redirect
 local-data: "protected-by.clarium.io A 0.0.0.0"
 local-zone: "web.vortex.data.msn.com" redirect
@@ -67900,8 +68218,6 @@ local-zone: "creationskateboards.com" redirect
 local-data: "creationskateboards.com A 0.0.0.0"
 local-zone: "diamantenegro.mi-fs.com" redirect
 local-data: "diamantenegro.mi-fs.com A 0.0.0.0"
-local-zone: "formulateaccountant.com" redirect
-local-data: "formulateaccountant.com A 0.0.0.0"
 local-zone: "fusionfiresolutions.com" redirect
 local-data: "fusionfiresolutions.com A 0.0.0.0"
 local-zone: "homefindersolutions.com" redirect
@@ -67938,10 +68254,10 @@ local-zone: "test1.asistencia247.com" redirect
 local-data: "test1.asistencia247.com A 0.0.0.0"
 local-zone: "testing.thinkingcorp.in" redirect
 local-data: "testing.thinkingcorp.in A 0.0.0.0"
-local-zone: "tmc.streamstudio2.co.uk" redirect
-local-data: "tmc.streamstudio2.co.uk A 0.0.0.0"
 local-zone: "vanzare.cabanabrazi2.ro" redirect
 local-data: "vanzare.cabanabrazi2.ro A 0.0.0.0"
+local-zone: "waterparkschools.com.ng" redirect
+local-data: "waterparkschools.com.ng A 0.0.0.0"
 local-zone: "web.thebeessolution.com" redirect
 local-data: "web.thebeessolution.com A 0.0.0.0"
 local-zone: "weinsteincounseling.com" redirect
@@ -68732,8 +69048,6 @@ local-zone: "yitkomfj.angelcities.com" redirect
 local-data: "yitkomfj.angelcities.com A 0.0.0.0"
 local-zone: "1-free-share-buttons.com" redirect
 local-data: "1-free-share-buttons.com A 0.0.0.0"
-local-zone: "2013tomsshoesforsale.com" redirect
-local-data: "2013tomsshoesforsale.com A 0.0.0.0"
 local-zone: "abouthomesdecorating.com" redirect
 local-data: "abouthomesdecorating.com A 0.0.0.0"
 local-zone: "alboautotrasportatori.it" redirect
@@ -68896,8 +69210,20 @@ local-zone: "infosandiego.wixsite.com" redirect
 local-data: "infosandiego.wixsite.com A 0.0.0.0"
 local-zone: "inpost.getorder-pl.store" redirect
 local-data: "inpost.getorder-pl.store A 0.0.0.0"
+local-zone: "inpost.pl-getorder.store" redirect
+local-data: "inpost.pl-getorder.store A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.casa" redirect
+local-data: "inpost.pl-safedeals.casa A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.cyou" redirect
+local-data: "inpost.pl-safedeals.cyou A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.surf" redirect
+local-data: "inpost.pl-safedeals.surf A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.work" redirect
+local-data: "inpost.pl-safedeals.work A 0.0.0.0"
 local-zone: "inpost.pl-savecash.store" redirect
 local-data: "inpost.pl-savecash.store A 0.0.0.0"
+local-zone: "inpost.pl-saveorder.cyou" redirect
+local-data: "inpost.pl-saveorder.cyou A 0.0.0.0"
 local-zone: "inpost.pl-saveorder.work" redirect
 local-data: "inpost.pl-saveorder.work A 0.0.0.0"
 local-zone: "janzwolinski.freehost.pl" redirect
@@ -68972,8 +69298,12 @@ local-zone: "plcalyfilm.over-blog.com" redirect
 local-data: "plcalyfilm.over-blog.com A 0.0.0.0"
 local-zone: "pl-olx.oferta-payment.me" redirect
 local-data: "pl-olx.oferta-payment.me A 0.0.0.0"
+local-zone: "pl.olx.oferta-payment.cc" redirect
+local-data: "pl.olx.oferta-payment.cc A 0.0.0.0"
 local-zone: "poczta.interia-pl.online" redirect
 local-data: "poczta.interia-pl.online A 0.0.0.0"
+local-zone: "poczta.pl-getorder.store" redirect
+local-data: "poczta.pl-getorder.store A 0.0.0.0"
 local-zone: "pogotowie.pcserwis.c0.pl" redirect
 local-data: "pogotowie.pcserwis.c0.pl A 0.0.0.0"
 local-zone: "poloralphlaurenpoland.pl" redirect
@@ -69538,6 +69868,8 @@ local-zone: "click.expmediadirect.com" redirect
 local-data: "click.expmediadirect.com A 0.0.0.0"
 local-zone: "tracker.elcorteingles.es" redirect
 local-data: "tracker.elcorteingles.es A 0.0.0.0"
+local-zone: "wpdemo.101clients.com.au" redirect
+local-data: "wpdemo.101clients.com.au A 0.0.0.0"
 local-zone: "programmatic.doceree.com" redirect
 local-data: "programmatic.doceree.com A 0.0.0.0"
 local-zone: "api.publishers.adlive.io" redirect
@@ -70336,24 +70668,26 @@ local-zone: "static.zucks.net.zimg.jp" redirect
 local-data: "static.zucks.net.zimg.jp A 0.0.0.0"
 local-zone: "wisteria-js.excite.co.jp" redirect
 local-data: "wisteria-js.excite.co.jp A 0.0.0.0"
-local-zone: "artisthub.farahasmar.com" redirect
-local-data: "artisthub.farahasmar.com A 0.0.0.0"
 local-zone: "ask-regard.call-save.biz" redirect
 local-data: "ask-regard.call-save.biz A 0.0.0.0"
-local-zone: "beachtreepestcontrol.com" redirect
-local-data: "beachtreepestcontrol.com A 0.0.0.0"
 local-zone: "catchpoolshetlands.co.uk" redirect
 local-data: "catchpoolshetlands.co.uk A 0.0.0.0"
 local-zone: "controleautomacao.com.br" redirect
 local-data: "controleautomacao.com.br A 0.0.0.0"
+local-zone: "dentaldesignstudiowi.com" redirect
+local-data: "dentaldesignstudiowi.com A 0.0.0.0"
 local-zone: "digilib.dianhusada.ac.id" redirect
 local-data: "digilib.dianhusada.ac.id A 0.0.0.0"
 local-zone: "dockerupdate.anondns.net" redirect
 local-data: "dockerupdate.anondns.net A 0.0.0.0"
+local-zone: "eletronicaeduardo.com.br" redirect
+local-data: "eletronicaeduardo.com.br A 0.0.0.0"
 local-zone: "files6.uludagbilisim.com" redirect
 local-data: "files6.uludagbilisim.com A 0.0.0.0"
 local-zone: "fraud.bpcbankingtech.com" redirect
 local-data: "fraud.bpcbankingtech.com A 0.0.0.0"
+local-zone: "gaming.agenciakonosur.cl" redirect
+local-data: "gaming.agenciakonosur.cl A 0.0.0.0"
 local-zone: "guide-to-cell-phones.com" redirect
 local-data: "guide-to-cell-phones.com A 0.0.0.0"
 local-zone: "jobs.thebeessolution.com" redirect
@@ -70372,8 +70706,12 @@ local-zone: "parejasfelices.mi-fs.com" redirect
 local-data: "parejasfelices.mi-fs.com A 0.0.0.0"
 local-zone: "payments.atifsiddiqui.me" redirect
 local-data: "payments.atifsiddiqui.me A 0.0.0.0"
+local-zone: "pokojewewladyslawowie.pl" redirect
+local-data: "pokojewewladyslawowie.pl A 0.0.0.0"
 local-zone: "production.sparshims.com" redirect
 local-data: "production.sparshims.com A 0.0.0.0"
+local-zone: "projectcannabisfarms.com" redirect
+local-data: "projectcannabisfarms.com A 0.0.0.0"
 local-zone: "repatriacioncolombia.com" redirect
 local-data: "repatriacioncolombia.com A 0.0.0.0"
 local-zone: "servis.altankarakaya.com" redirect
@@ -70402,8 +70740,6 @@ local-zone: "www.yummyyogaudaipur.com" redirect
 local-data: "www.yummyyogaudaipur.com A 0.0.0.0"
 local-zone: "yoast.yourpageserver.com" redirect
 local-data: "yoast.yourpageserver.com A 0.0.0.0"
-local-zone: "ywgiu10zmnwcx03vpnyp.com" redirect
-local-data: "ywgiu10zmnwcx03vpnyp.com A 0.0.0.0"
 local-zone: "ad-server.gulasidorna.se" redirect
 local-data: "ad-server.gulasidorna.se A 0.0.0.0"
 local-zone: "adrotic.girlonthenet.com" redirect
@@ -70880,8 +71216,6 @@ local-zone: "backuperwebcam.weebly.com" redirect
 local-data: "backuperwebcam.weebly.com A 0.0.0.0"
 local-zone: "compassenergyservices.com" redirect
 local-data: "compassenergyservices.com A 0.0.0.0"
-local-zone: "sistemacentral.xpg.com.br" redirect
-local-data: "sistemacentral.xpg.com.br A 0.0.0.0"
 local-zone: "trk-pcweb.api.zaloapp.com" redirect
 local-data: "trk-pcweb.api.zaloapp.com A 0.0.0.0"
 local-zone: "24h-ipad-ad.24hstatic.com" redirect
@@ -70960,6 +71294,8 @@ local-zone: "akceptacja-regulaminu.com" redirect
 local-data: "akceptacja-regulaminu.com A 0.0.0.0"
 local-zone: "akceptuj-regulamin.online" redirect
 local-data: "akceptuj-regulamin.online A 0.0.0.0"
+local-zone: "allegro.lokalnie.holdings" redirect
+local-data: "allegro.lokalnie.holdings A 0.0.0.0"
 local-zone: "antyszczepionkowo.you2.pl" redirect
 local-data: "antyszczepionkowo.you2.pl A 0.0.0.0"
 local-zone: "avito.payment-transfer.ru" redirect
@@ -71014,6 +71350,8 @@ local-zone: "informacje-z-polski-48.eu" redirect
 local-data: "informacje-z-polski-48.eu A 0.0.0.0"
 local-zone: "innowacyjneprzedszkole.pl" redirect
 local-data: "innowacyjneprzedszkole.pl A 0.0.0.0"
+local-zone: "inpost.pl-safedeals.store" redirect
+local-data: "inpost.pl-safedeals.store A 0.0.0.0"
 local-zone: "inpost.pl-savepayout.work" redirect
 local-data: "inpost.pl-savepayout.work A 0.0.0.0"
 local-zone: "inpost.poland-orders.life" redirect
@@ -71062,6 +71400,8 @@ local-zone: "online-platnosci.services" redirect
 local-data: "online-platnosci.services A 0.0.0.0"
 local-zone: "oplata-zamowienie78431.pl" redirect
 local-data: "oplata-zamowienie78431.pl A 0.0.0.0"
+local-zone: "oppofregifts.blogspot.com" redirect
+local-data: "oppofregifts.blogspot.com A 0.0.0.0"
 local-zone: "ostatniachwila.freekru.pl" redirect
 local-data: "ostatniachwila.freekru.pl A 0.0.0.0"
 local-zone: "pacificinvestmentsltd.com" redirect
@@ -71080,6 +71420,8 @@ local-zone: "platnosc-paczkomat.online" redirect
 local-data: "platnosc-paczkomat.online A 0.0.0.0"
 local-zone: "pl-olx.oferta-payment.org" redirect
 local-data: "pl-olx.oferta-payment.org A 0.0.0.0"
+local-zone: "pockztresmde.cabanova.com" redirect
+local-data: "pockztresmde.cabanova.com A 0.0.0.0"
 local-zone: "policy-secure-account.com" redirect
 local-data: "policy-secure-account.com A 0.0.0.0"
 local-zone: "polska-nasze-info24.x9.eu" redirect
@@ -71416,6 +71758,8 @@ local-zone: "asfand.fahadmarketing.com" redirect
 local-data: "asfand.fahadmarketing.com A 0.0.0.0"
 local-zone: "magicboximportados.com.br" redirect
 local-data: "magicboximportados.com.br A 0.0.0.0"
+local-zone: "patisserievanbarneveld.nl" redirect
+local-data: "patisserievanbarneveld.nl A 0.0.0.0"
 local-zone: "centroidessentialoils.com" redirect
 local-data: "centroidessentialoils.com A 0.0.0.0"
 local-zone: "best-horny-girl-here1.com" redirect
@@ -71472,8 +71816,8 @@ local-zone: "yourhot-casualdating1.com" redirect
 local-data: "yourhot-casualdating1.com A 0.0.0.0"
 local-zone: "yourmainstream-zone1.life" redirect
 local-data: "yourmainstream-zone1.life A 0.0.0.0"
-local-zone: "manage.morissalakante.com" redirect
-local-data: "manage.morissalakante.com A 0.0.0.0"
+local-zone: "gfold1.webselffiles01.com" redirect
+local-data: "gfold1.webselffiles01.com A 0.0.0.0"
 local-zone: "salfordpostaldelivery.com" redirect
 local-data: "salfordpostaldelivery.com A 0.0.0.0"
 local-zone: "backfills.ph.affinity.com" redirect
@@ -72050,6 +72394,8 @@ local-zone: "app.explicitsurveys.co.uk" redirect
 local-data: "app.explicitsurveys.co.uk A 0.0.0.0"
 local-zone: "automaticrefreshments.com" redirect
 local-data: "automaticrefreshments.com A 0.0.0.0"
+local-zone: "casagrandecontabil.com.br" redirect
+local-data: "casagrandecontabil.com.br A 0.0.0.0"
 local-zone: "cateringmuslimcemangi.com" redirect
 local-data: "cateringmuslimcemangi.com A 0.0.0.0"
 local-zone: "flexypay.dsquaregroup.com" redirect
@@ -72066,6 +72412,8 @@ local-zone: "learning.real-academy.net" redirect
 local-data: "learning.real-academy.net A 0.0.0.0"
 local-zone: "mikhailmotoringschool.com" redirect
 local-data: "mikhailmotoringschool.com A 0.0.0.0"
+local-zone: "nationalngofederation.com" redirect
+local-data: "nationalngofederation.com A 0.0.0.0"
 local-zone: "osorio.webmarketinggt.com" redirect
 local-data: "osorio.webmarketinggt.com A 0.0.0.0"
 local-zone: "pmglance.startwriteup.com" redirect
@@ -72558,6 +72906,8 @@ local-zone: "dofinasowanieregionalne.pl" redirect
 local-data: "dofinasowanieregionalne.pl A 0.0.0.0"
 local-zone: "dziennikuprowadzono.online" redirect
 local-data: "dziennikuprowadzono.online A 0.0.0.0"
+local-zone: "dziennikwirtualny.cal24.pl" redirect
+local-data: "dziennikwirtualny.cal24.pl A 0.0.0.0"
 local-zone: "ekskluzywneapartamenty.com" redirect
 local-data: "ekskluzywneapartamenty.com A 0.0.0.0"
 local-zone: "e-bazaosobzaginionych.site" redirect
@@ -72646,6 +72996,8 @@ local-zone: "reportaz-na-zywo.dfirma.pl" redirect
 local-data: "reportaz-na-zywo.dfirma.pl A 0.0.0.0"
 local-zone: "s8powazkowska-modlinska.pl" redirect
 local-data: "s8powazkowska-modlinska.pl A 0.0.0.0"
+local-zone: "semmesco.clickrevolver.com" redirect
+local-data: "semmesco.clickrevolver.com A 0.0.0.0"
 local-zone: "start.webdesignersclub.net" redirect
 local-data: "start.webdesignersclub.net A 0.0.0.0"
 local-zone: "structures-made-easy.co.uk" redirect
@@ -72952,6 +73304,8 @@ local-zone: "your-prizes-right-now.life" redirect
 local-data: "your-prizes-right-now.life A 0.0.0.0"
 local-zone: "your-realgrand-prize2.life" redirect
 local-data: "your-realgrand-prize2.life A 0.0.0.0"
+local-zone: "gfmodd1.webselffiles01.com" redirect
+local-data: "gfmodd1.webselffiles01.com A 0.0.0.0"
 local-zone: "vitals.vercel-insights.com" redirect
 local-data: "vitals.vercel-insights.com A 0.0.0.0"
 local-zone: "hb-api-fra01.omnitagjs.com" redirect
@@ -73328,6 +73682,8 @@ local-zone: "promotionalads.yahoo.co.jp" redirect
 local-data: "promotionalads.yahoo.co.jp A 0.0.0.0"
 local-zone: "tokihakita.vis1.shinobi.jp" redirect
 local-data: "tokihakita.vis1.shinobi.jp A 0.0.0.0"
+local-zone: "agenciatabletshouse.com.br" redirect
+local-data: "agenciatabletshouse.com.br A 0.0.0.0"
 local-zone: "b2b.toptanakaryakit.com.tr" redirect
 local-data: "b2b.toptanakaryakit.com.tr A 0.0.0.0"
 local-zone: "billing.rahitechnosoft.com" redirect
@@ -73336,16 +73692,16 @@ local-zone: "dfsfcsfcdsfsdvcfsvcscv.com" redirect
 local-data: "dfsfcsfcdsfsdvcfsvcscv.com A 0.0.0.0"
 local-zone: "docman.orientalservices.in" redirect
 local-data: "docman.orientalservices.in A 0.0.0.0"
+local-zone: "expresionesguerrero.com.mx" redirect
+local-data: "expresionesguerrero.com.mx A 0.0.0.0"
 local-zone: "farmaciasdrogaminas.com.br" redirect
 local-data: "farmaciasdrogaminas.com.br A 0.0.0.0"
-local-zone: "flash-update.buyonebuy.top" redirect
-local-data: "flash-update.buyonebuy.top A 0.0.0.0"
+local-zone: "helpdeskserver.epelcdn.com" redirect
+local-data: "helpdeskserver.epelcdn.com A 0.0.0.0"
 local-zone: "korrectconceptservices.com" redirect
 local-data: "korrectconceptservices.com A 0.0.0.0"
 local-zone: "ppdb.smk-ciptaskill.sch.id" redirect
 local-data: "ppdb.smk-ciptaskill.sch.id A 0.0.0.0"
-local-zone: "quellsalz-aus-portugal.com" redirect
-local-data: "quellsalz-aus-portugal.com A 0.0.0.0"
 local-zone: "ratemyfenancialadvisor.com" redirect
 local-data: "ratemyfenancialadvisor.com A 0.0.0.0"
 local-zone: "testnew.yourpageserver.com" redirect
@@ -74446,14 +74802,10 @@ local-zone: "mobile.illumetechnology.com" redirect
 local-data: "mobile.illumetechnology.com A 0.0.0.0"
 local-zone: "oleholeh.memangbeda.website" redirect
 local-data: "oleholeh.memangbeda.website A 0.0.0.0"
-local-zone: "pathinanchilearthmovers.com" redirect
-local-data: "pathinanchilearthmovers.com A 0.0.0.0"
 local-zone: "promotoradescomplica.com.br" redirect
 local-data: "promotoradescomplica.com.br A 0.0.0.0"
 local-zone: "sapphireadventuretravel.com" redirect
 local-data: "sapphireadventuretravel.com A 0.0.0.0"
-local-zone: "soldbysisterspalmharbor.com" redirect
-local-data: "soldbysisterspalmharbor.com A 0.0.0.0"
 local-zone: "sreenivasapaintingworks.com" redirect
 local-data: "sreenivasapaintingworks.com A 0.0.0.0"
 local-zone: "startbinmanager.epelcdn.com" redirect
@@ -74464,8 +74816,6 @@ local-zone: "ublretailerdemo.cstdevs.com" redirect
 local-data: "ublretailerdemo.cstdevs.com A 0.0.0.0"
 local-zone: "villasoledadbeachresort.com" redirect
 local-data: "villasoledadbeachresort.com A 0.0.0.0"
-local-zone: "www.reioflighthealing.co.uk" redirect
-local-data: "www.reioflighthealing.co.uk A 0.0.0.0"
 local-zone: "xn--80akinnkiib6h.xn--90ais" redirect
 local-data: "xn--80akinnkiib6h.xn--90ais A 0.0.0.0"
 local-zone: "affiliates.digitalriver.com" redirect
@@ -75028,6 +75378,8 @@ local-zone: "33universal.adprimemedia.com" redirect
 local-data: "33universal.adprimemedia.com A 0.0.0.0"
 local-zone: "resolution-centre-id1212.com" redirect
 local-data: "resolution-centre-id1212.com A 0.0.0.0"
+local-zone: "sekolahalmunasemarang.sch.id" redirect
+local-data: "sekolahalmunasemarang.sch.id A 0.0.0.0"
 local-zone: "check-best-prizes-here3.life" redirect
 local-data: "check-best-prizes-here3.life A 0.0.0.0"
 local-zone: "global-profit-for-your1.life" redirect
@@ -75300,6 +75652,8 @@ local-zone: "atteuqpotentialunlimited.com" redirect
 local-data: "atteuqpotentialunlimited.com A 0.0.0.0"
 local-zone: "beaute-relaxation-beziers.fr" redirect
 local-data: "beaute-relaxation-beziers.fr A 0.0.0.0"
+local-zone: "centrodetraduccionespuce.com" redirect
+local-data: "centrodetraduccionespuce.com A 0.0.0.0"
 local-zone: "changematterscounselling.com" redirect
 local-data: "changematterscounselling.com A 0.0.0.0"
 local-zone: "competancy.indigoconsult.net" redirect
@@ -75530,6 +75884,8 @@ local-zone: "3w2k701z6i94wgr.choobin-co.ir" redirect
 local-data: "3w2k701z6i94wgr.choobin-co.ir A 0.0.0.0"
 local-zone: "23459867534.000webhostapp.com" redirect
 local-data: "23459867534.000webhostapp.com A 0.0.0.0"
+local-zone: "adminuprageunit.moonfruit.com" redirect
+local-data: "adminuprageunit.moonfruit.com A 0.0.0.0"
 local-zone: "ailegrolokalniepl-910672.life" redirect
 local-data: "ailegrolokalniepl-910672.life A 0.0.0.0"
 local-zone: "ailegrolokalnle-kup-teraz.xyz" redirect
@@ -75604,6 +75960,8 @@ local-zone: "morderstwo24.pieski-pomoc.xyz" redirect
 local-data: "morderstwo24.pieski-pomoc.xyz A 0.0.0.0"
 local-zone: "nagrania-absurdalne.dfirma.pl" redirect
 local-data: "nagrania-absurdalne.dfirma.pl A 0.0.0.0"
+local-zone: "olx.pl-safe.oferta-payment.cc" redirect
+local-data: "olx.pl-safe.oferta-payment.cc A 0.0.0.0"
 local-zone: "olx.pl.safe.oferta-payment.me" redirect
 local-data: "olx.pl.safe.oferta-payment.me A 0.0.0.0"
 local-zone: "payment-olx.000webhostapp.com" redirect
@@ -75830,8 +76188,6 @@ local-zone: "app.crconsultoriacontable.com" redirect
 local-data: "app.crconsultoriacontable.com A 0.0.0.0"
 local-zone: "hotgirlsignupfree-datenow.fun" redirect
 local-data: "hotgirlsignupfree-datenow.fun A 0.0.0.0"
-local-zone: "algreenstdykegfister.dns.army" redirect
-local-data: "algreenstdykegfister.dns.army A 0.0.0.0"
 local-zone: "mndychnesqudusismnha.dns.army" redirect
 local-data: "mndychnesqudusismnha.dns.army A 0.0.0.0"
 local-zone: "mndytheviejupcafgact.dns.army" redirect
@@ -75842,8 +76198,8 @@ local-zone: "nbnbstdynewagedevice.dns.army" redirect
 local-data: "nbnbstdynewagedevice.dns.army A 0.0.0.0"
 local-zone: "rmtcntlwsdyenverpote.dns.army" redirect
 local-data: "rmtcntlwsdyenverpote.dns.army A 0.0.0.0"
-local-zone: "stdyrusschine2ganmap.dns.army" redirect
-local-data: "stdyrusschine2ganmap.dns.army A 0.0.0.0"
+local-zone: "stdyrmtcntlenverpsfd.dns.army" redirect
+local-data: "stdyrmtcntlenverpsfd.dns.army A 0.0.0.0"
 local-zone: "stdyrusschine2ganmax.dns.army" redirect
 local-data: "stdyrusschine2ganmax.dns.army A 0.0.0.0"
 local-zone: "suresstdybonestrands.dns.army" redirect
@@ -76080,6 +76436,8 @@ local-zone: "foundationrepairhoustontx.net" redirect
 local-data: "foundationrepairhoustontx.net A 0.0.0.0"
 local-zone: "gcpc.co.id.chronoscurtain.com" redirect
 local-data: "gcpc.co.id.chronoscurtain.com A 0.0.0.0"
+local-zone: "mail.account.inventorybiz.com" redirect
+local-data: "mail.account.inventorybiz.com A 0.0.0.0"
 local-zone: "programaoperadoronline.com.br" redirect
 local-data: "programaoperadoronline.com.br A 0.0.0.0"
 local-zone: "rcmesilva.charbelsales.com.br" redirect
@@ -77420,6 +77778,8 @@ local-zone: "delivery.olx.pl.oferta.accountant" redirect
 local-data: "delivery.olx.pl.oferta.accountant A 0.0.0.0"
 local-zone: "delivery.olx.pl-confirmation.link" redirect
 local-data: "delivery.olx.pl-confirmation.link A 0.0.0.0"
+local-zone: "delivery.olx.pl-confirmation.live" redirect
+local-data: "delivery.olx.pl-confirmation.live A 0.0.0.0"
 local-zone: "informacje-energylandia.dfirma.pl" redirect
 local-data: "informacje-energylandia.dfirma.pl A 0.0.0.0"
 local-zone: "login-o365secure.ts.r.appspot.com" redirect
@@ -77968,6 +78328,8 @@ local-zone: "11165583-40348.id2.clickprotects.com" redirect
 local-data: "11165583-40348.id2.clickprotects.com A 0.0.0.0"
 local-zone: "akku.mondo.trium.mitsubishi.sms13.de" redirect
 local-data: "akku.mondo.trium.mitsubishi.sms13.de A 0.0.0.0"
+local-zone: "adventurous-shrouded-llama.glitch.me" redirect
+local-data: "adventurous-shrouded-llama.glitch.me A 0.0.0.0"
 local-zone: "delivery.olx.pl-confirmation.digital" redirect
 local-data: "delivery.olx.pl-confirmation.digital A 0.0.0.0"
 local-zone: "glosowanie-warszawa.microhost.com.pl" redirect
@@ -78370,6 +78732,8 @@ local-zone: "cdn.installationsafe.net.s3.amazonaws.com" redirect
 local-data: "cdn.installationsafe.net.s3.amazonaws.com A 0.0.0.0"
 local-zone: "amzon-serviceaccountunsualacitiviteam.com" redirect
 local-data: "amzon-serviceaccountunsualacitiviteam.com A 0.0.0.0"
+local-zone: "digitalassets.ams3.digitaloceanspaces.com" redirect
+local-data: "digitalassets.ams3.digitaloceanspaces.com A 0.0.0.0"
 local-zone: "clickstatsview.microgamingcasinosites.com" redirect
 local-data: "clickstatsview.microgamingcasinosites.com A 0.0.0.0"
 local-zone: "apple.com-internet-security-review.review" redirect
@@ -78836,6 +79200,10 @@ local-zone: "hechiceriadeamormaestrabelen.com.hechiceriadeamormaestrabelen.com" 
 local-data: "hechiceriadeamormaestrabelen.com.hechiceriadeamormaestrabelen.com A 0.0.0.0"
 local-zone: "zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet" redirect
 local-data: "zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet A 0.0.0.0"
+local-zone: "kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes" redirect
+local-data: "kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes A 0.0.0.0"
+local-zone: "rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes" redirect
+local-data: "rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes A 0.0.0.0"
 local-zone: "pendingdelivery212.s3.us-east.cloud-object-storage.appdomain.cloud" redirect
 local-data: "pendingdelivery212.s3.us-east.cloud-object-storage.appdomain.cloud A 0.0.0.0"
 local-zone: "emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud" redirect

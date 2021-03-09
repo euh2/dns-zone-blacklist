@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.4.6",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet. KADhosts, hostsVN, Badd-Boyz, and AdAway. (81bd99cb)",
+  "upstream_published_at": "2021-03-09T19:38:04Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.6",
+  "local_build_no": 1,
+  "local_tag_name": "3.4.6-1",
+  "minutes_since_published_at": 25
+}
