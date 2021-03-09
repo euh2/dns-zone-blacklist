@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.4.5",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, shady-hosts, digitalside.it, orca.pet, mvps.org, KADHosts, hostsVN, Badd-Boyz, add.risk, and AddAway. (82c18786)",
-  "upstream_published_at": "2021-03-06T22:51:46Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.5"
+  "upstream_tag_name": "3.4.6",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet. KADhosts, hostsVN, Badd-Boyz, and AdAway. (81bd99cb)",
+  "upstream_published_at": "2021-03-09T19:38:04Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.4.6"
 }
