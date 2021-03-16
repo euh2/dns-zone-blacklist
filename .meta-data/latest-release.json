@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.5.0",
-  "upstream_body": "* Updates from MetaMask, URLHaus, digitalside.it, KADhosts, and AdAway. (8bf7c529)\n* Issue #1418: fix the metabask raw hosts url. (0d740f4f)\n* Merge pull request #1570 from StevenBlack/metamask.inclusion (8f49b066)\n* Issue #1418: prepare for inclusion of MetaMask/eth-phishing-detect into the base list. (f002fb33)",
-  "upstream_published_at": "2021-03-11T02:13:19Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.5.0",
-  "local_build_no": 1,
-  "local_tag_name": "3.5.0-1",
-  "minutes_since_published_at": 26
-}
+
