@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.5.1",
-  "upstream_body": "* Updates from clefspeare13, yoyo.org, URLHaus, digitalside.it, KADhosts, hostsVN, Badd-Boyz, and AdAway. (385e7de3)\n* Merge pull request #1577 from FadeMind/patch-1 (54ccdaa1)\n* ADD variants facilitategovernor.com (22d1a771)\n* ADD facilitategovernor.com (1dfd3979)",
-  "upstream_published_at": "2021-03-16T15:55:38Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.5.1"
+  "upstream_tag_name": "3.5.2",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts.com, digitalside.it, orca.pet, KADHosts, hostsVN, and Badd-Boyz. (470308d3)",
+  "upstream_published_at": "2021-03-22T02:56:26Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.5.2"
 }
