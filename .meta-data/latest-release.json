@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.5.2",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts.com, digitalside.it, orca.pet, KADHosts, hostsVN, and Badd-Boyz. (470308d3)",
+  "upstream_published_at": "2021-03-22T02:56:26Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.5.2",
+  "local_build_no": 1,
+  "local_tag_name": "3.5.2-1",
+  "minutes_since_published_at": 31
+}
