@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.6.0",
+  "upstream_body": "* Updates from URLHaus, someonewhocares.org, shady-hosts, digitalside.it, KADhosts, hostsVN, Badd-Boyz, and AdAway. (b7b29261)\n* @StevenBlack Issue #1563: fix — add hosts file from AdguardTeam cname-trackers. (2b29fa67)\n* Issue #1563: fix — new data subfolder for AdguardTeam cname trackers (5f5db225)\n* Merge pull request #1588 from funilrys/support-raw (71a7b2be)\n* Add black recommended configuration. (d3c34ed8)\n* Apply black+isort (4b1a9396)\n* Introduction of the support of RAW lines. (7971a0cb)",
+  "upstream_published_at": "2021-03-31T20:02:12Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.0",
+  "local_build_no": 1,
+  "local_tag_name": "3.6.0-1",
+  "minutes_since_published_at": 52
+}
