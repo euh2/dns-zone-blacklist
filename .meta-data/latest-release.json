@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.6.1",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet, KADhosts, Badd-Boyz, and AdAway. (66a7f9b2)\n* Issue #1591: Add domains from this issue. (777ffdea)",
-  "upstream_published_at": "2021-04-05T01:14:55Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.1",
-  "local_build_no": 1,
-  "local_tag_name": "3.6.1-1",
-  "minutes_since_published_at": 105
-}
+
