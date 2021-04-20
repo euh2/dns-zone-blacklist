@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.6.4",
+  "upstream_body": "* Updates from sinfonietta, yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet, KADHosts, hostsVN, Badd-Boyz, Adguard, and Adaway. (e58b6f2c)",
+  "upstream_published_at": "2021-04-20T03:49:17Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.4",
+  "local_build_no": 1,
+  "local_tag_name": "3.6.4-1",
+  "minutes_since_published_at": 885
+}
