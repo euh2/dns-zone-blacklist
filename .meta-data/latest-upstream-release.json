@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.6.5",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet, KADhosts, hostsVN, Badd-Boyz, Adguard, and AdAway. (8c246376)",
-  "upstream_published_at": "2021-04-24T16:03:12Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.5"
+  "upstream_tag_name": "3.6.6",
+  "upstream_body": "* Updates from yoyo.org, digitalside.it, KADhosts, and Adguard. (0a022ab3)\n* Issue #1628: fix — temporarily drop URLHaus due to formatting issues. (783764d0)",
+  "upstream_published_at": "2021-04-26T16:46:52Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.6"
 }
