@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.6.7",
-  "upstream_body": "* Updates from URLHaus, and KADhost. (560e40c1)\n* Issue #1628: fix — re-add URLHaus. (8804c324)\n* Issue #1628: fix — parse out @ characters from lists. (023eb7fa)\n* Better name for is_valid_user_provided_domain_format. (2b167dcc)\n* Standardize the exclusionregexs symbol. (1d515c1d)",
-  "upstream_published_at": "2021-04-26T22:03:16Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.7",
-  "local_build_no": 1,
-  "local_tag_name": "3.6.7-1",
-  "minutes_since_published_at": 50
-}
+
