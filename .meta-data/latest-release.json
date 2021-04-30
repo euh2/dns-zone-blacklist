@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.6.8",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADhosts, and hostsVN. (122360c1)\n* Issue #1631: added 4 new domains. (97766531)\n* Merge pull request #1629 from XhmikosR/patch-1 (19302c49)\n* Fix URLHaus/update.json (b8136571)",
+  "upstream_published_at": "2021-04-29T23:53:43Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.8",
+  "local_build_no": 1,
+  "local_tag_name": "3.6.8-1",
+  "minutes_since_published_at": 34
+}
