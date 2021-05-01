@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.6.9",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, and KADhosts. (143761d9)\n* Merge pull request #1633 from PromoFaux/tweak/readme_template (4f32220e)\n* Dead link - this is no longer an officially endorsed product (189e5b05)",
+  "upstream_published_at": "2021-05-01T13:56:33Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.9",
+  "local_build_no": 1,
+  "local_tag_name": "3.6.9-1",
+  "minutes_since_published_at": 31
+}
