@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.6.10",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts, digitalside.it, KADHosts, hostsVN, Badd-Boyz, and Adguard. (628ef5ef)\n* Issue #1635: add docs.pipenv.org. (708fc8ad)",
-  "upstream_published_at": "2021-05-05T03:36:49Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.10"
+  "upstream_tag_name": "3.6.11",
+  "upstream_body": "* Updates from KADhosts, URLHaus, digitalside.it, and Adaway. (b4b611e5)",
+  "upstream_published_at": "2021-05-05T19:19:53Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.11"
 }
