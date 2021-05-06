@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.7.1",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, orca.pet, and KADhosts. (60daf1b4)\n* Soft edits to the Windows instructions in the readme. (84a9a2fb)\n* Merge pull request #1640 from FadeMind/patch-1121 (18b6f49b)\n* readme_template.md dnscache notice (94dacdc2)\n* add disable-dnscache-service-win.cmd (9d8a4f05)",
+  "upstream_published_at": "2021-05-06T19:51:33Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.1",
+  "local_build_no": 1,
+  "local_tag_name": "3.7.1-1",
+  "minutes_since_published_at": 33
+}

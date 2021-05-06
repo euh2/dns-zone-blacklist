@@ -478,11 +478,6 @@ mvb.kz {
     rcode NXDOMAIN 
 }
 }
-ohe.ie {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 wdr.ro {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -8923,6 +8918,11 @@ datsom.vn {
     rcode NXDOMAIN 
 }
 }
+dm517.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 dosman.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -9009,11 +9009,6 @@ rsgym.net {
 }
 }
 siili.net {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-skare.net {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -13068,6 +13063,11 @@ allegro.su {
     rcode NXDOMAIN 
 }
 }
+allpl.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 amirds.xyz {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -17029,11 +17029,6 @@ hchfug.org {
 }
 }
 iremart.es {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-itelsys.ma {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -22858,6 +22853,11 @@ info-sms.su {
     rcode NXDOMAIN 
 }
 }
+ingbkpl.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inipost.net {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -24799,6 +24799,11 @@ seatwave.ru {
 }
 }
 365abcd.net {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+escaixa.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -27689,11 +27694,6 @@ hiptool.net {
 }
 }
 hostzaa.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-ismf.com.ng {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -33603,6 +33603,11 @@ fungalor.com {
     rcode NXDOMAIN 
 }
 }
+gadzety.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 galeriapn.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -35678,6 +35683,11 @@ pay81-olx.pl {
     rcode NXDOMAIN 
 }
 }
+payoner.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pc-sklep.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -35803,12 +35813,22 @@ pln.m-olx.us {
     rcode NXDOMAIN 
 }
 }
+plpkobp.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 plusiidi.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
 }
 plus-500.ltd {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-dane.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -36204,6 +36224,11 @@ urzadskb.net {
 }
 }
 varicolen.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+vbpremia.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -37484,6 +37509,11 @@ ad.wretch.cc {
 }
 }
 mciegroup.ru {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+caixamob.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -40798,16 +40828,6 @@ bilhen.co.za {
     rcode NXDOMAIN 
 }
 }
-crecerco.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-ctracknxt.in {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 d9.99ddd.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -40938,6 +40958,11 @@ neverless.nl {
     rcode NXDOMAIN 
 }
 }
+ntk-indo.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 orion445.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -40964,6 +40989,11 @@ shopsofe.com {
 }
 }
 sinar.com.pe {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+soru.umre.tc {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -48143,6 +48173,11 @@ superemail.pl {
     rcode NXDOMAIN 
 }
 }
+szaszlyk.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 szklarnia.top {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -48474,6 +48509,11 @@ aleciezko.icu {
 }
 }
 all-player.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+alphahaul.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -49978,12 +50018,22 @@ pl-saves.surf {
     rcode NXDOMAIN 
 }
 }
+pl-zgoda.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 po.fyybox.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
 }
 pocztomix.net {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pocztowysa.pl {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -50004,6 +50054,11 @@ pogodasub.com {
 }
 }
 polic.you2.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+polki-nago.pl {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -56233,11 +56288,6 @@ infovator.com {
     rcode NXDOMAIN 
 }
 }
-iris101.co.uk {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 islahtech.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -56324,6 +56374,11 @@ namnyak.co.ke {
 }
 }
 nilinkeji.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+nurmarkaz.org {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -63708,6 +63763,11 @@ esa-ochrona.pl {
     rcode NXDOMAIN 
 }
 }
+eu.hotkid.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 europaubram.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -63954,6 +64014,11 @@ myrobotboy.com {
 }
 }
 nabardzkiej.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+narzedzia.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -65903,6 +65968,11 @@ pl-makepay.xyz {
     rcode NXDOMAIN 
 }
 }
+pl-obecny.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pl-oferta.info {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -65939,6 +66009,16 @@ pl-receive.xyz {
 }
 }
 pl-safepay.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-sendit.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-usluga.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -72579,11 +72659,6 @@ brightmega.com {
 }
 }
 caballo.com.au {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-crearechile.cl {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -81718,6 +81793,11 @@ go2internal.com {
     rcode NXDOMAIN 
 }
 }
+hotgirl4you.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 largetfarget.ga {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -82658,6 +82738,11 @@ kryptoportal.pl {
     rcode NXDOMAIN 
 }
 }
+ksaikeerthi.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 ksero-krosno.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -83093,6 +83178,11 @@ olx.get-pl.shop {
     rcode NXDOMAIN 
 }
 }
+olx.pl-log.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 onet24pl.pvi.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -83293,6 +83383,11 @@ pl-payouts.work {
     rcode NXDOMAIN 
 }
 }
+pl-przelew.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pl-safedeal.xyz {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -83304,6 +83399,11 @@ pl-savepost.xyz {
 }
 }
 pl-univest.life {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-wysylka.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -83608,6 +83708,11 @@ sprawykarne.net {
     rcode NXDOMAIN 
 }
 }
+ssl.dotpay.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 starmach.com.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -83804,6 +83909,11 @@ winin-spect.xyz {
 }
 }
 worlds-news.org {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+wp-aplikacja.pl {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -89908,11 +90018,6 @@ nimboohomes.com {
     rcode NXDOMAIN 
 }
 }
-nomadicbees.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 onlinesgate.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -90098,6 +90203,11 @@ wimbamusica.com {
     rcode NXDOMAIN 
 }
 }
+winnercircle.it {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 writtendeer.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -90209,6 +90319,11 @@ ads.bigfoot.com {
 }
 }
 ads.cheabit.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+ads.doit.com.cn {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -99213,6 +99328,11 @@ beauty-direct.pl {
     rcode NXDOMAIN 
 }
 }
+beforppl995.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 behlenjoiner.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -99804,6 +99924,11 @@ geminioption.com {
 }
 }
 getfilesfrom.net {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+getihbank.online {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -100428,6 +100553,11 @@ olx.moferta.live {
     rcode NXDOMAIN 
 }
 }
+olx.orderpl.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx-banking.page {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -100509,6 +100639,26 @@ olx-purchase.com {
 }
 }
 olx.get-pl.store {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-post.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sale.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-shop.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sold.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -100738,6 +100888,11 @@ pl-savemoney.xyz {
     rcode NXDOMAIN 
 }
 }
+pl-wprowadz.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pl.olx-ofert.art {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -100913,6 +101068,11 @@ przesylki-olx.pl {
     rcode NXDOMAIN 
 }
 }
+reactnow019.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 realnyzarobek.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -100989,6 +101149,11 @@ secure-safety.su {
 }
 }
 seks-telefon.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+sharp-gossip.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -108073,11 +108238,6 @@ akdvidyalaya.com {
     rcode NXDOMAIN 
 }
 }
-alltheway.travel {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 angelsdetour.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -108159,11 +108319,6 @@ elbauldenora.com {
 }
 }
 es.paymelist.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-ethereality.info {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -108384,6 +108539,11 @@ textbookshub.com {
 }
 }
 thefuturelife.in {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+tradebitxtra.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -117993,6 +118153,11 @@ dostaw-safety.com {
     rcode NXDOMAIN 
 }
 }
+do-oddania.waw.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 drunkenboyz.za.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -118583,6 +118748,11 @@ m-olx-oferta.name {
     rcode NXDOMAIN 
 }
 }
+naszakronika.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 naszaplaneta.site {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -118753,6 +118923,11 @@ olx-pl.depget.com {
     rcode NXDOMAIN 
 }
 }
+olx-pl.ez-pays.ru {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx-protection.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -118779,6 +118954,46 @@ olx.online-pay.pl {
 }
 }
 olx.oplata-is.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-0rder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-buyed.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-holds.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-posts.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-saled.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sales.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-saves.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sklep.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -118948,6 +119163,11 @@ pl-paidoffer.site {
     rcode NXDOMAIN 
 }
 }
+pl-pieniadze.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pl-saleorder.casa {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -118994,6 +119214,11 @@ polska24.ehost.pl {
 }
 }
 polskadziennik.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+polskaonline.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -119184,6 +119409,11 @@ safe-deliverry.su {
 }
 }
 sapapartamenty.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+seamcommunlty.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -136313,6 +136543,11 @@ kirstenbijlsma.com {
     rcode NXDOMAIN 
 }
 }
+klub-rossmann.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 komendapolska.site {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -136533,6 +136768,11 @@ olszewski.ehost.pl {
     rcode NXDOMAIN 
 }
 }
+olx.plskontas.casa {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olxpl.moneta.world {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -136603,6 +136843,16 @@ olx.pay-safe.store {
     rcode NXDOMAIN 
 }
 }
+olx.pl-mkonto.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-oferfa.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-safebuy.icu {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -136619,6 +136869,11 @@ olx.pl-savebuy.icu {
 }
 }
 olx.pl-savebuy.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-wyjazd.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -136749,6 +137004,11 @@ pl-getpayment.club {
 }
 }
 pl-olxsafedeal.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-realizacja.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -144348,11 +144608,6 @@ cdn.mypcbackup.com {
     rcode NXDOMAIN 
 }
 }
-alemelektronik.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 ayahuascasp.com.br {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -144438,17 +144693,17 @@ drpamelageorge.com {
     rcode NXDOMAIN 
 }
 }
-dsenterprize.co.za {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 esnconsultants.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
 }
 facadecreation.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+facility.nfooz.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -144644,11 +144899,6 @@ test.adventser.com {
 }
 }
 theurbantutors.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-tidymasters.com.au {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -152558,6 +152808,11 @@ city-news.dkonto.pl {
     rcode NXDOMAIN 
 }
 }
+client-getin.online {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 cloud-idea-bank.xyz {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -152574,6 +152829,11 @@ connessionedati.com {
 }
 }
 cotamsiestaloo.site {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+cotamssiestalo.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -152888,6 +153148,21 @@ inpost.pay-web.site {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-hold.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-post.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-sold.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 interia24.dfirma.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -153108,6 +153383,11 @@ naszapolskaa.online {
     rcode NXDOMAIN 
 }
 }
+naszeitvmiasto.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 naszewiadomosci.xyz {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -153149,6 +153429,11 @@ nominatedoratio.xyz {
 }
 }
 noniegadajjtak.site {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+noweinformacje.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -153263,7 +153548,52 @@ olx-uzyskiwaniie.pl {
     rcode NXDOMAIN 
 }
 }
+olx.dostawa-pl.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.livrare-ro.info {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-buypost.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getbuys.shop {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getdeal.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getpost.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-holding.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-makepay.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-newdeal.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-ordered.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -153319,6 +153649,11 @@ olx.pl-savedbuy.icu {
 }
 }
 olx.pl-savedbuy.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-savepay.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -160538,6 +160873,11 @@ boutiqueofferte.com {
     rcode NXDOMAIN 
 }
 }
+brickwholesaler.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 btdapi.robotake.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -160718,11 +161058,6 @@ pablobrothel.com.ar {
     rcode NXDOMAIN 
 }
 }
-pagos.krayem.com.mx {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 posmicrosystems.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -160794,6 +161129,11 @@ tencoconsulting.com {
 }
 }
 test.onefourlab.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+test.wanepghana.org {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -168748,6 +169088,11 @@ katarzynaczochara.pl {
     rcode NXDOMAIN 
 }
 }
+kobiecespojrzenie.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 krakow-elektryk24.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -169513,6 +169858,16 @@ inpost-zamowienie.pl {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-0rder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-posts.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 interactivetrade.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -169798,6 +170153,31 @@ olx.com-id381949.xyz {
     rcode NXDOMAIN 
 }
 }
+olx.pl-getdeals.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getposts.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getsells.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-makepays.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-paydeals.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-safebuyed.icu {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -169809,6 +170189,11 @@ olx.pl-safebuyed.xyz {
 }
 }
 olx.pl-safebuys.cyou {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-safedeal.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -169843,6 +170228,11 @@ olx.pl-savebuys.work {
     rcode NXDOMAIN 
 }
 }
+olx.pl-savecash.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-savedbuy.club {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -169864,6 +170254,16 @@ olx.pl-savedbuy.work {
 }
 }
 olx.pl-savesbuy.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sprzedaz.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl.reg-item.site {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -169993,6 +170393,11 @@ plposzukiwania.space {
     rcode NXDOMAIN 
 }
 }
+pl-upowaznienie.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pl.pay-mentos.online {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -170004,6 +170409,11 @@ pocztaregulamin.link {
 }
 }
 poczta-regulamin.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+poczta.pl-posts.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -176408,6 +176818,11 @@ cleanbydesignllc.com {
     rcode NXDOMAIN 
 }
 }
+colinde.pricesne.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 crittersbythebay.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -176463,6 +176878,11 @@ freecnetdownload.com {
     rcode NXDOMAIN 
 }
 }
+hellogorgeous.com.au {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 hendersoncryptoa.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -176498,11 +176918,6 @@ jhayesconsulting.com {
     rcode NXDOMAIN 
 }
 }
-kaizenjanitorial.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 kalogirosfinance.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -176534,11 +176949,6 @@ myritz.vettickal.com {
 }
 }
 orientgatewayltd.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-pastorpaulocosta.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -182858,6 +183268,11 @@ fidelity-assetltd.com {
     rcode NXDOMAIN 
 }
 }
+findthemtoday540.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 find-best-profits.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -182988,6 +183403,16 @@ informacyjny-punkt.eu {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-getbuys.icu {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getbuys.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inpost.pl-safebuy.icu {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -183034,6 +183459,11 @@ komputery-szczytno.pl {
 }
 }
 konstrukcjewronski.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+konsyliumoplakow.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -183268,6 +183698,21 @@ olx.pay-otrymac.store {
     rcode NXDOMAIN 
 }
 }
+olx.pl-holdmoney.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-holdorder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-logowanie.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-safebuyed.shop {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -183278,7 +183723,42 @@ olx.pl-safebuyed.work {
     rcode NXDOMAIN 
 }
 }
+olx.pl-safelypay.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-safelyway.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-safeposta.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-savebuyed.cyou {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-saveposta.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-sellorder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-soldorder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-wdrazanie.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -183384,6 +183864,11 @@ paribas-logowanie.xyz {
 }
 }
 parkingairport.com.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+payback-aplikacja.biz {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -183764,6 +184249,11 @@ up2date.moonfruit.com {
 }
 }
 verify.libertrust.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+wecanfindthem155.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -188963,6 +189453,11 @@ blog.difusodesign.com {
     rcode NXDOMAIN 
 }
 }
+columbia.aula-web.net {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 connectcapital.com.br {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -189093,11 +189588,6 @@ pinpoint-shopping.com {
     rcode NXDOMAIN 
 }
 }
-recyclethesurplus.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
 redchillicrackers.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -189109,11 +189599,6 @@ reseller.digimitra.in {
 }
 }
 secure-doc-reader.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-shoblasaathitrust.org {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195068,6 +195553,41 @@ inpost.oferda-pl.space {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-confirm.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getbuys.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getbuys.cyou {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getbuys.shop {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getbuys.work {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getdeal.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-makepay.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inpost.pl-safebuy.shop {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -195104,6 +195624,11 @@ inpost.pl-savebuys.xyz {
 }
 }
 inpost.pl-savedbuy.icu {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-savepay.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195358,7 +195883,27 @@ olx.dostawa-secure.com {
     rcode NXDOMAIN 
 }
 }
+olx.pl-buyordered.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getordered.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl-oplata-cash.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-safeorders.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-saleorders.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195369,6 +195914,11 @@ olx.pl-savedmoney.shop {
 }
 }
 olx.pl-savedmoney.work {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-weryfikacja.bid {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195388,6 +195938,11 @@ olx.poland-orders.shop {
     rcode NXDOMAIN 
 }
 }
+olx.polska-ofer1o.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.polska-oferdo.name {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -195399,6 +195954,11 @@ olx.polska-oferdo.work {
 }
 }
 olx.polska-oferdo.zone {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.polska-ofertl.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195498,6 +196058,11 @@ pl.centrumoferty24.com {
     rcode NXDOMAIN 
 }
 }
+placowka-pocztowa.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 placowka-pocztowa.site {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -195593,6 +196158,11 @@ pokicotodzialaiok.cyou {
     rcode NXDOMAIN 
 }
 }
+polityka-onetkonto.net {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 polska24.serwerplus.pl {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -195684,6 +196254,11 @@ prostozkraju.dkonto.pl {
 }
 }
 prywatniepolska.online {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+przejdzmydoseddna.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -195899,6 +196474,11 @@ wiedzacodziennatv.info {
 }
 }
 wirtualneinformacje.eu {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+wirtualnemiasto24.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -200583,6 +201163,11 @@ parallel.rockvideos.at {
     rcode NXDOMAIN 
 }
 }
+pilotcleaning2007a.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pratibha.koshalnews.in {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -200609,11 +201194,6 @@ sacredscentsonline.com {
 }
 }
 scarfaceindustries.com {
-  template ANY ANY {
-    rcode NXDOMAIN 
-}
-}
-serviciovirtual.com.ar {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -206173,6 +206753,21 @@ informacje-polskie.cyou {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-getposts.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-makepays.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-orderbuy.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inpost.pl-safebuyed.xyz {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -206194,6 +206789,11 @@ inpost.pl-safebuys.shop {
 }
 }
 inpost.pl-safebuys.work {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-safedeal.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -206413,12 +207013,32 @@ ogladaj-przechwycone.eu {
     rcode NXDOMAIN 
 }
 }
+olx.pl.informacija.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx-express-delivery.pl {
   template ANY ANY {
     rcode NXDOMAIN 
 }
 }
 olx-pl.payment-banks.ga {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-autoryzacja.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-getpayments.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-weryfikacja.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -206514,6 +207134,16 @@ plebiscyt-krakow.v00.pl {
 }
 }
 poczta.interia-pl.space {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+poczta.pl-getposts.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+poczta.pl-savecash.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -206644,6 +207274,11 @@ reportaz-live.dfirma.pl {
 }
 }
 retirewellinvestors.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+roznerowzzwiazania.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -206799,6 +207434,11 @@ tojestnewsprawdziwy.xyz {
 }
 }
 tomisiepoddobalotv.site {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+toniejjesjtnonsens.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -210939,6 +211579,11 @@ sindpol.tiejuris.com.br {
 }
 }
 spainblogmandala.org.za {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+spainblogmandala.web.za {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -215498,6 +216143,11 @@ allegro.llokalnie.online {
     rcode NXDOMAIN 
 }
 }
+allegro.lokallnie.online {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 allegro.lokalnie.digital {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -215738,6 +216388,11 @@ info.orlen-platform.site {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-holdorder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inpost.pl-safebuyed.shop {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -215754,6 +216409,16 @@ inpost.pl-savebuyed.cyou {
 }
 }
 inpost.pl-savedmoney.icu {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-sellorder.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-soldorder.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -215909,6 +216574,16 @@ olx-pl.pay-secure.com.ru {
 }
 }
 olx-pl.safe-delivery.win {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-konto-orders.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-safeordering.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -216234,6 +216909,11 @@ your-datingspot-here.com {
 }
 }
 zapllac-teraz-inpost.xyz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+zdazylismyzauuwazyc.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -224283,6 +224963,11 @@ bardziejzlooozone24.space {
     rcode NXDOMAIN 
 }
 }
+bardzoprzyddatneinfo.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 become-a-millionaire.info {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -224459,6 +225144,31 @@ informacje-z-polski-48.eu {
 }
 }
 innowacyjneprzedszkole.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.new-pl-oferta.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-buyordered.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-getordered.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-holdorders.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-saleorders.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -224669,6 +225379,11 @@ oglaszamy-yorki.dkonto.pl {
 }
 }
 olx-com-id-7211982.online {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl-potwierdzenie.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -224914,6 +225629,11 @@ thefortunatenutrition.com {
 }
 }
 the-bitcoinrevolution.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+tojestbardzociezzkie.site {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -230448,6 +231168,11 @@ jeszczebedziieokazzja.cyou {
     rcode NXDOMAIN 
 }
 }
+jezzellichodziiommnie.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 kobiety.podpisz-petycje.eu {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -230548,6 +231273,21 @@ olx.dostawa-161334260.site {
     rcode NXDOMAIN 
 }
 }
+olx.new-polska-oferta.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl.oferta-payment.buzz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl.oferta-payment.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 olx.pl.oferta-payment.date {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -230569,6 +231309,16 @@ paypal.activate-online.com {
 }
 }
 pemberitahuanfb.weebly.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl-olx.oferta-payment.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+pl.olx.oferta-payment.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -230679,6 +231429,11 @@ szpitalepolska24.dkonto.pl {
 }
 }
 takczyinaczejmusibyc.space {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+taktoleciwtellewizjii.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -234528,6 +235283,11 @@ amu-edu-pl.ew.r.appspot.com {
     rcode NXDOMAIN 
 }
 }
+apple.accounts-support.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 app.uniswap.info-tokens.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -234624,6 +235384,11 @@ historiazaszczepionej.co.pl {
 }
 }
 hotellwowlublin.lubuskie.lu {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+inpost.pl-safeordering.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -234799,6 +235564,16 @@ polska--wiadomosci24h.x9.eu {
 }
 }
 polskiezyciedzisiaj0.online {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+postmaster334.moonfruit.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+potwierdzenie-nadania24.bid {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -236654,6 +237429,11 @@ invest.xpcorporative.com.br {
 }
 }
 keywatch.yourpageserver.com {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+kurumsal.avantajbulvari.com {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -238648,6 +239428,11 @@ sprawdziany-odpowiedzi.bo.pl {
     rcode NXDOMAIN 
 }
 }
+579.allegro.lokalnie-pl.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 7867565564.000webhostapp.com {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -238763,6 +239548,11 @@ gkjow.yourprizeiswaiting.net {
     rcode NXDOMAIN 
 }
 }
+inpost.pl-kontos-oferta.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 inpost.wyprzedaz-polska.casa {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -238859,6 +239649,11 @@ pewiendzienzmieniazycie.site {
 }
 }
 polityka-bez-cenzury.you2.pl {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+posswiectylkonatochwile.club {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -242103,6 +242898,11 @@ nicniemusiszalemozesz.website {
     rcode NXDOMAIN 
 }
 }
+niedokoncawszystkojassne.club {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 nietrzzrzebazatopllacic.space {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -244709,6 +245509,11 @@ oddam-kotki17.microhost.com.pl {
 }
 }
 olx-biezpieczna-dostawa-pl.biz {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl.safe.oferta-payment.bid {
   template ANY ANY {
     rcode NXDOMAIN 
 }
@@ -248093,6 +248898,11 @@ offer.q8fe7jh2d79fg9n.jacazma.ir {
     rcode NXDOMAIN 
 }
 }
+olx.pl.safety.oferta-payment.bid {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
 pieklo-kobiet.podpisz-petycje.eu {
   template ANY ANY {
     rcode NXDOMAIN 
@@ -249064,6 +249874,11 @@ newsyintera24.medianewsonline.com {
 }
 }
 olx.pl-safe.oferta-payment.stream {
+  template ANY ANY {
+    rcode NXDOMAIN 
+}
+}
+olx.pl.dostawa.oferta-payment.bid {
   template ANY ANY {
     rcode NXDOMAIN 
 }
