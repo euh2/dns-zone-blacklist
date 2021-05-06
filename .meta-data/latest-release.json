@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.6.11",
-  "upstream_body": "* Updates from KADhosts, URLHaus, digitalside.it, and Adaway. (b4b611e5)",
-  "upstream_published_at": "2021-05-05T19:19:53Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.11",
-  "local_build_no": 1,
-  "local_tag_name": "3.6.11-1",
-  "minutes_since_published_at": 39
-}
+

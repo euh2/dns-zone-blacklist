@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.6.11",
-  "upstream_body": "* Updates from KADhosts, URLHaus, digitalside.it, and Adaway. (b4b611e5)",
-  "upstream_published_at": "2021-05-05T19:19:53Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.6.11"
+  "upstream_tag_name": "3.7.0",
+  "upstream_body": "* Add minecraft-hosts list. (27213aeb)\n* Updates from yoyo.org, URLHaus, digitalside.it, KADhosts, and hostsVN. (58ed572b)\n* Merge pull request #1639 from jamierocks/minecraft-hosts (40c5d280)\n* Add minecraft-hosts tracking domains (4a6715f0)",
+  "upstream_published_at": "2021-05-06T13:25:16Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.0"
 }
