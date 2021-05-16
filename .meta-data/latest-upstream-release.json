@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.7.2",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet, KADhosts, hostsVN, Badd-Boyz, and Adguard. (fda33828)\n* Add urgente.eu. (9cd1d30d)\n* Issue #1643: Fix typo im host file comment. (63fb683c)\n* Issue #1643: fix — add 28 .cn domains from ookangzheng-blacklist-cname. (f974eb03)\n* Updates from URLHaus, and regenerate the readme files. (e0487c13)\n* Move the new Windows-related text and make it a subpart of the previous section. (c2ceaa17)\n* Remove separator line, which isn't needed. (567590f9)",
-  "upstream_published_at": "2021-05-12T13:25:02Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.2"
+  "upstream_tag_name": "3.7.3",
+  "upstream_body": "* Updated from clefspeare13, yoyo.org, URLHaus, someonewhocares.org, digitalside.it, orca.pet, and KADhosts. (18f1298e)",
+  "upstream_published_at": "2021-05-16T03:22:07Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.3"
 }
