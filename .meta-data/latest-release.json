@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.7.6",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts, digitalside.it, KADhosts, adguard, and AdAway. (80a049b3)\n* Merge pull request #1665 from SageBrushes/patch-1 (c4f79360)\n* Removed JW Player entries (8da1f684)",
+  "upstream_published_at": "2021-05-25T16:52:33Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.6",
+  "local_build_no": 1,
+  "local_tag_name": "3.7.6-1",
+  "minutes_since_published_at": 46
+}
