@@ -1,5 +1,5 @@
 $TTL 60
-@ IN SOA localhost. dns-zone-blacklist. (286376 3H 1H 1W 1H)
+@ IN SOA localhost. dns-zone-blacklist. (293186 3H 1H 1W 1H)
 dns-zone-blacklist. IN NS localhost.
 
 fe CNAME .
