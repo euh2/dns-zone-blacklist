@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.7.7",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, shady-hosts, digitalside.it, orca.pet, KADhosts, Adguard, and AdAway. (70884b06)\n* Issue 1672: add speakol.com domains. (a6d995d9)",
-  "upstream_published_at": "2021-05-31T16:03:23Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.7"
+  "upstream_tag_name": "3.7.8",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, orca.pet, KADhosts, hostsVN, Adguard, and Adaway. (723f0ac6)\n* Merge pull request #1676 from DandelionSprout/patch-1 (badb91ba)\n* Ran PyFunceble on this list (35860c80)",
+  "upstream_published_at": "2021-06-07T13:37:10Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.8"
 }

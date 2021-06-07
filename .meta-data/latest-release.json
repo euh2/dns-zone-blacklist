@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.7.7",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, someonewhocares.org, shady-hosts, digitalside.it, orca.pet, KADhosts, Adguard, and AdAway. (70884b06)\n* Issue 1672: add speakol.com domains. (a6d995d9)",
-  "upstream_published_at": "2021-05-31T16:03:23Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.7",
-  "local_build_no": 1,
-  "local_tag_name": "3.7.7-1",
-  "minutes_since_published_at": 4131
-}
+
