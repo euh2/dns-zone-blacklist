@@ -1,1 +1,9 @@
-
+{
+  "upstream_tag_name": "3.7.10",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADHosts, Adguard, and AdAway. (8da7e542)\n* Add coinjoin.io. (e9c636cf)\n* Add google analytics domains from https://github.com/lightswitch05/hosts/issues/287 (2512291d)",
+  "upstream_published_at": "2021-06-23T00:28:53Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.10",
+  "local_build_no": 1,
+  "local_tag_name": "3.7.10-1",
+  "minutes_since_published_at": 49
+}
