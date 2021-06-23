@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.7.9",
-  "upstream_body": "* Updates from clefspeare13, yoyo.org, URLHaus, tiuxo, someonewhocares.org, digitalside.it, orca.pet, KADhosts, hostsVN, AdGuard, and Adaway. (89dcee98)\n* Issue #1678 — add s.clcktrax.com. (2c24227e)\n* Issue #1679 — add c.hrzn-nxt.com. (9cca4f15)\n* Issue #1675 — add vlitag.com domains. (36e70223)\n* Issue #1683 — add gmial.com domains. (f67b8cfc)",
-  "upstream_published_at": "2021-06-17T03:57:15Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.9"
+  "upstream_tag_name": "3.7.10",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADHosts, Adguard, and AdAway. (8da7e542)\n* Add coinjoin.io. (e9c636cf)\n* Add google analytics domains from https://github.com/lightswitch05/hosts/issues/287 (2512291d)",
+  "upstream_published_at": "2021-06-23T00:28:53Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.10"
 }
