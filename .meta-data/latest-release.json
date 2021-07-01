@@ -1,9 +1,1 @@
-{
-  "upstream_tag_name": "3.7.11",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, orca.pet, KADhosts, hostsVN, Adguard, and AdAway. (f69ec27d)\n* Merge pull request #1694 from FadeMind/patch-1 (926b3ca9)\n* add Title to data/StevenBlack/hosts (a5e20414)\n* whynotwin11.com (78dd9862)\n* Issue #1692: add dealabs.digidip.net. (150d8420)",
-  "upstream_published_at": "2021-06-28T14:26:44Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.11",
-  "local_build_no": 1,
-  "local_tag_name": "3.7.11-1",
-  "minutes_since_published_at": 38
-}
+
