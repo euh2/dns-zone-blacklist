@@ -1,6 +1,6 @@
 {
-  "upstream_tag_name": "3.7.12",
-  "upstream_body": "* Updates from yoyo.org, URLHaus, digitalside.it, KADHosts, and AdAway. (1164db81)\n* Merge pull request #1700 from ProgramComputer/patch-1 (7f97ee0b)\n* Update hosts (a8d4a6b2)\n* Issue ##1699 — add Chase Bank scam domains. (1c5c2dc6)",
-  "upstream_published_at": "2021-07-01T17:58:53Z",
-  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.12"
+  "upstream_tag_name": "3.7.13",
+  "upstream_body": "* Updates from yoyo.org, URLHaus, shady-hosts, digitalside.it, KADhosts, and Adaway. (cfb18f4c)",
+  "upstream_published_at": "2021-07-04T18:09:33Z",
+  "upstream_url": "https://github.com/StevenBlack/hosts/releases/tag/3.7.13"
 }
